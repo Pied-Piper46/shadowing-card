@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useState, useEffect, useCallback } from 'react';
-import { motion, AnimatePresence, PanInfo, animate } from 'framer-motion';
+import { motion, AnimatePresence, PanInfo } from 'framer-motion';
 import Card from '@/components/Card';
 import { Script } from '@/types';
 import scriptsData from '@/data/scripts.json';
