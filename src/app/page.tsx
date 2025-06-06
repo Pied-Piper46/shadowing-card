@@ -4,6 +4,7 @@ import React, { useState, useEffect, useCallback } from 'react';
 import { motion, AnimatePresence, PanInfo } from 'framer-motion';
 import Card from '@/components/Card';
 import { Script } from '@/types';
+import scriptsData from '@/data/scripts.json';
 import { ChevronUpIcon, ChevronDownIcon } from '@heroicons/react/24/solid';
 
 const ITEM_HEIGHT_GUESS = 300;
@@ -33,21 +34,7 @@ export default function HomePage() {
   const [isAnimating, setIsAnimating] = useState(false);
 
   useEffect(() => {
-    const loadScripts = async () => {
-      try {
-        const response = await fetch('./scripts.json');
-        if (!response.ok) {
-          throw new Error('Failed to load scripts');
-        }
-        const data = await response.json();
-        setScripts(data as Script[]);
-      } catch (error) {
-        console.error('Error loading scripts:', error);
-        setScripts([]);
-      }
-    };
-
-    loadScripts();
+    setScripts(scriptsData as Script[]);
   }, []);
 
   const navigate = useCallback((direction: number) => {
