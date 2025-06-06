@@ -8,9 +8,48 @@
     "description": "日常会話の基本的なフレーズ集です。"
   },
   {
+    "id": "MF_s01e04",
+    "title": "Modern Familiy - s01e04: 「ママの来襲」",
+    "category": "American TV Series",
+    "subCategory": "Modern Family",
+    "details": {
+      "series": "Modern Family",
+      "season": 1,
+      "episode": 4,
+      "episodeTitle": "ママの来襲"
+    },
+    "scriptIds": [
+      "MF_s01e04_001", "MF_s01e04_002", "MF_s01e04_003", "MF_s01e04_004", "MF_s01e04_005",
+      "MF_s01e04_006", "MF_s01e04_007", "MF_s01e04_008", "MF_s01e04_009", "MF_s01e04_010",
+      "MF_s01e04_011", "MF_s01e04_012", "MF_s01e04_013", "MF_s01e04_014", "MF_s01e04_015",
+      "MF_s01e04_016", "MF_s01e04_017", "MF_s01e04_018", "MF_s01e04_019", "MF_s01e04_020",
+      "MF_s01e04_021", "MF_s01e04_022", "MF_s01e04_023", "MF_s01e04_024", "MF_s01e04_025",
+      "MF_s01e04_026", "MF_s01e04_027", "MF_s01e04_028", "MF_s01e04_029", "MF_s01e04_030",
+      "MF_s01e04_031", "MF_s01e04_032", "MF_s01e04_033", "MF_s01e04_034", "MF_s01e04_035",
+      "MF_s01e04_036", "MF_s01e04_037", "MF_s01e04_038", "MF_s01e04_039", "MF_s01e04_040",
+      "MF_s01e04_041", "MF_s01e04_042", "MF_s01e04_043", "MF_s01e04_044", "MF_s01e04_045",
+      "MF_s01e04_046", "MF_s01e04_047", "MF_s01e04_048", "MF_s01e04_049", "MF_s01e04_050",
+      "MF_s01e04_051", "MF_s01e04_052", "MF_s01e04_053", "MF_s01e04_054", "MF_s01e04_055",
+      "MF_s01e04_056", "MF_s01e04_057", "MF_s01e04_058", "MF_s01e04_059", "MF_s01e04_060",
+      "MF_s01e04_061", "MF_s01e04_062", "MF_s01e04_063", "MF_s01e04_064", "MF_s01e04_065",
+      "MF_s01e04_066", "MF_s01e04_067", "MF_s01e04_068", "MF_s01e04_069", "MF_s01e04_070",
+      "MF_s01e04_071", "MF_s01e04_072", "MF_s01e04_073", "MF_s01e04_074", "MF_s01e04_075",
+      "MF_s01e04_076", "MF_s01e04_077", "MF_s01e04_078", "MF_s01e04_079", "MF_s01e04_080",
+      "MF_s01e04_081", "MF_s01e04_082", "MF_s01e04_083", "MF_s01e04_084", "MF_s01e04_085",
+      "MF_s01e04_086", "MF_s01e04_087", "MF_s01e04_088", "MF_s01e04_089", "MF_s01e04_090",
+      "MF_s01e04_091", "MF_s01e04_092", "MF_s01e04_093", "MF_s01e04_094", "MF_s01e04_095",
+      "MF_s01e04_096", "MF_s01e04_097", "MF_s01e04_098", "MF_s01e04_099", "MF_s01e04_100",
+      "MF_s01e04_101", "MF_s01e04_102", "MF_s01e04_103", "MF_s01e04_104", "MF_s01e04_105",
+      "MF_s01e04_106", "MF_s01e04_107", "MF_s01e04_108", "MF_s01e04_109", "MF_s01e04_110",
+      "MF_s01e04_111", "MF_s01e04_112", "MF_s01e04_113", "MF_s01e04_114", "MF_s01e04_115",
+      "MF_s01e04_116", "MF_s01e04_117"
+    ],
+    "description": "モダンファミリーシーズン１、エピソード４のスクリプトです。"
+  },
+  {
     "id": "friends_s01e01",
     "title": "Friends - S01E01: The One Where Monica Gets a Roommate",
-    "category": "Drama",
+    "category": "American TV Series",
     "subCategory": "Friends",
     "details": {
       "series": "Friends",

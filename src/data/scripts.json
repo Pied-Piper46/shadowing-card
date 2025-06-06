@@ -76,5 +76,707 @@
     "englishText": "We cannot selectively numb emotions. You cannot numb those hard feelings without numbing the other affects, our emotions.",
     "japaneseTranslation": "私たちは感情を選択的に麻痺させることはできません。他の感情を麻痺させることなく、つらい感情だけを麻痺させることはできないのです。",
     "explanation": "「selectively」は「選択的に」、「numb」は「麻痺させる」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_001",
+    "englishText": "Jay, I'm home. Did Manny call?",
+    "japaneseTranslation": "ジェイ、ただいま。マニーから電話あった？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_002",
+    "englishText": "No, because he's fine. It was a slumber party, not a gang fight.",
+    "japaneseTranslation": "いや、大丈夫だから。お泊まり会だったんだ、ギャングの喧嘩じゃない。",
+    "explanation": "「slumber party」はお泊まり会のこと。「gang fight」はギャングの喧嘩。"
+  },
+  {
+    "id": "MF_s01e04_003",
+    "englishText": "I just want him to fit in.",
+    "japaneseTranslation": "ただ彼に馴染んでほしいだけなの。",
+    "explanation": "「fit in」は「馴染む」「溶け込む」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_004",
+    "englishText": "I'm gonna take a shower. Do you care to join me?",
+    "japaneseTranslation": "シャワーを浴びるつもりなんだけど。一緒に入る？",
+    "explanation": "「gonna」は「going to」の短縮形。「Do you care to join me?」は「私と一緒に〜しませんか？」という丁寧な誘いです。"
+  },
+  {
+    "id": "MF_s01e04_005",
+    "englishText": "You know, honey, there's a gun in the footlocker in the garage.",
+    "japaneseTranslation": "ねえ、ハニー、ガレージの足元にあるロッカーに銃があるわよ。",
+    "explanation": "「footlocker」は足元に置く小型のロッカーや箱のこと。"
+  },
+  {
+    "id": "MF_s01e04_006",
+    "englishText": "If I ever say no to that question, I want you to use it on me.",
+    "japaneseTranslation": "もし私がその質問に「ノー」と言ったら、私に使ってほしいわ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_007",
+    "englishText": "Why aren't they trying to hurt each other?",
+    "japaneseTranslation": "なんで彼らは互いに傷つけ合おうとしないの？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_008",
+    "englishText": "I don't know, but I'm afraid to move.",
+    "japaneseTranslation": "わからないけど、動くのが怖い。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_009",
+    "englishText": "You are really good at this.",
+    "japaneseTranslation": "これ、本当に上手ね。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_010",
+    "englishText": "What is happening, Claire?",
+    "japaneseTranslation": "どうしたの、クレア？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_011",
+    "englishText": "I'm gonna go check on Lily",
+    "japaneseTranslation": "リリーの様子を見てくるわ。",
+    "explanation": "「check on」は「〜の様子を見る」「〜を確認する」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_012",
+    "englishText": "Hi, Mom. I didn't know you were in town. You didn't call.",
+    "japaneseTranslation": "やあ、ママ。街に来てたなんて知らなかったよ。電話くれなかったね。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_013",
+    "englishText": "Well, I couldn't wait to see your new baby. Where is she?",
+    "japaneseTranslation": "ええ、新しい赤ちゃんに会いたくてたまらなかったのよ。どこにいるの？",
+    "explanation": "「couldn't wait to ~」は「〜するのが待ちきれない」「〜したくてたまらない」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_014",
+    "englishText": "Mitchell, who was that? It's my mom.",
+    "japaneseTranslation": "ミッチェル、あれ誰？僕のママだよ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_015",
+    "englishText": "Oh yeah right. Cause the last time she was here, the refridgerator magnets rearranged themselves into a penta... Grandma!",
+    "japaneseTranslation": "ああ、そうだった。だって前回彼女が来た時、冷蔵庫のマグネットが勝手に五角形に並び替わったんだから…おばあちゃん！",
+    "explanation": "「rearrange themselves」は「勝手に並び替わる」というニュアンス。"
+  },
+  {
+    "id": "MF_s01e04_016",
+    "englishText": "Mom, what are you doing to her legs?",
+    "japaneseTranslation": "ママ、彼女の足に何してるの？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_017",
+    "englishText": "Tai Chi. I did it every day in Sedona. Cam, you should try it.",
+    "japaneseTranslation": "太極拳よ。セドナで毎日やってたの。カム、あなたもやってみたら？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_018",
+    "englishText": "Mitchell's mother has a problem with me.",
+    "japaneseTranslation": "ミッチェルの母親は私に問題があるのよ。",
+    "explanation": "「have a problem with ~」は「〜に不満がある」「〜に問題がある」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_019",
+    "englishText": "Last Christmas example. She gave me a piece of exercise equipment and a lettuce dryer",
+    "japaneseTranslation": "去年のクリスマスの例よ。彼女は私に運動器具とレタス乾燥機をくれたの。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_020",
+    "englishText": "So, to recap, I gave her a gorgeous pair of diamond earrings, and she gave me a hint.",
+    "japaneseTranslation": "つまり、まとめると、私は彼女に豪華なダイヤモンドのイヤリングをあげたのに、彼女は私にヒントをくれたってわけ。",
+    "explanation": "「to recap」は「要約すると」「まとめると」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_021",
+    "englishText": "And living in Sedona has been transformational.",
+    "japaneseTranslation": "そして、セドナでの生活は変革的だったわ。",
+    "explanation": "「transformational」は「変革的な」「大きな変化をもたらす」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_022",
+    "englishText": "I get up every morning and I go to a Vortex mediation site and work with a shaman to finally understand how to live my spirituality.",
+    "japaneseTranslation": "毎朝起きて、ボルテックス瞑想の場所に行って、シャーマンと一緒に自分の精神性をどう生きるかを最終的に理解するために取り組んでいるの。",
+    "explanation": "「Vortex mediation site」はパワースポットのような場所を指す。「shaman」はシャーマン、祈祷師。"
+  },
+  {
+    "id": "MF_s01e04_023",
+    "englishText": "And I've learned that the only way I can move to the next level of my awakening is if we all can somehow get past the incident.",
+    "japaneseTranslation": "そして、私が次の覚醒レベルに進む唯一の方法は、私たち全員がどうにかしてあの出来事を乗り越えることだと学んだわ。",
+    "explanation": "「get past the incident」は「その出来事を乗り越える」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_024",
+    "englishText": "I would like to congratulate Jay and the lovely Gloria. I'm very happy for them.",
+    "japaneseTranslation": "ジェイと素敵なグロリアにお祝いを言いたいわ。彼らのことをとても嬉しく思う。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_025",
+    "englishText": "I wanted a big beautiful wedding with Jay, because my ex-husband and I got married in a tiny little office of a judge in Colombia.",
+    "japaneseTranslation": "ジェイと盛大で美しい結婚式を挙げたかったの。だって、元夫と私はコロンビアの裁判官の小さなオフィスで結婚したから。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_026",
+    "englishText": "My mother wanted to go to the wedding to show everyone how okay she was with all of it, So I conviced Dad and Gloria to invite her.",
+    "japaneseTranslation": "母は、すべてに納得していることをみんなに見せるために結婚式に行きたがっていたの。だから、パパとグロリアを説得して彼女を招待したのよ。",
+    "explanation": "「convince A to B」は「Aを説得してBさせる」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_027",
+    "englishText": "Who warned you that that was the worst idea ever? Anyone?",
+    "japaneseTranslation": "それが史上最悪のアイデアだと誰が警告した？誰かいる？",
+    "explanation": "「worst idea ever」は「史上最悪のアイデア」という強調表現。"
+  },
+  {
+    "id": "MF_s01e04_028",
+    "englishText": "Of course, I've moved on. I was supporsed to come with a date, but he just hurt his back, which is very ironic, because he's young and healthy.",
+    "japaneseTranslation": "もちろん、私はもう立ち直ったわ。デート相手と来るはずだったんだけど、彼が背中を痛めてしまって。若いし健康なのに、皮肉なことよね。",
+    "explanation": "「move on」は「立ち直る」「次に進む」という意味。「ironic」は「皮肉な」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_029",
+    "englishText": "My mom started drinking these cocktails called Horny Colombians with some of Gloria's uncles, whom apparently the drink was named after.",
+    "japaneseTranslation": "母はグロリアのおじさんたちと「ホーニー・コロンビアン」というカクテルを飲み始めたの。どうやらその飲み物はおじさんたちの名前から取られたらしいわ。",
+    "explanation": "「whom apparently the drink was named after」は関係代名詞を使った少し複雑な構文。"
+  },
+  {
+    "id": "MF_s01e04_030",
+    "englishText": "They kept patting my butt. Somebody's full of herself. It's a Colombian wedding tradition, they said.",
+    "japaneseTranslation": "彼らは私のお尻を叩き続けたわ。「誰かさんはうぬぼれてるね」って。コロンビアの結婚式の伝統だって言ってたけど。",
+    "explanation": "「patting my butt」はお尻を叩くこと。「Somebody's full of herself」は「うぬぼれている」という皮肉な表現。"
+  },
+  {
+    "id": "MF_s01e04_031",
+    "englishText": "I would like to make a toast.",
+    "japaneseTranslation": "乾杯の音頭を取りたいと思います。",
+    "explanation": "「make a toast」は「乾杯する」「乾杯の音頭を取る」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_032",
+    "englishText": "Yeah, Nana got totally wasted. It was really funny. Then it was gross.",
+    "japaneseTranslation": "ええ、ナナは完全に酔っ払ってたわ。最初はすごく面白かったんだけど、その後はひどかった。",
+    "explanation": "「get wasted」はスラングで「ひどく酔っ払う」という意味。「gross」は「ひどい」「気持ち悪い」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_033",
+    "englishText": "To the bride and the groom, my ex. Thirty-five years we were together, and he couldn't wait 10 minutes to run off with Charo.",
+    "japaneseTranslation": "新郎新婦に、そして私の元夫に。35年間一緒にいたのに、彼はチャロと駆け落ちするのに10分も待てなかったのよ。",
+    "explanation": "「run off with ~」は「〜と駆け落ちする」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_034",
+    "englishText": "Seriously, I knew they were perfect for each other when I saw his wallet and her boobs.",
+    "japaneseTranslation": "真剣な話、彼の財布と彼女の胸を見た時、彼らが完璧な組み合わせだとわかったわ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_035",
+    "englishText": "Take your hands off me. What'd you take, your Claire pill?",
+    "japaneseTranslation": "私に触らないで。何飲んだの？クレアの薬でも飲んだ？",
+    "explanation": "「Take your hands off me」は「私に触るな」という強い表現。「What'd you take」は「What did you take」の短縮形。"
+  },
+  {
+    "id": "MF_s01e04_036",
+    "englishText": "During my vows to my first husband, drug dealers burst in and assassinated the judge. This was way worse.",
+    "japaneseTranslation": "最初の夫との誓いの最中に、麻薬の売人が乱入して裁判官を暗殺したの。これはそれよりずっとひどかったわ。",
+    "explanation": "「vows」は「誓い」。「burst in」は「乱入する」。「assassinated」は「暗殺した」。「way worse」は「はるかにひどい」という強調表現。"
+  },
+  {
+    "id": "MF_s01e04_037",
+    "englishText": "What can I say? I drive woman crazy. It's too soon I guess.",
+    "japaneseTranslation": "何て言えばいい？俺は女を夢中にさせるんだ。まだ早すぎたかな。",
+    "explanation": "「drive someone crazy」は「誰かを夢中にさせる」「誰かを狂わせる」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_038",
+    "englishText": "Everybody is going to be there, Mom.",
+    "japaneseTranslation": "みんなそこにいるよ、ママ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_039",
+    "englishText": "I don't care. Your father and I are not about to let you drive two hours to go to a concert and then spend the night with a bunch of boys.",
+    "japaneseTranslation": "気にしないわ。あなたのお父さんと私は、あなたが2時間も運転してコンサートに行って、そのあと男の子たちと一晩過ごすなんて絶対に許さないわ。",
+    "explanation": "「not about to ~」は「〜するつもりはない」「絶対に〜しない」という強い否定表現。"
+  },
+  {
+    "id": "MF_s01e04_040",
+    "englishText": "especially that 17-year-old hormone you're dating.",
+    "japaneseTranslation": "特にあなたが付き合っている17歳のホルモン野郎とはね。",
+    "explanation": "「hormone」はここでは「ホルモンに支配された若者」という侮蔑的な意味合いで使われている。"
+  },
+  {
+    "id": "MF_s01e04_041",
+    "englishText": "It's totally supervised. By Spencer Patine's uncle, the guy with the arm.",
+    "japaneseTranslation": "完全に監視されてるよ。スペンサー・パティーンのおじさんが見てるんだ、腕のある人だよ。",
+    "explanation": "「supervised」は「監視されている」。「the guy with the arm」は腕に特徴がある人物を指す。"
+  },
+  {
+    "id": "MF_s01e04_042",
+    "englishText": "Wait, what kind of arm? What does that even mean?",
+    "japaneseTranslation": "待って、どんな腕？それってどういう意味？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_043",
+    "englishText": "I'll be sure to include that in my Amber Alert.",
+    "japaneseTranslation": "それを私のアンバーアラートに必ず含めておくわ。",
+    "explanation": "「Amber Alert」はアメリカの緊急児童誘拐警報システムのこと。皮肉を込めて言っている。"
+  },
+  {
+    "id": "MF_s01e04_044",
+    "englishText": "Okay. Can I step in here? I think I can help. Haley, what your mom is worried about is you getting your heart broken when Dylan goes off to college",
+    "japaneseTranslation": "よし。ここに入ってもいいかな？手助けできると思うんだ。ヘイリー、君のお母さんが心配しているのは、ディランが大学に行って君が傷つくことだよ。",
+    "explanation": "「step in」は「介入する」「口を挟む」。「get your heart broken」は「失恋する」「傷つく」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_045",
+    "englishText": "That's not what I'm even thinking. He's not going to college?",
+    "japaneseTranslation": "そんなこと全然考えてないよ。彼、大学に行かないの？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_046",
+    "englishText": "He's in a band, okay? They're going on tour.",
+    "japaneseTranslation": "彼はバンドをやってるの、いい？ツアーに出るんだから。",
+    "explanation": "「go on tour」は「ツアーに出る」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_047",
+    "englishText": "Oh, this just gets better and better.",
+    "japaneseTranslation": "ああ、これはどんどんひどくなるわね。",
+    "explanation": "「gets better and better」は通常「どんどん良くなる」という意味だが、ここでは皮肉を込めて「どんどんひどくなる」という意味で使われている。"
+  },
+  {
+    "id": "MF_s01e04_048",
+    "englishText": "Why are you always on me about everything?",
+    "japaneseTranslation": "なんでいつも私にばかり文句を言うの？",
+    "explanation": "「be on someone about something」は「〜について誰かに文句を言う」「〜について誰かを責める」という意味の口語表現。"
+  },
+  {
+    "id": "MF_s01e04_049",
+    "englishText": "Okay, now everybody calm down. Let's start from the beginning. What's wrong with Spencer's arm?",
+    "japaneseTranslation": "よし、みんな落ち着いて。最初から始めよう。スペンサーの腕、どうしたんだ？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_050",
+    "englishText": "Hi baby. Did you have fun at the slumber party? You must be exhausted.",
+    "japaneseTranslation": "やあ、坊や。お泊まり会は楽しかった？さぞ疲れたでしょう。",
+    "explanation": "「exhausted」は「疲れ果てた」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_051",
+    "englishText": "No, I'm not tired at all. I was the first one to fall asleep.",
+    "japaneseTranslation": "いや、全然疲れてないよ。僕が一番最初に寝ちゃったんだ。",
+    "explanation": "「not tired at all」は「全く疲れていない」という強調表現。"
+  },
+  {
+    "id": "MF_s01e04_052",
+    "englishText": "What's on your face?",
+    "japaneseTranslation": "顔に何かついてるよ？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_053",
+    "englishText": "A smile from having such a great time with my friends.",
+    "japaneseTranslation": "友達とすごく楽しい時間を過ごしたから、笑顔だよ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_054",
+    "englishText": "Oh, that's why they were laughing. I thought it was my funny take on current events.",
+    "japaneseTranslation": "ああ、だから笑ってたのか。僕は時事問題に対する僕の面白い見解だと思ってたよ。",
+    "explanation": "「funny take on ~」は「〜に対する面白い見解」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_055",
+    "englishText": "Why would they do something like that?",
+    "japaneseTranslation": "なんでそんなことするんだ？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_056",
+    "englishText": "Don't worry about it. Guys pull pranks like that all the time. You just gotta prank them back.",
+    "japaneseTranslation": "気にするなよ。男の子たちはいつもああいういたずらをするもんだ。やり返せばいいんだよ。",
+    "explanation": "「pull pranks」は「いたずらをする」。「all the time」は「いつも」「しょっちゅう」。「gotta」は「got to」の短縮形。"
+  },
+  {
+    "id": "MF_s01e04_057",
+    "englishText": "You just gotta show them you're willing to give as good as you get.",
+    "japaneseTranslation": "やられたらやり返す気があるってことを示せばいいんだ。",
+    "explanation": "「give as good as you get」は「やられたらやり返す」「報復する」という慣用句。"
+  },
+  {
+    "id": "MF_s01e04_058",
+    "englishText": "Well, Mom, instead of dredging up the whole incident, maybe we should just try and repress it, like a normal family.",
+    "japaneseTranslation": "ママ、その出来事を全部掘り起こす代わりに、普通の家族みたいに、ただ抑圧しようとすべきじゃないかな。",
+    "explanation": "「dredge up」は「（嫌なことを）掘り起こす」。「repress」は「抑圧する」「抑え込む」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_059",
+    "englishText": "I can't. I need closure. I'm about to embark on a new journey. I met a man.",
+    "japaneseTranslation": "できないわ。区切りが必要なの。新しい旅に出ようとしているのよ。ある男性に出会ったの。",
+    "explanation": "「closure」は「区切り」「解決」。「embark on a new journey」は「新しい旅に出る」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_060",
+    "englishText": "His name is Chas and he's asked me to come live with him in his foreign land.",
+    "japaneseTranslation": "彼の名前はチャスで、彼の異国の地で一緒に住んでほしいと頼まれたの。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_061",
+    "englishText": "Oh where? Canada.",
+    "japaneseTranslation": "あら、どこ？カナダよ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_062",
+    "englishText": "It's wonderful. It's just that when I think of all the awful things that I said to Gloria and Jay, I feel such guilt.",
+    "japaneseTranslation": "素晴らしいわ。ただ、グロリアとジェイに言ったひどいことすべてを考えると、とても罪悪感を感じるの。",
+    "explanation": "「awful things」は「ひどいこと」。「feel such guilt」は「とても罪悪感を感じる」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_063",
+    "englishText": "Give it time. And see Banff.",
+    "japaneseTranslation": "時間が解決してくれるさ。バンフも見てきて。",
+    "explanation": "「Give it time」は「時間が解決してくれる」という慣用句。"
+  },
+  {
+    "id": "MF_s01e04_064",
+    "englishText": "I just can't give myself to him sexually.",
+    "japaneseTranslation": "彼に性的に身を任せることができないの。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_065",
+    "englishText": "Okay, Mom. Did not see that coming.",
+    "japaneseTranslation": "わかったよ、ママ。それは予想外だったな。",
+    "explanation": "「Did not see that coming」は「それは予想外だった」「そう来るとは思わなかった」という口語表現。"
+  },
+  {
+    "id": "MF_s01e04_066",
+    "englishText": "Oh, don't get me wrong. We satisfy each other down there.",
+    "japaneseTranslation": "ああ、誤解しないでね。私たちは下半身ではお互いを満足させているわ。",
+    "explanation": "「Don't get me wrong」は「誤解しないで」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_067",
+    "englishText": "That's why I need everyone's forgiveness. I need your help, Mitchell.",
+    "japaneseTranslation": "だからみんなの許しが必要なの。あなたの助けが必要なのよ、ミッチェル。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_068",
+    "englishText": "Did you hear that, Mitchell? Your mom needs your help to make love to her new man, Chas. That's not weird at all",
+    "japaneseTranslation": "聞いたか、ミッチェル？お前のママは新しい男、チャスと愛し合うために、お前の助けが必要なんだと。全然変じゃないな。",
+    "explanation": "「make love to ~」は「〜と愛し合う」という意味。「That's not weird at all」は皮肉を込めて「全く変じゃない」と言っている。"
+  },
+  {
+    "id": "MF_s01e04_069",
+    "englishText": "Mom, I'm not really sure what you're asking me to do, Mom.",
+    "japaneseTranslation": "ママ、僕に何をしろって言ってるのか、よくわからないよ、ママ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_070",
+    "englishText": "Everyone's mad at me. Maybe you could pave the way so that I can apologize.",
+    "japaneseTranslation": "みんな私に怒ってるの。もしかしたら、あなたが私が謝れるように道を開いてくれるかもしれないわ。",
+    "explanation": "「pave the way for ~」は「〜のために道を開く」「〜のお膳立てをする」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_071",
+    "englishText": "Well, you know, we are actually all supposed to have Sunday dinner tonight, so maybe, I could go around and ask everyone if it's ok for you to join us.",
+    "japaneseTranslation": "ええと、実は今夜みんなで日曜の夕食を食べる予定なんだ。だから、もしかしたら、みんなにあなたが参加しても大丈夫か聞いて回れるかもしれない。",
+    "explanation": "「be supposed to ~」は「〜することになっている」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_072",
+    "englishText": "Oh! I knew I could count on you. my beautiful boy. I love you so much.",
+    "japaneseTranslation": "ああ！やっぱりあなたを頼りにしてよかったわ。私の可愛い坊や。本当に愛してるわ。",
+    "explanation": "「count on ~」は「〜を頼りにする」「〜を当てにする」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_073",
+    "englishText": "There's a fish in nature that swims around with its babies in its mouth. That fish would look at Mitchell's relationship with his mother, and say, that's messed up.",
+    "japaneseTranslation": "自然界には、口の中に赤ちゃんを入れて泳ぎ回る魚がいるわ。その魚がミッチェルと母親の関係を見たら、「それはおかしい」って言うでしょうね。",
+    "explanation": "「messed up」はスラングで「めちゃくちゃだ」「おかしい」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_074",
+    "englishText": "Hey. Things with your mom got pretty intense down there, huh? All like East Coast-West Coast. You feeling me?",
+    "japaneseTranslation": "おい。お前のママとの関係、かなり激しくなってるな、おい？まるで東海岸と西海岸の対立みたいだ。俺の言ってることわかるか？",
+    "explanation": "「intense」は「激しい」。「East Coast-West Coast」はアメリカの東西対立を指す。「You feeling me?」は「私の言っていることわかる？」という口語表現。"
+  },
+  {
+    "id": "MF_s01e04_075",
+    "englishText": "Act like a parent, talk like a peer. I call it Peerenting. I learned it from my own dad, who used to walk into my room and say,",
+    "japaneseTranslation": "親のように振る舞い、仲間のように話す。僕はそれを「ピアレンティング」と呼んでいる。自分の父親から学んだんだ。父はよく僕の部屋に入ってきてこう言ったものさ、",
+    "explanation": "「Peerenting」は「Parenting（子育て）」と「Peer（仲間）」を組み合わせた造語。"
+  },
+  {
+    "id": "MF_s01e04_076",
+    "englishText": "What's up, Sweathog?",
+    "japaneseTranslation": "どうした、汗かき豚？",
+    "explanation": "「Sweathog」はスラングで、不潔な人や魅力のない人を指す。"
+  },
+  {
+    "id": "MF_s01e04_077",
+    "englishText": "Honey, I would love to let you go to the concert. Are you kidding me? I think concerts are rad. Hello? I was a Hall-Raiser.",
+    "japaneseTranslation": "ハニー、コンサートに行かせてあげたいわ。冗談でしょ？コンサートって最高だと思うわ。もしもし？私はホール・レイザーだったのよ。",
+    "explanation": "「Are you kidding me?」は「冗談でしょ？」。「rad」はスラングで「素晴らしい」「最高」。「Hall-Raiser」はHall & Oatesのファンを指す造語。"
+  },
+  {
+    "id": "MF_s01e04_078",
+    "englishText": "A What?",
+    "japaneseTranslation": "え、何？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_079",
+    "englishText": "I followed Hall & Oates around the country one summer. Rich Girl just spoke to me. I was dating this girl.",
+    "japaneseTranslation": "ある夏、ホール＆オーツを追って全国を回ったの。「リッチ・ガール」が私に語りかけてきたのよ。この女の子と付き合ってたの。",
+    "explanation": "「spoke to me」は「心に響いた」「共感した」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_080",
+    "englishText": "Okay, Mom just doesn't trust me, and it's not fair.",
+    "japaneseTranslation": "もう、ママは私を信用してないだけなんだ。不公平だよ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_081",
+    "englishText": "She trusts you, it's just that weird stuff happens at concerts. Boys get urges",
+    "japaneseTranslation": "彼女は君を信頼しているさ、ただコンサートでは変なことが起こるんだ。男の子たちは衝動に駆られるからね。",
+    "explanation": "「get urges」は「衝動に駆られる」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_082",
+    "englishText": "Ew! Dad, is there something you want?",
+    "japaneseTranslation": "うわ！パパ、何か用？",
+    "explanation": "「Ew!」は嫌悪感を表す間投詞。"
+  },
+  {
+    "id": "MF_s01e04_083",
+    "englishText": "Yes, there is. To connect with this girl right here. Now come on, pretend I'm not your dad. We're just a couple of friends kicking it in a juice bar.",
+    "japaneseTranslation": "ああ、あるよ。ここにいるこの子と繋がりたいんだ。さあ、僕が君のパパじゃないふりをしてくれ。僕たちはただの友達で、ジュースバーでくつろいでるだけさ。",
+    "explanation": "「kick it」はスラングで「くつろぐ」「ぶらぶらする」という意味。"
+  },
+  {
+    "id": "MF_s01e04_084",
+    "englishText": "Who's dad? Hey, Haley. How's it going with you and Dylan? Has he tried anything inappropriate with you, girl?",
+    "japaneseTranslation": "誰がパパだって？ヘイリー、ディランとはどう？彼、何か不適切なことしようとした？",
+    "explanation": "「inappropriate」は「不適切な」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_085",
+    "englishText": "Hey, I don't know. Nothing, just talking to some dork I met in a malt shop.",
+    "japaneseTranslation": "ねえ、知らないよ。何でもない、ただモルトショップで会った変なやつと話してただけ。",
+    "explanation": "「dork」はスラングで「ダサい人」「変人」という意味。「malt shop」は昔ながらの軽食喫茶店。"
+  },
+  {
+    "id": "MF_s01e04_086",
+    "englishText": "Hey, Mitchell, what's up?",
+    "japaneseTranslation": "やあ、ミッチェル、どうした？",
+    "explanation": "「What's up?」は「どうした？」「元気？」というカジュアルな挨拶。"
+  },
+  {
+    "id": "MF_s01e04_087",
+    "englishText": "Hey, just in the hood. Do you remember how our mom gave up a career to raise us?",
+    "japaneseTranslation": "やあ、近所にいるよ。ママが僕たちを育てるためにキャリアを諦めたこと覚えてる？",
+    "explanation": "「in the hood」はスラングで「近所にいる」という意味。「give up a career」は「キャリアを諦める」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_088",
+    "englishText": "Why so long? I know, it's weird when we haven't talked for a while.",
+    "japaneseTranslation": "なんでそんなに長いの？うん、しばらく話してないと変な感じだよね。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_089",
+    "englishText": "So, Mom wants you to know that she's very sorry about the incident, and she wants us to forgive her.",
+    "japaneseTranslation": "それで、ママはあの出来事についてとても申し訳なく思っているってことを君に伝えてほしいんだ。そして、僕たちに許してほしいって。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_090",
+    "englishText": "Very nice of her to say that through you.",
+    "japaneseTranslation": "あなたを通してそれを言うなんて、彼女もなかなかね。",
+    "explanation": "「Very nice of her to ~」は皮肉を込めて「〜するなんて彼女もなかなかね」というニュアンス。"
+  },
+  {
+    "id": "MF_s01e04_091",
+    "englishText": "Do you see? The sarcasm is so hurtful. Like a whip.",
+    "japaneseTranslation": "わかる？その皮肉がすごく傷つくのよ。鞭みたいに。",
+    "explanation": "「sarcasm」は「皮肉」。「hurtful」は「傷つく」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_092",
+    "englishText": "You know how growing up we all have that voice inside our head that tells us we're not good enough?",
+    "japaneseTranslation": "大人になるにつれて、みんな頭の中に「自分は十分じゃない」って言う声があるでしょ？",
+    "explanation": "「not good enough」は「十分ではない」「足りない」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_093",
+    "englishText": "Well, mine was outside my head, driving me to school.",
+    "japaneseTranslation": "ええと、私のは頭の外にあって、私を学校まで送ってくれてたわ。",
+    "explanation": "皮肉を込めて、母親が常に自分を批判していたことを示唆している。"
+  },
+  {
+    "id": "MF_s01e04_094",
+    "englishText": "So, anyway, Mom really wants to smooth everything over with Dad and Gloria.",
+    "japaneseTranslation": "それで、とにかく、ママはパパとグロリアとの関係を円満にしたいと本当に思っているんだ。",
+    "explanation": "「smooth everything over」は「すべてを円満にする」「問題を解決する」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_095",
+    "englishText": "So I was thinking, would it be okay if she maybe joined us for dinnertonight?",
+    "japaneseTranslation": "それで考えてたんだけど、今夜の夕食に彼女が参加しても大丈夫かな？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_096",
+    "englishText": "Because it may be the last time you ever see me.",
+    "japaneseTranslation": "だって、私に会うのはこれが最後になるかもしれないから。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_097",
+    "englishText": "Okay wait. What are you talking about?",
+    "japaneseTranslation": "ちょっと待って。何の話をしてるの？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_098",
+    "englishText": "I'm moving to a far and dangerous place. He's a logger like a lumberjack.",
+    "japaneseTranslation": "遠くて危険な場所に引っ越すの。彼は木こりのようなロガーなの。",
+    "explanation": "「logger」は「木こり」または「記録する人」という意味。ここでは言葉遊びになっている。"
+  },
+  {
+    "id": "MF_s01e04_099",
+    "englishText": "But he logs blood samples into a cholesterol study.",
+    "japaneseTranslation": "でも彼は、コレステロール研究のために血液サンプルを記録するの。",
+    "explanation": "「logs」は「記録する」という意味で、前の「logger」との言葉遊びになっている。"
+  },
+  {
+    "id": "MF_s01e04_100",
+    "englishText": "Anyway, until I'm past this whole wedding debacle, I can't be intimate with him.",
+    "japaneseTranslation": "とにかく、この結婚式の惨事が終わるまでは、彼と親密になれないの。",
+    "explanation": "「debacle」は「大失敗」「惨事」。「intimate with ~」は「〜と親密になる」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_101",
+    "englishText": "We do things to each other. We use our hands, ...",
+    "japaneseTranslation": "私たちはお互いに色々なことをするの。手を使ったり、…",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_102",
+    "englishText": "Hey Grandma. Tell Mom that. She won't even let me go to a concert.",
+    "japaneseTranslation": "ねえ、おばあちゃん。ママにそう言ってよ。ママは僕をコンサートにすら行かせてくれないんだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_103",
+    "englishText": "Overnight. With her boyfriend. What are you laughing at?",
+    "japaneseTranslation": "お泊まりで。彼氏と。何を笑ってるの？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_104",
+    "englishText": "Oh! Karma's a funny thing, that's all. Remember Ricky?",
+    "japaneseTranslation": "ああ！因果応報って面白いものね、それだけよ。リッキーを覚えてる？",
+    "explanation": "「Karma's a funny thing」は「因果応報って面白いものだ」という慣用句。"
+  },
+  {
+    "id": "MF_s01e04_105",
+    "englishText": "Oh, who was Ricky?",
+    "japaneseTranslation": "ああ、リッキーって誰だったっけ？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_106",
+    "englishText": "Ricky was your mother's boyfriend, and he looked like Charles Manson.",
+    "japaneseTranslation": "リッキーはあなたのお母さんのボーイフレンドで、チャールズ・マンソンに似てたわ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_107",
+    "englishText": "And one night she didn't come home until 4:00 in the morning.",
+    "japaneseTranslation": "そしてある夜、彼女は朝の4時まで家に帰ってこなかったのよ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_108",
+    "englishText": "Wow, what were you and Ricky doing?",
+    "japaneseTranslation": "うわ、あなたとリッキーは何してたの？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_109",
+    "englishText": "We were doing nothing. And he was a very sweet boy, which you might have known if you bothered to get to know him.",
+    "japaneseTranslation": "何もしてなかったわ。彼はとても優しい子だったのよ。もしあなたが彼を知ろうと努力していたら、わかったかもしれないのに。",
+    "explanation": "「bother to ~」は「わざわざ〜する」「〜しようと努力する」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_110",
+    "englishText": "I don't judge people before I get a change to know them so you invite Dylan over to dinner tonight.",
+    "japaneseTranslation": "私は人を知る機会を得る前に判断しないから、今夜ディランを夕食に招待しなさい。",
+    "explanation": "「get a chance to know them」は「彼らを知る機会を得る」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_111",
+    "englishText": "And if he's as sweet and as kind as you say he is, then I have no problem considering letting you go to the concert, after I do a background check on Uncle Toby.",
+    "japaneseTranslation": "そして、もし彼が君が言うように優しくて親切なら、トビーおじさんの身元調査をした後で、君をコンサートに行かせることを検討しても問題ないわ。",
+    "explanation": "「have no problem considering ~」は「〜することを検討しても問題ない」。「background check」は「身元調査」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_112",
+    "englishText": "That's very revealing.",
+    "japaneseTranslation": "それはとても暴露的ね。",
+    "explanation": "「revealing」は「暴露的な」「（秘密などを）明らかにする」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_113",
+    "englishText": "That's my paranting style. No I meant your blouse.",
+    "japaneseTranslation": "それが私のピアレンティングスタイルよ。いや、あなたのブラウスのことよ。",
+    "explanation": "「paranting」は「parenting」と「ranting（まくし立てる）」を組み合わせた造語で、皮肉を込めている。"
+  },
+  {
+    "id": "MF_s01e04_114",
+    "englishText": "Wait, why don't you make her fix this, instead of you doing it as usual?",
+    "japaneseTranslation": "待って、いつものようにあなたがやる代わりに、彼女にこれを直させたらどう？",
+    "explanation": "「make her fix this」は「彼女にこれを直させる」という使役動詞の構文。"
+  },
+  {
+    "id": "MF_s01e04_115",
+    "englishText": "Oh, what's that supposed to mean?",
+    "japaneseTranslation": "ああ、それってどういう意味？",
+    "explanation": "「What's that supposed to mean?」は「それってどういう意味？」という、相手の意図を問いただす表現。"
+  },
+  {
+    "id": "MF_s01e04_116",
+    "englishText": "You know, Mom makes a mess, and there's Mitchell to clean it up.",
+    "japaneseTranslation": "ほら、ママが散らかして、それをミッチェルが片付けるってことよ。",
+    "explanation": "「make a mess」は「散らかす」。「clean it up」は「片付ける」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_117",
+    "englishText": "But that is so not true. If anything, you're the one with the screwed-up relationship with Mommy.",
+    "japaneseTranslation": "でもそれは全然違うわ。むしろ、ママとの関係がめちゃくちゃなのはあなたの方よ。",
+    "explanation": "「screwed-up」はスラングで「めちゃくちゃな」「ひどい」という意味です。"
   }
 ]
