@@ -3,8 +3,10 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { motion, AnimatePresence, PanInfo } from 'framer-motion';
 import Card from '@/components/Card';
+import Header from '@/components/Header';
+import ScriptMenu from '@/components/ScriptMenu';
 import { Script } from '@/types';
-import scriptsData from '@/data/scripts.json';
+import { useScriptGroups } from '@/hooks/useScriptGroups';
 import { ChevronUpIcon, ChevronDownIcon } from '@heroicons/react/24/solid';
 
 const ITEM_HEIGHT_GUESS = 300;
@@ -27,18 +29,28 @@ type CardVariantCustomData = {
 };
 
 export default function HomePage() {
-  const [scripts, setScripts] = useState<Script[]>([]);
+  const {
+    scriptGroups,
+    currentGroupId,
+    currentScripts,
+    selectGroup,
+    getCurrentGroupTitle,
+  } = useScriptGroups();
+  
   const [currentIndex, setCurrentIndex] = useState(0);
   const [prevCurrentIndex, setPrevCurrentIndex] = useState(0);
-  const [expandedCardId, setExpandedCardId] = useState<number | null>(null);
+  const [expandedCardId, setExpandedCardId] = useState<string | null>(null);
   const [isAnimating, setIsAnimating] = useState(false);
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
 
+  // Reset current index when scripts change
   useEffect(() => {
-    setScripts(scriptsData as Script[]);
-  }, []);
+    setCurrentIndex(0);
+    setExpandedCardId(null);
+  }, [currentScripts]);
 
   const navigate = useCallback((direction: number) => {
-    if (!scripts.length || isAnimating) return;
+    if (!currentScripts.length || isAnimating) return;
 
     setIsAnimating(true);
     setPrevCurrentIndex(currentIndex);
@@ -48,7 +60,7 @@ export default function HomePage() {
       setTimeout(() => {
         setCurrentIndex(prev => {
           const newIndex = prev + direction;
-          if (newIndex >= 0 && newIndex < scripts.length) {
+          if (newIndex >= 0 && newIndex < currentScripts.length) {
             return newIndex;
           }
           return prev;
@@ -57,13 +69,13 @@ export default function HomePage() {
     } else {
       setCurrentIndex(prev => {
         const newIndex = prev + direction;
-        if (newIndex >= 0 && newIndex < scripts.length) {
+        if (newIndex >= 0 && newIndex < currentScripts.length) {
           return newIndex;
         }
         return prev;
       });
     }
-  }, [scripts.length, currentIndex, expandedCardId, isAnimating]);
+  }, [currentScripts.length, currentIndex, expandedCardId, isAnimating]);
 
   useEffect(() => {
     if (isAnimating) {
@@ -87,9 +99,9 @@ export default function HomePage() {
     }
   };
 
-  const handleCardTap = (id: number) => {
+  const handleCardTap = (id: string) => {
     if (isAnimating) return;
-    const tappedScriptIndex = scripts.findIndex(s => s.id === id);
+    const tappedScriptIndex = currentScripts.findIndex((s: Script) => s.id === id);
 
     if (tappedScriptIndex !== -1 && tappedScriptIndex !== currentIndex) {
       // 前後のカードをタップした場合：そのカードに遷移
@@ -104,7 +116,7 @@ export default function HomePage() {
     }
   };
 
-  if (!scripts.length) {
+  if (!currentScripts.length) {
     return (
       <div className="flex items-center justify-center h-screen text-gray-800">
         Loading scripts...
@@ -203,26 +215,41 @@ export default function HomePage() {
     return "front"; 
   };
 
-  const renderIndices = Array.from({ length: Math.min(scripts.length, 5) }, (_, i) => {
+  const renderIndices = Array.from({ length: Math.min(currentScripts.length, 5) }, (_, i) => {
     let base = currentIndex - 2 + i;
-    if (scripts.length <= 3) { 
+    if (currentScripts.length <= 3) { 
         base = i;
     } else if (currentIndex < 2) {
         base = i;
-    } else if (currentIndex > scripts.length - 3) {
-        base = scripts.length - 5 + i;
+    } else if (currentIndex > currentScripts.length - 3) {
+        base = currentScripts.length - 5 + i;
     }
     return base;
-  }).filter(idx => idx >= 0 && idx < scripts.length);
+  }).filter(idx => idx >= 0 && idx < currentScripts.length);
   
   return (
-    <div className="min-h-screen flex flex-col p-4 overflow-hidden relative select-none">
+    <div className="min-h-screen flex flex-col overflow-hidden relative select-none">
+      {/* Header */}
+      <Header 
+        currentGroupTitle={getCurrentGroupTitle()}
+        onMenuClick={() => setIsMenuOpen(true)}
+      />
+      
+      {/* Script Menu */}
+      <ScriptMenu
+        isOpen={isMenuOpen}
+        onClose={() => setIsMenuOpen(false)}
+        scriptGroups={scriptGroups}
+        currentGroupId={currentGroupId}
+        onGroupSelect={selectGroup}
+      />
+
       <div className="flex-grow flex flex-col items-center justify-center w-full relative px-4">
         {/* Card container: Adjusted height to accommodate expanded cards */}
         <div className="relative w-full max-w-sm h-[600px] overflow-visible">
           <AnimatePresence initial={false} custom={{direction: currentIndex - prevCurrentIndex, isExpanded: !!expandedCardId}}>
             {renderIndices.map((scriptIdx) => {
-              const script = scripts[scriptIdx];
+              const script = currentScripts[scriptIdx];
               if (!script) return null; 
 
               const targetAnimation = getCardAnimationTarget(scriptIdx);
@@ -277,7 +304,7 @@ export default function HomePage() {
           </button>
           <button
             onClick={() => navigate(1)}
-            disabled={currentIndex === scripts.length - 1 || expandedCardId !== null || isAnimating}
+            disabled={currentIndex === currentScripts.length - 1 || expandedCardId !== null || isAnimating}
             className={`p-3 rounded-full transition-all duration-200 ease-in-out
               bg-neumorph-bg text-neumorph-text shadow-neumorph-icon 
               hover:shadow-neumorph-icon-hover active:shadow-neumorph-icon-pressed
@@ -289,7 +316,7 @@ export default function HomePage() {
           </button>
         </div>
         <div className="text-center text-sm text-gray-600 mt-3">
-          {currentIndex + 1} / {scripts.length}
+          {currentIndex + 1} / {currentScripts.length}
         </div>
       </div>
     </div>
