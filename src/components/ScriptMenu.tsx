@@ -113,21 +113,19 @@ const ScriptMenu: React.FC<ScriptMenuProps> = ({
 
               {/* Script Groups by Category */}
               <div className="space-y-6">
-                {Object.entries(groupedByCategory).map(([category, groups], categoryIndex) => (
+                {Object.entries(groupedByCategory).map(([category, groups]) => (
                   <motion.div
                     key={category}
                     variants={itemVariants}
                     initial="closed"
                     animate="open"
-                    custom={categoryIndex}
                   >
                     <h3 className="text-sm font-semibold text-neumorph-text/70 uppercase tracking-wide mb-3">
                       {category}
                     </h3>
                     <div className="space-y-2">
-                      {groups.map((group, groupIndex) => {
+                      {groups.map((group) => {
                         const isSelected = group.id === currentGroupId;
-                        const itemIndex = categoryIndex * 10 + groupIndex; // Stagger animation
 
                         return (
                           <motion.button

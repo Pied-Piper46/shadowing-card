@@ -11,7 +11,7 @@ export interface ScriptGroup {
   category: string;
   subCategory?: string;
   details?: {
-    [key: string]: any;
+    [key: string]: string | number | boolean | null;
   };
   scriptIds: string[];
   description?: string;
