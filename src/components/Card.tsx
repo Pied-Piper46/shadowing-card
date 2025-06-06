@@ -50,7 +50,7 @@ const Card: React.FC<CardProps> = ({ script, isExpanded, onToggleExpand }) => {
       }}
       initial={false} // No initial animation for layout changes on first render
       animate={{ 
-        scale: isExpanded ? 1.05 : 1, // Slightly larger when expanded
+        scale: isExpanded ? 1 : 1, // No expansion, rely on container padding
       }} 
       transition={{ type: "spring", stiffness: 300, damping: 30 }}
     >

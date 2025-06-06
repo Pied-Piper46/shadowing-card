@@ -59,17 +59,15 @@ const ScriptMenu: React.FC<ScriptMenuProps> = ({
   };
 
   const itemVariants = {
-    closed: { opacity: 0, x: -20 },
-    open: (i: number) => ({
+    closed: { opacity: 0 },
+    open: {
       opacity: 1,
-      x: 0,
       transition: {
-        delay: i * 0.05,
         type: 'spring',
         stiffness: 300,
         damping: 30,
       },
-    }),
+    },
   };
 
   return (
@@ -135,7 +133,7 @@ const ScriptMenu: React.FC<ScriptMenuProps> = ({
                           <motion.button
                             key={group.id}
                             onClick={() => handleGroupSelect(group.id)}
-                            className={`w-full text-left p-4 rounded-2xl transition-all duration-200 ease-in-out
+                            className={`w-full text-left px-4 py-3 rounded-xl transition-all duration-200 ease-in-out
                               ${isSelected 
                                 ? 'bg-neumorph-accent text-white shadow-neumorph-pressed' 
                                 : 'bg-neumorph-bg text-neumorph-text shadow-neumorph-convex hover:shadow-neumorph-icon-hover'
@@ -144,28 +142,12 @@ const ScriptMenu: React.FC<ScriptMenuProps> = ({
                             variants={itemVariants}
                             initial="closed"
                             animate="open"
-                            custom={itemIndex}
-                            whileHover={{ scale: isSelected ? 1 : 1.02 }}
-                            whileTap={{ scale: 0.98 }}
+                            whileHover={{ scale: isSelected ? 1 : 1.01 }}
+                            whileTap={{ scale: 0.99 }}
                           >
-                            <div className="flex flex-col">
-                              <span className="font-medium text-sm leading-tight mb-1">
-                                {group.title}
-                              </span>
-                              {group.subCategory && (
-                                <span className={`text-xs ${isSelected ? 'text-white/80' : 'text-neumorph-text/60'}`}>
-                                  {group.subCategory}
-                                </span>
-                              )}
-                              {group.description && (
-                                <span className={`text-xs mt-1 ${isSelected ? 'text-white/70' : 'text-neumorph-text/50'}`}>
-                                  {group.description}
-                                </span>
-                              )}
-                              <span className={`text-xs mt-2 ${isSelected ? 'text-white/60' : 'text-neumorph-text/40'}`}>
-                                {group.scriptIds.length} scripts
-                              </span>
-                            </div>
+                            <span className="font-medium text-sm leading-tight">
+                              {group.title}
+                            </span>
                           </motion.button>
                         );
                       })}

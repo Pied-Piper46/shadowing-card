@@ -7,6 +7,9 @@ import Header from '@/components/Header';
 import ScriptMenu from '@/components/ScriptMenu';
 import { Script } from '@/types';
 import { useScriptGroups } from '@/hooks/useScriptGroups';
+import { useSpeechSynthesis } from '@/hooks/useSpeechSynthesis';
+import IconVolumeUp from '@/components/IconVolumeUp';
+import IconVolumeOff from '@/components/IconVolumeOff';
 import { ChevronUpIcon, ChevronDownIcon } from '@heroicons/react/24/solid';
 
 const ITEM_HEIGHT_GUESS = 300;
@@ -35,7 +38,9 @@ export default function HomePage() {
     currentScripts,
     selectGroup,
     getCurrentGroupTitle,
+    getShortGroupTitle,
   } = useScriptGroups();
+  const { speak, cancel, isSpeaking, isSupported } = useSpeechSynthesis();
   
   const [currentIndex, setCurrentIndex] = useState(0);
   const [prevCurrentIndex, setPrevCurrentIndex] = useState(0);
@@ -232,6 +237,7 @@ export default function HomePage() {
       {/* Header */}
       <Header 
         currentGroupTitle={getCurrentGroupTitle()}
+        shortGroupTitle={getShortGroupTitle()}
         onMenuClick={() => setIsMenuOpen(true)}
       />
       
@@ -301,6 +307,27 @@ export default function HomePage() {
             aria-label="Previous script"
           >
             <ChevronUpIcon className="h-6 w-6" />
+          </button>
+          <button
+            onClick={() => {
+              if (isSpeaking) cancel();
+              if (currentScripts[currentIndex] && isSupported) {
+                speak(currentScripts[currentIndex].englishText);
+              } else if (!isSupported) {
+                alert('Sorry, your browser does not support text-to-speech.');
+              }
+            }}
+            disabled={!currentScripts[currentIndex] || expandedCardId !== null || isAnimating}
+            className={`p-3 rounded-full transition-all duration-200 ease-in-out
+              ${isSpeaking 
+                ? 'bg-neumorph-accent text-white shadow-neumorph-icon-pressed' 
+                : 'bg-neumorph-bg text-neumorph-text shadow-neumorph-icon hover:shadow-neumorph-icon-hover active:shadow-neumorph-icon-pressed'
+              }
+              disabled:opacity-60 disabled:shadow-neumorph-icon disabled:cursor-not-allowed
+            `}
+            aria-label={isSpeaking ? "Stop audio" : "Play audio"}
+          >
+            {isSpeaking ? <IconVolumeOff className="h-6 w-6" /> : <IconVolumeUp className="h-6 w-6" />}
           </button>
           <button
             onClick={() => navigate(1)}

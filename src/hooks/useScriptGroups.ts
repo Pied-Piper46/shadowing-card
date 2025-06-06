@@ -53,6 +53,29 @@ export const useScriptGroups = () => {
     return currentGroup?.title || 'Loading...';
   }, [currentGroup]);
 
+  const getShortGroupTitle = useCallback(() => {
+    if (!currentGroup) return 'Loading...';
+    
+    // For Friends episodes, show just "Friends S01E01"
+    if (currentGroup.details?.series && currentGroup.details?.season && currentGroup.details?.episode) {
+      return `${currentGroup.details.series} S${String(currentGroup.details.season).padStart(2, '0')}E${String(currentGroup.details.episode).padStart(2, '0')}`;
+    }
+    
+    // For other content, try to shorten the title
+    const title = currentGroup.title;
+    if (title.length > 25) {
+      // Try to find a good breaking point
+      const colonIndex = title.indexOf(':');
+      if (colonIndex > 0 && colonIndex < 25) {
+        return title.substring(0, colonIndex);
+      }
+      // Otherwise just truncate
+      return title.substring(0, 22) + '...';
+    }
+    
+    return title;
+  }, [currentGroup]);
+
   return {
     scriptGroups,
     currentGroupId,
@@ -60,5 +83,6 @@ export const useScriptGroups = () => {
     currentGroup,
     selectGroup,
     getCurrentGroupTitle,
+    getShortGroupTitle,
   };
 };

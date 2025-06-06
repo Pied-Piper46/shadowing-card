@@ -1,15 +1,29 @@
 'use client';
 
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { Bars3Icon } from '@heroicons/react/24/outline';
 
 interface HeaderProps {
   currentGroupTitle: string;
+  shortGroupTitle: string;
   onMenuClick: () => void;
 }
 
-const Header: React.FC<HeaderProps> = ({ currentGroupTitle, onMenuClick }) => {
+const Header: React.FC<HeaderProps> = ({ currentGroupTitle, shortGroupTitle, onMenuClick }) => {
+  const [isSmallScreen, setIsSmallScreen] = useState(false);
+
+  useEffect(() => {
+    const checkScreenSize = () => {
+      setIsSmallScreen(window.innerWidth < 480); // sm breakpoint
+    };
+
+    checkScreenSize();
+    window.addEventListener('resize', checkScreenSize);
+    return () => window.removeEventListener('resize', checkScreenSize);
+  }, []);
+
+  const displayTitle = isSmallScreen ? shortGroupTitle : currentGroupTitle;
   return (
     <motion.header 
       className="w-full px-4 py-3 bg-neumorph-bg/95 backdrop-blur-sm border-b border-neumorph-primary-dark/20"
@@ -38,7 +52,7 @@ const Header: React.FC<HeaderProps> = ({ currentGroupTitle, onMenuClick }) => {
           transition={{ duration: 0.3 }}
         >
           <h1 className="text-lg font-semibold text-neumorph-text truncate">
-            {currentGroupTitle}
+            {displayTitle}
           </h1>
         </motion.div>
         
