@@ -1,13 +1,12 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: 'export',
-  basePath: process.env.NODE_ENV === 'production' ? '/shadowing-card' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/shadowing-card' : '',
   images: {
-    unoptimized: true, // Add this line for static export
+    unoptimized: true, // 必要に応じて残す (静的エクスポートの名残)
   },
   /* config options here */
+  // Vercelでは通常 basePath と assetPrefix は不要です
+  // output: 'export' もVercelの標準デプロイでは不要な場合が多いです
 };
 
 export default nextConfig;
