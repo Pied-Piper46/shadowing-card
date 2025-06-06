@@ -1,32 +1,80 @@
 [
   {
-    "id": 1,
+    "id": "basic_001",
     "englishText": "This is the first script for shadowing.",
     "japaneseTranslation": "これはシャドーイング用の最初のスクリプトです。",
     "explanation": "基本的な文型です。"
   },
   {
-    "id": 2,
+    "id": "basic_002",
     "englishText": "You can listen to the audio and try to repeat it.",
     "japaneseTranslation": "音声を聞いて、繰り返してみてください。",
     "explanation": "'try to ~' は「〜しようと試みる」という意味です。"
   },
   {
-    "id": 3,
+    "id": "basic_003",
     "englishText": "Practice makes perfect, so keep trying.",
     "japaneseTranslation": "継続は力なり、なので挑戦し続けてください。",
     "explanation": "ことわざの一つです。'Keep trying' は励ましの言葉です。"
   },
   {
-    "id": 4,
+    "id": "basic_004",
     "englishText": "What are you planning to do this weekend?",
     "japaneseTranslation": "今週末は何をする予定ですか？",
     "explanation": "未来の予定を尋ねる一般的なフレーズです。"
   },
   {
-    "id": 5,
+    "id": "basic_005",
     "englishText": "I'm looking forward to seeing you again.",
     "japaneseTranslation": "またお会いできるのを楽しみにしています。",
     "explanation": "'look forward to -ing' で「〜するのを楽しみにする」という意味です。"
+  },
+  {
+    "id": "friends_s01e01_001",
+    "englishText": "There's nothing to tell! He's just some guy I work with!",
+    "japaneseTranslation": "話すことなんてないわ！ただの同僚よ！",
+    "explanation": "「There's nothing to tell」は「話すことがない」という意味の定型表現です。"
+  },
+  {
+    "id": "friends_s01e01_002",
+    "englishText": "Come on, you're going out with the guy! There's gotta be something wrong with him!",
+    "japaneseTranslation": "ちょっと、その人とデートしてるんでしょ！何か問題があるはずよ！",
+    "explanation": "「gotta」は「got to」の縮約形で、「〜しなければならない」「〜に違いない」という意味です。"
+  },
+  {
+    "id": "friends_s01e01_003",
+    "englishText": "All right Joey, be nice. So does he have a hump? A hump and a hairpiece?",
+    "japaneseTranslation": "わかったわジョーイ、優しくして。それで彼にはこぶがあるの？こぶとかつら？",
+    "explanation": "「be nice」は「優しくする」「親切にする」という意味の基本表現です。"
+  },
+  {
+    "id": "business_001",
+    "englishText": "I'd like to schedule a meeting for next week.",
+    "japaneseTranslation": "来週、会議の予定を組みたいのですが。",
+    "explanation": "「I'd like to」は丁寧な依頼表現で、ビジネスシーンでよく使われます。"
+  },
+  {
+    "id": "business_002",
+    "englishText": "Could you please send me the quarterly report by Friday?",
+    "japaneseTranslation": "金曜日までに四半期レポートを送っていただけますか？",
+    "explanation": "「Could you please」は非常に丁寧な依頼の表現です。"
+  },
+  {
+    "id": "business_003",
+    "englishText": "Let's table this discussion for now and revisit it next month.",
+    "japaneseTranslation": "この議論は一旦保留にして、来月再検討しましょう。",
+    "explanation": "「table」は動詞として「保留にする」という意味で使われます。"
+  },
+  {
+    "id": "ted_vulnerability_001",
+    "englishText": "Vulnerability is the birthplace of innovation, creativity and change.",
+    "japaneseTranslation": "脆弱性は革新、創造性、変化の発祥地です。",
+    "explanation": "「birthplace」は「発祥地」「生まれた場所」という意味です。"
+  },
+  {
+    "id": "ted_vulnerability_002",
+    "englishText": "We cannot selectively numb emotions. You cannot numb those hard feelings without numbing the other affects, our emotions.",
+    "japaneseTranslation": "私たちは感情を選択的に麻痺させることはできません。他の感情を麻痺させることなく、つらい感情だけを麻痺させることはできないのです。",
+    "explanation": "「selectively」は「選択的に」、「numb」は「麻痺させる」という意味です。"
   }
 ]

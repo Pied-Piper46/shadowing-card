@@ -1,0 +1,40 @@
+[
+  {
+    "id": "basic_conversation",
+    "title": "Basic Conversation",
+    "category": "Daily Conversation",
+    "subCategory": "Basics",
+    "scriptIds": ["basic_001", "basic_002", "basic_003", "basic_004", "basic_005"],
+    "description": "日常会話の基本的なフレーズ集です。"
+  },
+  {
+    "id": "friends_s01e01",
+    "title": "Friends - S01E01: The One Where Monica Gets a Roommate",
+    "category": "Drama",
+    "subCategory": "Friends",
+    "details": {
+      "series": "Friends",
+      "season": 1,
+      "episode": 1,
+      "episodeTitle": "The One Where Monica Gets a Roommate"
+    },
+    "scriptIds": ["friends_s01e01_001", "friends_s01e01_002", "friends_s01e01_003"],
+    "description": "人気ドラマ「フレンズ」のシーズン1、エピソード1のスクリプトです。"
+  },
+  {
+    "id": "business_english",
+    "title": "Business English Essentials",
+    "category": "Business",
+    "subCategory": "Professional Communication",
+    "scriptIds": ["business_001", "business_002", "business_003"],
+    "description": "ビジネスシーンで使える英語表現集です。"
+  },
+  {
+    "id": "youtube_ted_talks",
+    "title": "TED Talks: The Power of Vulnerability",
+    "category": "YouTube",
+    "subCategory": "Educational",
+    "scriptIds": ["ted_vulnerability_001", "ted_vulnerability_002"],
+    "description": "人気のTEDトーク「The Power of Vulnerability」からの抜粋です。"
+  }
+]

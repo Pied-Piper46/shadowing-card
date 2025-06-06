@@ -20,6 +20,7 @@ const config: Config = {
         'neumorph-concave': 'inset 7px 7px 14px #a3b1c6, inset -7px -7px 14px #ffffff',
         'neumorph-pressed': 'inset 4px 4px 8px #a3b1c6, inset -4px -4px 8px #ffffff', // For pressed state
         'neumorph-icon': '3px 3px 6px #a3b1c6, -3px -3px 6px #ffffff',
+        'neumorph-icon-hover': '4px 4px 8px #a3b1c6, -4px -4px 8px #ffffff',
         'neumorph-icon-pressed': 'inset 2px 2px 4px #a3b1c6, inset -2px -2px 4px #ffffff',
       },
       fontFamily: {
