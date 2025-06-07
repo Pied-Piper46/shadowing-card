@@ -17,6 +17,8 @@ const PEEK_SCALE = 0.85;
 const PEEK_OPACITY = 0.5;
 const DRAG_THRESHOLD_MODIFIED = 50;
 
+const CURRENT_INDEX_STORAGE_KEY = 'shadowing-card-current-index';
+
 const transitionSpec = {
   type: "spring",
   stiffness: 300,
@@ -48,11 +50,26 @@ export default function HomePage() {
   const [isAnimating, setIsAnimating] = useState(false);
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
-  // Reset current index when scripts change
+  // Reset current index when scripts change (and load from storage)
   useEffect(() => {
-    setCurrentIndex(0);
-    setExpandedCardId(null);
-  }, [currentScripts]);
+    const savedIndexStr = localStorage.getItem(CURRENT_INDEX_STORAGE_KEY);
+    let initialIndex = 0;
+    if (savedIndexStr) {
+      const savedIndex = parseInt(savedIndexStr, 10);
+      if (!isNaN(savedIndex) && savedIndex >= 0 && savedIndex < currentScripts.length) {
+        initialIndex = savedIndex;
+      }
+    }
+    setCurrentIndex(initialIndex);
+    setExpandedCardId(null); // Always collapse card on script change/load
+  }, [currentScripts]); // Depends on currentScripts to ensure index is valid
+
+  // Save current index to localStorage
+  useEffect(() => {
+    if (currentScripts.length > 0) { // Only save if there are scripts
+      localStorage.setItem(CURRENT_INDEX_STORAGE_KEY, currentIndex.toString());
+    }
+  }, [currentIndex, currentScripts]);
 
   const navigate = useCallback((direction: number) => {
     if (!currentScripts.length || isAnimating) return;
@@ -298,7 +315,7 @@ export default function HomePage() {
         <div className="flex justify-center gap-5">
           <button
             onClick={() => navigate(-1)}
-            disabled={currentIndex === 0 || expandedCardId !== null || isAnimating}
+            disabled={currentIndex === 0 || isAnimating}
             className={`p-3 rounded-full transition-all duration-200 ease-in-out
               bg-neumorph-bg text-neumorph-text shadow-neumorph-icon 
               hover:shadow-neumorph-icon-hover active:shadow-neumorph-icon-pressed
@@ -317,7 +334,7 @@ export default function HomePage() {
                 alert('Sorry, your browser does not support text-to-speech.');
               }
             }}
-            disabled={!currentScripts[currentIndex] || expandedCardId !== null || isAnimating}
+            disabled={!currentScripts[currentIndex] || isAnimating}
             className={`p-3 rounded-full transition-all duration-200 ease-in-out
               ${isSpeaking 
                 ? 'bg-neumorph-accent text-white shadow-neumorph-icon-pressed' 
@@ -331,7 +348,7 @@ export default function HomePage() {
           </button>
           <button
             onClick={() => navigate(1)}
-            disabled={currentIndex === currentScripts.length - 1 || expandedCardId !== null || isAnimating}
+            disabled={currentIndex === currentScripts.length - 1 || isAnimating}
             className={`p-3 rounded-full transition-all duration-200 ease-in-out
               bg-neumorph-bg text-neumorph-text shadow-neumorph-icon 
               hover:shadow-neumorph-icon-hover active:shadow-neumorph-icon-pressed

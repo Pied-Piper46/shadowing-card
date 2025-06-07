@@ -118,7 +118,7 @@ const Card: React.FC<CardProps> = ({ script, isExpanded, onToggleExpand }) => {
                   <LanguageIcon className="h-4 w-4 mr-2 text-neumorph-accent" />
                   日本語訳
                 </h3>
-                <p className="text-neumorph-text/90">{script.japaneseTranslation}</p>
+                <p className="text-neumorph-text/90 text-sm">{script.japaneseTranslation}</p>
               </div>
               <div>
                 <h3 className="text-sm font-medium text-neumorph-text/70 mb-1 flex items-center">
