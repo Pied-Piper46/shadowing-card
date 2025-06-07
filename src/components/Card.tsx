@@ -31,7 +31,12 @@ const Card: React.FC<CardProps> = ({ script, isExpanded, onToggleExpand }) => {
 
   const cardContentVariants = {
     collapsed: { opacity: 0, height: 0, y: -10 },
-    expanded: { opacity: 1, height: 'auto', y: 0, transition: { duration: 0.3, ease: "easeInOut" } },
+    expanded: { 
+      opacity: 1, 
+      height: 'auto', // Content will determine height, constrained by maxHeight in style
+      y: 0, 
+      transition: { duration: 0.3, ease: "easeInOut" } 
+    },
   };
 
   return (
@@ -85,7 +90,8 @@ const Card: React.FC<CardProps> = ({ script, isExpanded, onToggleExpand }) => {
             initial="collapsed"
             animate="expanded"
             exit="collapsed"
-            className="overflow-hidden" // Prevents content spill during animation
+            className={isExpanded ? "overflow-y-auto" : "overflow-hidden"} // Conditional overflow
+            style={{ maxHeight: isExpanded ? '200px' : '0px' }} // Conditional maxHeight
           >
             <div className="mt-4 pt-4 border-t border-neumorph-primary-dark/30">
               <div className="mb-3">

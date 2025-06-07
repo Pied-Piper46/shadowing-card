@@ -139,7 +139,7 @@ export default function HomePage() {
       transition: { ...transitionSpec, delay: customData.isExpanded ? 0.1 : 0 },
     }),
     current: (customData: CardVariantCustomData) => ({ 
-      y: ITEM_HEIGHT_GUESS * 0.7, 
+      y: customData.isExpanded ? ITEM_HEIGHT_GUESS * 0.4 : ITEM_HEIGHT_GUESS * 0.7, // Adjusted y for expanded state
       scale: customData.isExpanded ? 1.05 : 1, 
       opacity: 1, 
       zIndex: customData.isExpanded ? 20 : 10,
