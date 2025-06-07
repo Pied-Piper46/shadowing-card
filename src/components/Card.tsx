@@ -1,6 +1,6 @@
 'use client';
 
-import React from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Script } from '@/types';
 import { useSpeechSynthesis } from '@/hooks/useSpeechSynthesis';
@@ -15,8 +15,26 @@ interface CardProps {
   onToggleExpand: () => void;
 }
 
+const MAX_CONTENT_HEIGHT = 200; // Define max height for content
+
 const Card: React.FC<CardProps> = ({ script, isExpanded, onToggleExpand }) => {
   const { speak, cancel, isSpeaking, isSupported } = useSpeechSynthesis();
+  const [needsScroll, setNeedsScroll] = useState(false);
+  const contentRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (isExpanded && contentRef.current) {
+      // Use a timeout to allow layout to settle before measuring
+      const timer = setTimeout(() => {
+        if (contentRef.current) {
+          setNeedsScroll(contentRef.current.scrollHeight > MAX_CONTENT_HEIGHT);
+        }
+      }, 50); // Adjust delay if needed, 50ms is a common starting point
+      return () => clearTimeout(timer);
+    } else {
+      setNeedsScroll(false);
+    }
+  }, [isExpanded, script]); // Rerun if card expands or content changes
 
   const handlePlayAudio = (e: React.MouseEvent) => {
     e.stopPropagation(); // Prevent card tap when clicking button
@@ -85,13 +103,14 @@ const Card: React.FC<CardProps> = ({ script, isExpanded, onToggleExpand }) => {
       <AnimatePresence initial={false}>
         {isExpanded && (
           <motion.div
-            key="details"
-            variants={cardContentVariants}
+            key="details" // Keep one key
+            ref={contentRef} // Keep ref
+            variants={cardContentVariants} // Keep one variants
             initial="collapsed"
             animate="expanded"
             exit="collapsed"
-            className={isExpanded ? "overflow-y-auto" : "overflow-hidden"} // Conditional overflow
-            style={{ maxHeight: isExpanded ? '200px' : '0px' }} // Conditional maxHeight
+            className={needsScroll ? "overflow-y-auto" : "overflow-hidden"} // Use needsScroll state
+            style={{ maxHeight: isExpanded ? `${MAX_CONTENT_HEIGHT}px` : '0px' }} // Use constant for maxHeight
           >
             <div className="mt-4 pt-4 border-t border-neumorph-primary-dark/30">
               <div className="mb-3">
