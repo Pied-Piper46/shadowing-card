@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect, useCallback, useRef } from 'react';
 import { motion, AnimatePresence, PanInfo } from 'framer-motion';
 import Card from '@/components/Card';
 import Header from '@/components/Header';
@@ -18,6 +18,8 @@ const PEEK_OPACITY = 0.5;
 const DRAG_THRESHOLD_MODIFIED = 50;
 
 const CURRENT_INDEX_STORAGE_KEY = 'shadowing-card-current-index';
+const HOLD_DELAY = 500; // milliseconds before continuous scroll starts
+const SCROLL_INTERVAL = 150; // milliseconds for continuous scroll step
 
 const transitionSpec = {
   type: "spring",
@@ -49,6 +51,20 @@ export default function HomePage() {
   const [expandedCardId, setExpandedCardId] = useState<string | null>(null);
   const [isAnimating, setIsAnimating] = useState(false);
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const scrollIntervalRef = useRef<NodeJS.Timeout | null>(null);
+  const holdStartTimeoutRef = useRef<NodeJS.Timeout | null>(null);
+
+  // Cleanup intervals and timeouts on component unmount
+  useEffect(() => {
+    return () => {
+      if (scrollIntervalRef.current) {
+        clearInterval(scrollIntervalRef.current);
+      }
+      if (holdStartTimeoutRef.current) {
+        clearTimeout(holdStartTimeoutRef.current);
+      }
+    };
+  }, []);
 
   // Reset current index when scripts change (and load from storage)
   useEffect(() => {
@@ -108,6 +124,31 @@ export default function HomePage() {
       return () => clearTimeout(timer);
     }
   }, [isAnimating]);
+
+  const handlePressStart = useCallback((direction: number) => {
+    if (holdStartTimeoutRef.current) clearTimeout(holdStartTimeoutRef.current);
+    if (scrollIntervalRef.current) clearInterval(scrollIntervalRef.current);
+
+    holdStartTimeoutRef.current = setTimeout(() => {
+      // Initial scroll after hold delay
+      navigate(direction);
+      // Then start interval for continuous scroll
+      scrollIntervalRef.current = setInterval(() => {
+        navigate(direction);
+      }, SCROLL_INTERVAL);
+    }, HOLD_DELAY);
+  }, [navigate]);
+
+  const handlePressEnd = useCallback(() => {
+    if (holdStartTimeoutRef.current) {
+      clearTimeout(holdStartTimeoutRef.current);
+      holdStartTimeoutRef.current = null;
+    }
+    if (scrollIntervalRef.current) {
+      clearInterval(scrollIntervalRef.current);
+      scrollIntervalRef.current = null;
+    }
+  }, []);
 
   const handleDragEnd = (event: MouseEvent | TouchEvent | PointerEvent, info: PanInfo) => {
     if (isAnimating) return;
@@ -314,7 +355,12 @@ export default function HomePage() {
       <div className="flex flex-col items-center w-full max-w-sm mx-auto mt-2 mb-4 z-30">
         <div className="flex justify-center gap-5">
           <button
-            onClick={() => navigate(-1)}
+            onClick={() => navigate(-1)} // Handles single tap
+            onMouseDown={() => handlePressStart(-1)}
+            onMouseUp={handlePressEnd}
+            onMouseLeave={handlePressEnd}
+            onTouchStart={() => handlePressStart(-1)}
+            onTouchEnd={handlePressEnd}
             disabled={currentIndex === 0 || isAnimating}
             className={`p-3 rounded-full transition-all duration-200 ease-in-out
               bg-neumorph-bg text-neumorph-text shadow-neumorph-icon 
@@ -347,7 +393,12 @@ export default function HomePage() {
             {isSpeaking ? <IconVolumeOff className="h-6 w-6" /> : <IconVolumeUp className="h-6 w-6" />}
           </button>
           <button
-            onClick={() => navigate(1)}
+            onClick={() => navigate(1)} // Handles single tap
+            onMouseDown={() => handlePressStart(1)}
+            onMouseUp={handlePressEnd}
+            onMouseLeave={handlePressEnd}
+            onTouchStart={() => handlePressStart(1)}
+            onTouchEnd={handlePressEnd}
             disabled={currentIndex === currentScripts.length - 1 || isAnimating}
             className={`p-3 rounded-full transition-all duration-200 ease-in-out
               bg-neumorph-bg text-neumorph-text shadow-neumorph-icon 
