@@ -778,5 +778,371 @@
     "englishText": "But that is so not true. If anything, you're the one with the screwed-up relationship with Mommy.",
     "japaneseTranslation": "でもそれは全然違うわ。むしろ、ママとの関係がめちゃくちゃなのはあなたの方よ。",
     "explanation": "「screwed-up」はスラングで「めちゃくちゃな」「ひどい」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_118",
+    "englishText": "Mitchell! What are you doing here?",
+    "japaneseTranslation": "ミッチェル！ここで何してるの？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_119",
+    "englishText": "I'm sorry to bother you. Could I talk to you and Gloria for a second?",
+    "japaneseTranslation": "邪魔してごめん。君とグロリアにちょっと話があるんだけど？",
+    "explanation": "「I'm sorry to bother you」は「お邪魔してすみません」という丁寧な謝罪。「for a second」は「ちょっとの間」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_120",
+    "englishText": "She's out dealing with a Manny situation. He's set a kid's bike on fire.",
+    "japaneseTranslation": "彼女はマニーの件で出かけてるわ。彼が子供の自転車に火をつけたのよ。",
+    "explanation": "「dealing with ~」は「〜に対処している」。「set ~ on fire」は「〜に火をつける」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_121",
+    "englishText": "Why? Oh, I might've told him to get even with some kids, and he went all Rambo with it. Not my best parenting moment.",
+    "japaneseTranslation": "なんで？ああ、僕が彼に何人かの子供たちに仕返ししろって言ったのかもしれない。そしたら彼はランボーみたいになっちゃって。最高の親の瞬間じゃなかったな。",
+    "explanation": "「get even with ~」は「〜に仕返しをする」。「went all Rambo with it」は「ランボーのように過激になった」という比喩表現。"
+  },
+  {
+    "id": "MF_s01e04_122",
+    "englishText": "Not your worst. Well, you know, Mom's in town. She's back from the grave.",
+    "japaneseTranslation": "最悪ってわけじゃないわ。まあ、ママが街に来てるのよ。墓場から戻ってきたみたいにね。",
+    "explanation": "「back from the grave」は「墓場から戻ってきた」という比喩で、驚きや不気味さを表す。"
+  },
+  {
+    "id": "MF_s01e04_123",
+    "englishText": "My mom would be less scary.",
+    "japaneseTranslation": "うちのママの方がまだ怖くないわ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_124",
+    "englishText": "Listen, she's a wreck about what happened at the wedding, and she wants to come to dinner tonight to apologize to everyone.",
+    "japaneseTranslation": "聞いて、彼女は結婚式で起こったことについてひどく落ち込んでいるの。そして今夜の夕食に来て、みんなに謝りたいと思っているわ。",
+    "explanation": "「be a wreck about ~」は「〜についてひどく落ち込んでいる」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_125",
+    "englishText": "Still her little errand boy, I see.",
+    "japaneseTranslation": "まだ彼女の使い走りってわけね。",
+    "explanation": "「errand boy」は「使い走り」「お使いをする少年」という意味で、皮肉を込めている。"
+  },
+  {
+    "id": "MF_s01e04_126",
+    "englishText": "No, why does everybody keep saying... No. I'm just trying to piece this family back together. So, you'll talk to Gloria about Mom coming to dinner?",
+    "japaneseTranslation": "いや、なんでみんなそう言い続けるんだ…違う。僕はただこの家族を元に戻そうとしているだけなんだ。それで、ママが夕食に来ることについてグロリアに話してくれる？",
+    "explanation": "「piece ~ back together」は「〜を元に戻す」「〜を修復する」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_127",
+    "englishText": "Oh, Gloria would never go for that in a million years. She's still furious with your mother. Which is why I'm not talking to you.",
+    "japaneseTranslation": "ああ、グロリアは絶対にそんなこと許さないわ。彼女はまだあなたのお母さんに激怒しているのよ。だから私はあなたと話さないわ。",
+    "explanation": "「in a million years」は「絶対に〜ない」という強い否定表現。「furious with ~」は「〜に激怒している」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_128",
+    "englishText": "What did I do? This conversation never took place.",
+    "japaneseTranslation": "僕が何をしたっていうんだ？この会話はなかったことにする。",
+    "explanation": "「This conversation never took place」は「この会話はなかったことにする」という定型表現。"
+  },
+  {
+    "id": "MF_s01e04_129",
+    "englishText": "What? That's not very nice. I drove all the way here.",
+    "japaneseTranslation": "何？それはひどいな。ここまでずっと運転してきたのに。",
+    "explanation": "「all the way here」は「はるばるここまで」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_130",
+    "englishText": "No, you didn't. You were never here. In fact, you never even called.",
+    "japaneseTranslation": "いや、してないわ。あなたはここにいなかった。実際、電話すらしてないわ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_131",
+    "englishText": "I would've called, but I thought it would be better to talk about this... What's happening here?",
+    "japaneseTranslation": "電話するつもりだったんだけど、これについて話す方がいいと思って…ここで何が起こってるんだ？",
+    "explanation": "「I would've called」は「I would have called」の短縮形。"
+  },
+  {
+    "id": "MF_s01e04_132",
+    "englishText": "Listen, I would love to get this thing behind us, but Gloria would never forgive me if I pulled a fast one on her.",
+    "japaneseTranslation": "聞いてくれ、この件を終わらせたいのはやまやまなんだが、グロリアを騙したら絶対に許してくれないだろう。",
+    "explanation": "「get this thing behind us」は「この件を終わらせる」「水に流す」。「pull a fast one on ~」は「〜を騙す」「〜を出し抜く」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_133",
+    "englishText": "That's why you're going to pull a fast one on her, and I'm not going to like it one bit.",
+    "japaneseTranslation": "だからあなたは彼女を騙すのよ、そして私はそれが少しも気に入らないわ。",
+    "explanation": "「not like it one bit」は「少しも気に入らない」「全く好きではない」という強調表現。"
+  },
+  {
+    "id": "MF_s01e04_134",
+    "englishText": "Okay, that's just great. No that's great. So, it's all up to me.",
+    "japaneseTranslation": "わかった、それは素晴らしいね。いや、素晴らしいよ。つまり、全部僕次第ってことか。",
+    "explanation": "「it's all up to me」は「すべて私次第だ」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_135",
+    "englishText": "I can't here you because you're back home and I'm taking a nap.",
+    "japaneseTranslation": "聞こえないわ、あなたは家に帰って昼寝してるんだから。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_136",
+    "englishText": "D-Money, there he is. Come on in.",
+    "japaneseTranslation": "D-マネー、来たぞ。さあ、入って。",
+    "explanation": "「D-Money」はディランの愛称。"
+  },
+  {
+    "id": "MF_s01e04_137",
+    "englishText": "Hey, everybody, this is Dylan. He's a very gentle soul.",
+    "japaneseTranslation": "みんな、こちらはディランだよ。彼はとても優しい心の持ち主なんだ。",
+    "explanation": "「gentle soul」は「優しい心の持ち主」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_138",
+    "englishText": "You got that from Hey?",
+    "japaneseTranslation": "「ヘイ」って言っただけでそれがわかったの？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_139",
+    "englishText": "You were in a band? Could have been, but in high school I was really all about my magic, so...",
+    "japaneseTranslation": "バンドやってたの？そうだったかもしれないけど、高校時代は本当にマジックに夢中だったから…",
+    "explanation": "「all about ~」は「〜に夢中である」「〜がすべてである」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_140",
+    "englishText": "Oh, that's going to be Dad and Gloria. Oh, Mitchell, I know it's silly, but I'm a little nervous.",
+    "japaneseTranslation": "ああ、あれはパパとグロリアね。ああ、ミッチェル、馬鹿げてるのはわかるけど、ちょっと緊張するわ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_141",
+    "englishText": "Oh, that's not silly. You should be.",
+    "japaneseTranslation": "ああ、馬鹿げてることないよ。当然だよ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_142",
+    "englishText": "Hi, Jay. Don't make fun. He may burn your house down.",
+    "japaneseTranslation": "やあ、ジェイ。からかわないで。彼、あなたの家を燃やすかもしれないわよ。",
+    "explanation": "「make fun」は「からかう」。「burn your house down」は「家を燃やす」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_143",
+    "englishText": "What is she doing here? What does she mean? Mitchell told you I'd be here.",
+    "japaneseTranslation": "彼女ここで何してるの？どういう意味？ミッチェルが私がここにいるって言ったでしょ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_144",
+    "englishText": "Lies! I couldn't tell her because she wouldn't come. Gloria, my mom wants to apologize for everything.",
+    "japaneseTranslation": "嘘だ！彼女は来ないだろうから言えなかったんだ。グロリア、僕のママが全てのことについて謝りたいって。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_145",
+    "englishText": "So you just spring it on Gloria like this? Mitchell, what the hell is wrong with you?",
+    "japaneseTranslation": "それでグロリアにいきなりそう言うわけ？ミッチェル、一体どうしちゃったの？",
+    "explanation": "「spring it on ~」は「〜にいきなり話を持ち出す」。「What the hell is wrong with you?」は「一体どうしちゃったんだ？」という強い非難の表現。"
+  },
+  {
+    "id": "MF_s01e04_146",
+    "englishText": "I don't want her apologies. And who could blame you, honey?",
+    "japaneseTranslation": "彼女の謝罪なんていらないわ。そして、あなたを責める人なんていないわ、ハニー？",
+    "explanation": "「who could blame you?」は「あなたを責める人なんていない」という慣用句。"
+  },
+  {
+    "id": "MF_s01e04_147",
+    "englishText": "Which is why this is a terrible idea by you!",
+    "japaneseTranslation": "だからこれはあなたにとってひどいアイデアなのよ！",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_148",
+    "englishText": "Wait, Gloria, I just want to tell you how sorry I am for ruining your wedding. I was struggling with being alone.",
+    "japaneseTranslation": "待って、グロリア、あなたの結婚式を台無しにしてしまって、どれほど申し訳なく思っているか伝えたいの。私は一人でいることに苦しんでいたのよ。",
+    "explanation": "「struggling with ~」は「〜に苦しんでいる」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_149",
+    "englishText": "Meanwhile, Jay moves on so easily, and not with just anyone. With a young and smart and beautiful woman.",
+    "japaneseTranslation": "その間、ジェイはあっさり次に進んで、しかも誰とでもない。若くて賢くて美しい女性とね。",
+    "explanation": "「moves on」は「次に進む」。「not with just anyone」は「誰とでもない」という強調表現。"
+  },
+  {
+    "id": "MF_s01e04_150",
+    "englishText": "I don't expect you to forgive me. If I were you, I'd want to punch me right in the mouth.",
+    "japaneseTranslation": "あなたに許してもらえるとは思っていないわ。もし私があなただったら、私の口を殴りたいと思うでしょうね。",
+    "explanation": "「If I were you」は「もし私があなただったら」という仮定法。「punch me right in the mouth」は「私の口を殴る」という強い表現。"
+  },
+  {
+    "id": "MF_s01e04_151",
+    "englishText": "I think we've had enough revenge in this family for one day.",
+    "japaneseTranslation": "この家族では、今日はもう十分復讐したと思うわ。",
+    "explanation": "「had enough revenge」は「十分復讐した」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_152",
+    "englishText": "Okay. You see? We're all gonna move past this. And because of me, who's not a momma's boy,",
+    "japaneseTranslation": "よし。わかる？僕たちはみんなこれを乗り越えるんだ。そして、マザコンじゃない僕のおかげで、",
+    "explanation": "「momma's boy」は「マザコン」という意味。「gonna」は「going to」の短縮形。"
+  },
+  {
+    "id": "MF_s01e04_153",
+    "englishText": "but is a caring person with wisdom and emotional insight, so make a note, bitches.",
+    "japaneseTranslation": "でも知恵と感情的な洞察力を持った思いやりのある人間だから、メモしとけよ、ビッチども。",
+    "explanation": "「emotional insight」は「感情的な洞察力」。「make a note」は「メモする」。「bitches」は侮蔑的なスラング。"
+  },
+  {
+    "id": "MF_s01e04_154",
+    "englishText": "It's not a good color on you.",
+    "japaneseTranslation": "それはあなたには似合わない色ね。",
+    "explanation": "「not a good color on you」は「あなたには似合わない色だ」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_155",
+    "englishText": "I forgive you. Oh, I am not prepared for this. I just want to... rip your head off!",
+    "japaneseTranslation": "許すわ。ああ、これには準備ができてないわ。ただ…あなたの頭を引きちぎりたい！",
+    "explanation": "「not prepared for this」は「これには準備ができていない」。「rip your head off」は「あなたの頭を引きちぎる」という強い怒りの表現。"
+  },
+  {
+    "id": "MF_s01e04_156",
+    "englishText": "Stop, the two of you. This is ridiculous. Gloria didn't steal me, DeDe, and you know it.",
+    "japaneseTranslation": "二人ともやめろ。馬鹿げてる。グロリアは俺を盗んでない、ディーディー、お前もわかってるだろ。",
+    "explanation": "「ridiculous」は「馬鹿げている」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_157",
+    "englishText": "We grew apart for years, and you left to find yourself, remember?",
+    "japaneseTranslation": "何年もかけて僕たちは疎遠になったんだ、そして君は自分自身を見つけるために去ったんだ、覚えてるか？",
+    "explanation": "「grew apart」は「疎遠になった」。「find yourself」は「自分自身を見つける」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_158",
+    "englishText": "I thought I could handle this. I'm so sorry.",
+    "japaneseTranslation": "私、これを乗り越えられると思ったのに。本当にごめんなさい。",
+    "explanation": "「handle this」は「これを処理する」「これに対処する」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_159",
+    "englishText": "You don't say sorry anymore! That word means nothing in your mouth! I don't know what just happened.",
+    "japaneseTranslation": "もう謝らないで！その言葉はあなたの口からは何の価値もないわ！今何が起こったのかわからない。",
+    "explanation": "「means nothing in your mouth」は「あなたの口からは何の価値もない」という強い非難の表現。"
+  },
+  {
+    "id": "MF_s01e04_160",
+    "englishText": "I do. I mean, it seems pretty simple to me.",
+    "japaneseTranslation": "僕はわかるよ。つまり、僕にはかなり単純に見えるね。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_161",
+    "englishText": "You're raeching out, trying to hold on to something awesome.",
+    "japaneseTranslation": "あなたは手を伸ばして、何か素晴らしいものにしがみつこうとしているんだ。",
+    "explanation": "「reach out」は「手を伸ばす」。「hold on to ~」は「〜にしがみつく」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_162",
+    "englishText": "Look, I'm not used to this. The whole big family thing. In my house, we don't even talk to each other.",
+    "japaneseTranslation": "見て、僕はこれに慣れてないんだ。大家族っていうのがね。僕の家では、お互いに話すことすらしないんだ。",
+    "explanation": "「not used to ~」は「〜に慣れていない」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_163",
+    "englishText": "You know, it's funny, the first time I saw Heley, I knew I liked her.",
+    "japaneseTranslation": "あのね、面白いことに、初めてヘイリーを見た時、彼女のことが好きだってわかったんだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_164",
+    "englishText": "I mean, she's beautiful and everything, but it's not just that. It's that she's got this killer confidence.",
+    "japaneseTranslation": "つまり、彼女は美しいし、何でも持ってるけど、それだけじゃないんだ。彼女にはこのとてつもない自信があるんだ。",
+    "explanation": "「killer confidence」は「とてつもない自信」「圧倒的な自信」という口語表現。"
+  },
+  {
+    "id": "MF_s01e04_165",
+    "englishText": "You know, the kind of confidence that you get from having a family like this,",
+    "japaneseTranslation": "ほら、こんな家族がいるからこそ得られる自信ってやつさ、",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_166",
+    "englishText": "that's passionate and accepting of hot foreigners and gay dudes and nutty people.",
+    "japaneseTranslation": "情熱的で、魅力的な外国人やゲイの男たち、そしてちょっと変わった人たちを受け入れる家族さ。",
+    "explanation": "「hot foreigners」は「魅力的な外国人」。「gay dudes」は「ゲイの男たち」。「nutty people」は「ちょっと変わった人たち」という口語表現。"
+  },
+  {
+    "id": "MF_s01e04_167",
+    "englishText": "You know, a family that actually loves each other.",
+    "japaneseTranslation": "ほら、実際にお互いを愛し合っている家族ってやつさ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_168",
+    "englishText": "I can't believe I'm gonna say this, but maybe we should let her go with him. He's perfect.",
+    "japaneseTranslation": "こんなこと言うなんて信じられないけど、もしかしたら彼女を彼と行かせるべきかもしれない。彼は完璧だ。",
+    "explanation": "「I can't believe I'm gonna say this」は「こんなこと言うなんて信じられない」という口語表現。"
+  },
+  {
+    "id": "MF_s01e04_169",
+    "englishText": "Everybody, Haley says that Dylan is a musician, and he writes some great songs.",
+    "japaneseTranslation": "みんな、ヘイリーがディランはミュージシャンで、素晴らしい曲を書くって言ってるよ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_170",
+    "englishText": "Well, I guess so, if you want me to. We could all use a nice tune right now.",
+    "japaneseTranslation": "ええと、もしそうしてほしいなら、そうするわ。今、みんな素敵な曲が必要だものね。",
+    "explanation": "「We could all use a nice tune」は「みんな素敵な曲が必要だ」という口語表現。"
+  },
+  {
+    "id": "MF_s01e04_171",
+    "englishText": "This is actually a song I wrote for Haley. It's called In the Moonlight.",
+    "japaneseTranslation": "これは実はヘイリーのために書いた曲なんだ。「イン・ザ・ムーンライト」っていうんだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_172",
+    "englishText": "The stars are falling from the sky. And you're the reason why. The moon is shining on your face.",
+    "japaneseTranslation": "星が空から降ってくる。そして君がその理由だ。月が君の顔を照らしている。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_173",
+    "englishText": "Cause it finally feels it's found its place. Cause maybe, maybe,",
+    "japaneseTranslation": "だって、ついに自分の居場所を見つけた気がするから。だって、もしかしたら、もしかしたら、",
+    "explanation": "「found its place」は「自分の居場所を見つけた」という意味です。"
+  },
+  {
+    "id": "MF_s01e04_174",
+    "englishText": "I just want to do you, Do you. Do you want to do me, Do me. Underneath the moonlight, The moonlight",
+    "japaneseTranslation": "ただ君としたい、君と。僕としたい？僕と。月明かりの下で、月明かりの下で",
+    "explanation": "「do you/me」は性的な意味合いを含むスラング。"
+  },
+  {
+    "id": "MF_s01e04_175",
+    "englishText": "Baby, baby Maybe I'll just steal you, steal you. Just so I can feel you. Feel you.",
+    "japaneseTranslation": "ベイビー、ベイビー。もしかしたら君を奪ってしまうかもしれない、奪ってしまう。ただ君を感じたいから。君を感じたいから。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_176",
+    "englishText": "Maybe that would heal you, heal you. On the inside.",
+    "japaneseTranslation": "もしかしたらそれが君を癒すかもしれない、癒すかもしれない。内側からね。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e04_177",
+    "englishText": "She is so not going. Not a chance in hell.",
+    "japaneseTranslation": "彼女は絶対に行かせないわ。絶対にありえない。",
+    "explanation": "「Not a chance in hell」は「絶対にありえない」「地獄でもありえない」という強い否定表現。"
+  },
+  {
+    "id": "MF_s01e04_178",
+    "englishText": "Never good at harmonizing. That was good.",
+    "japaneseTranslation": "ハモるのは苦手だったな。あれは良かった。",
+    "explanation": ""
   }
 ]
