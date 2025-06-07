@@ -13,6 +13,6 @@ export interface ScriptGroup {
   details?: {
     [key: string]: string | number | boolean | null;
   };
-  scriptIds: string[];
+  // scriptIds: string[]; // Removed as scripts will be loaded by group ID
   description?: string;
 }

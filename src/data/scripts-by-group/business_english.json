@@ -1,0 +1,20 @@
+[
+  {
+    "id": "business_001",
+    "englishText": "I'd like to schedule a meeting for next week.",
+    "japaneseTranslation": "来週、会議の予定を組みたいのですが。",
+    "explanation": "「I'd like to」は丁寧な依頼表現で、ビジネスシーンでよく使われます。"
+  },
+  {
+    "id": "business_002",
+    "englishText": "Could you please send me the quarterly report by Friday?",
+    "japaneseTranslation": "金曜日までに四半期レポートを送っていただけますか？",
+    "explanation": "「Could you please」は非常に丁寧な依頼の表現です。"
+  },
+  {
+    "id": "business_003",
+    "englishText": "Let's table this discussion for now and revisit it next month.",
+    "japaneseTranslation": "この議論は一旦保留にして、来月再検討しましょう。",
+    "explanation": "「table」は動詞として「保留にする」という意味で使われます。"
+  }
+]
