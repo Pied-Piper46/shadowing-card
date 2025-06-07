@@ -1,6 +1,6 @@
 'use client';
 
-import React from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Script } from '@/types';
 import { useSpeechSynthesis } from '@/hooks/useSpeechSynthesis';
@@ -15,8 +15,26 @@ interface CardProps {
   onToggleExpand: () => void;
 }
 
+const MAX_CONTENT_HEIGHT = 200; // Define max height for content
+
 const Card: React.FC<CardProps> = ({ script, isExpanded, onToggleExpand }) => {
   const { speak, cancel, isSpeaking, isSupported } = useSpeechSynthesis();
+  const [needsScroll, setNeedsScroll] = useState(false);
+  const contentRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (isExpanded && contentRef.current) {
+      // Use a timeout to allow layout to settle before measuring
+      const timer = setTimeout(() => {
+        if (contentRef.current) {
+          setNeedsScroll(contentRef.current.scrollHeight > MAX_CONTENT_HEIGHT);
+        }
+      }, 50); // Adjust delay if needed, 50ms is a common starting point
+      return () => clearTimeout(timer);
+    } else {
+      setNeedsScroll(false);
+    }
+  }, [isExpanded, script]); // Rerun if card expands or content changes
 
   const handlePlayAudio = (e: React.MouseEvent) => {
     e.stopPropagation(); // Prevent card tap when clicking button
@@ -31,7 +49,12 @@ const Card: React.FC<CardProps> = ({ script, isExpanded, onToggleExpand }) => {
 
   const cardContentVariants = {
     collapsed: { opacity: 0, height: 0, y: -10 },
-    expanded: { opacity: 1, height: 'auto', y: 0, transition: { duration: 0.3, ease: "easeInOut" } },
+    expanded: { 
+      opacity: 1, 
+      height: 'auto', // Content will determine height, constrained by maxHeight in style
+      y: 0, 
+      transition: { duration: 0.3, ease: "easeInOut" } 
+    },
   };
 
   return (
@@ -80,12 +103,14 @@ const Card: React.FC<CardProps> = ({ script, isExpanded, onToggleExpand }) => {
       <AnimatePresence initial={false}>
         {isExpanded && (
           <motion.div
-            key="details"
-            variants={cardContentVariants}
+            key="details" // Keep one key
+            ref={contentRef} // Keep ref
+            variants={cardContentVariants} // Keep one variants
             initial="collapsed"
             animate="expanded"
             exit="collapsed"
-            className="overflow-hidden" // Prevents content spill during animation
+            className={needsScroll ? "overflow-y-auto" : "overflow-hidden"} // Use needsScroll state
+            style={{ maxHeight: isExpanded ? `${MAX_CONTENT_HEIGHT}px` : '0px' }} // Use constant for maxHeight
           >
             <div className="mt-4 pt-4 border-t border-neumorph-primary-dark/30">
               <div className="mb-3">
@@ -93,7 +118,7 @@ const Card: React.FC<CardProps> = ({ script, isExpanded, onToggleExpand }) => {
                   <LanguageIcon className="h-4 w-4 mr-2 text-neumorph-accent" />
                   日本語訳
                 </h3>
-                <p className="text-neumorph-text/90">{script.japaneseTranslation}</p>
+                <p className="text-neumorph-text/90 text-sm">{script.japaneseTranslation}</p>
               </div>
               <div>
                 <h3 className="text-sm font-medium text-neumorph-text/70 mb-1 flex items-center">

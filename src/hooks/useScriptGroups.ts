@@ -2,13 +2,13 @@
 
 import { useState, useEffect, useCallback } from 'react';
 import { Script, ScriptGroup } from '@/types';
-import scriptsData from '@/data/scripts.json';
+// import scriptsData from '@/data/scripts.json'; // Removed
 import scriptGroupsData from '@/data/scriptGroups.json';
 
 const STORAGE_KEY = 'shadowing-card-current-group';
 
 export const useScriptGroups = () => {
-  const [allScripts] = useState<Script[]>(scriptsData as Script[]);
+  // const [allScripts] = useState<Script[]>(scriptsData as Script[]); // Removed
   const [scriptGroups] = useState<ScriptGroup[]>(scriptGroupsData as ScriptGroup[]);
   const [currentGroupId, setCurrentGroupId] = useState<string>('');
   const [currentScripts, setCurrentScripts] = useState<Script[]>([]);
@@ -30,20 +30,35 @@ export const useScriptGroups = () => {
 
   // Update current scripts when group changes
   useEffect(() => {
-    if (currentGroupId && scriptGroups.length > 0) {
+    if (currentGroupId) {
       const group = scriptGroups.find(g => g.id === currentGroupId);
+      setCurrentGroup(group || null);
+
       if (group) {
-        setCurrentGroup(group);
-        const groupScripts = allScripts.filter(script => 
-          group.scriptIds.includes(script.id)
-        );
-        setCurrentScripts(groupScripts);
+        // Dynamically import the scripts for the current group
+        import(`@/data/scripts-by-group/${currentGroupId}.json`)
+          .then(module => {
+            // Assuming the JSON file directly contains the array of scripts
+            // and Next.js handles it as default export for JSON.
+            setCurrentScripts(module.default as Script[]);
+          })
+          .catch(error => {
+            console.error(`Error loading scripts for group ${currentGroupId}:`, error);
+            setCurrentScripts([]); // Set to empty array on error
+          });
         
         // Save to localStorage
         localStorage.setItem(STORAGE_KEY, currentGroupId);
+      } else {
+        // If group is not found (e.g., invalid currentGroupId), clear scripts
+        setCurrentScripts([]);
       }
+    } else {
+      // If no currentGroupId, clear scripts and currentGroup
+      setCurrentScripts([]);
+      setCurrentGroup(null);
     }
-  }, [currentGroupId, allScripts, scriptGroups]);
+  }, [currentGroupId, scriptGroups]);
 
   const selectGroup = useCallback((groupId: string) => {
     setCurrentGroupId(groupId);
