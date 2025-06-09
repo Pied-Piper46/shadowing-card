@@ -20,6 +20,19 @@
     "description": "モダンファミリーシーズン１、エピソード４のスクリプトです。"
   },
   {
+    "id": "MF_s01e05",
+    "title": "Modern Familiy - s01e05: 「危ない対決」",
+    "category": "American TV Series",
+    "subCategory": "Modern Family",
+    "details": {
+      "series": "Modern Family",
+      "season": 1,
+      "episode": 5,
+      "episodeTitle": "危ない対決"
+    },
+    "description": "モダンファミリーシーズン1、エピソード5のスクリプトです。"
+  },
+  {
     "id": "friends_s01e01",
     "title": "Friends - S01E01: The One Where Monica Gets a Roommate",
     "category": "American TV Series",

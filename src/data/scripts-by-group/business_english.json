@@ -3,618 +3,618 @@
     "id": "business_001",
     "englishText": "I'd like to schedule a meeting for next week.",
     "japaneseTranslation": "来週、会議の予定を組みたいのですが。",
-    "explanation": "「I'd like to」は丁寧な依頼表現で、ビジネスシーンでよく使われます。"
+    "explanation": "「I'd like to 動詞の原形」は、「～したいのですが」という丁寧な依頼や希望を表す構文です。ビジネスシーンでよく使われます。"
   },
   {
     "id": "business_002",
     "englishText": "Could you please send me the quarterly report by Friday?",
     "japaneseTranslation": "金曜日までに四半期レポートを送っていただけますか？",
-    "explanation": "「Could you please」は非常に丁寧な依頼の表現です。"
+    "explanation": "「Could you please 動詞の原形」は、「～していただけますか」という非常に丁寧な依頼の表現です。'please' を加えることで、より丁寧さが増します。"
   },
   {
     "id": "business_003",
     "englishText": "Let's table this discussion for now and revisit it next month.",
     "japaneseTranslation": "この議論は一旦保留にして、来月再検討しましょう。",
-    "explanation": "「table」は動詞として「保留にする」という意味で使われます。"
+    "explanation": "「table」は動詞として「（議題などを）保留にする、棚上げする」という意味で使われるビジネス英語の表現です。アメリカ英語でよく使われます。"
   },
   {
     "id": "business_004",
     "englishText": "Thank you for your prompt response.",
     "japaneseTranslation": "迅速なご返信ありがとうございます。",
-    "explanation": "ビジネスメールで感謝を伝える際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_005",
     "englishText": "I apologize for the inconvenience.",
     "japaneseTranslation": "ご不便をおかけして申し訳ありません。",
-    "explanation": "謝罪の際に使われる丁寧な表現です。"
+    "explanation": ""
   },
   {
     "id": "business_006",
     "englishText": "Please find the attached report.",
     "japaneseTranslation": "添付のレポートをご確認ください。",
-    "explanation": "メールでファイルを添付する際に使われます。"
+    "explanation": "「Please find the attached ～」は、メールでファイルを添付する際に「添付の～をご確認ください」という意味で使われる定型表現です。"
   },
   {
     "id": "business_007",
     "englishText": "I look forward to hearing from you soon.",
     "japaneseTranslation": "近いうちにご連絡をお待ちしております。",
-    "explanation": "返信を期待する際に使われる結びの言葉です。"
+    "explanation": "「look forward to ～ing」は、「～を楽しみに待つ」という意味で、ビジネスメールの結びによく使われる丁寧な表現です。"
   },
   {
     "id": "business_008",
     "englishText": "Could you elaborate on that point?",
     "japaneseTranslation": "その点について詳しく説明していただけますか？",
-    "explanation": "より詳細な説明を求める際に使われます。"
+    "explanation": "「elaborate on ～」は、「～について詳しく説明する」という意味の動詞句です。より詳細な説明を求める際に使われます。"
   },
   {
     "id": "business_009",
     "englishText": "Let's touch base next week.",
     "japaneseTranslation": "来週、連絡を取り合いましょう。",
-    "explanation": "近いうちに連絡を取ることを提案する際に使われるカジュアルな表現です。"
+    "explanation": "「touch base」は「連絡を取る、近況を報告し合う」という意味のイディオムで、カジュアルなビジネスシーンでよく使われます。"
   },
   {
     "id": "business_010",
     "englishText": "I'll get back to you shortly.",
     "japaneseTranslation": "すぐに折り返しご連絡いたします。",
-    "explanation": "返信が遅れるが、すぐに連絡することを伝える際に使われます。"
+    "explanation": "「get back to ～」は「～に折り返し連絡する」という意味の句動詞です。'shortly' は「すぐに」という意味で、返信が遅れるがすぐに連絡することを伝える際に使われます。"
   },
   {
     "id": "business_011",
     "englishText": "Please keep me updated.",
     "japaneseTranslation": "最新情報をお知らせください。",
-    "explanation": "状況の進捗を求める際に使われます。"
+    "explanation": "「keep someone updated」は「～に最新情報を知らせる」という意味の表現です。状況の進捗を求める際に使われます。"
   },
   {
     "id": "business_012",
     "englishText": "We need to prioritize this task.",
     "japaneseTranslation": "このタスクを優先する必要があります。",
-    "explanation": "重要性を強調する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_013",
     "englishText": "Let's brainstorm some ideas.",
     "japaneseTranslation": "いくつかアイデアを出し合いましょう。",
-    "explanation": "会議などで新しいアイデアを出すことを提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_014",
     "englishText": "I'll follow up with you on Monday.",
     "japaneseTranslation": "月曜日に改めてご連絡いたします。",
-    "explanation": "後日改めて連絡することを伝える際に使われます。"
+    "explanation": "「follow up with ～」は「～に（後日）改めて連絡する、進捗を確認する」という意味の句動詞です。"
   },
   {
     "id": "business_015",
     "englishText": "We're on track to meet the deadline.",
     "japaneseTranslation": "締め切りに間に合うように順調に進んでいます。",
-    "explanation": "プロジェクトの進捗が順調であることを伝える際に使われます。"
+    "explanation": "「on track to ～」は「～する軌道に乗っている、順調に進んでいる」という意味の表現です。"
   },
   {
     "id": "business_016",
     "englishText": "Could you provide some feedback?",
     "japaneseTranslation": "フィードバックをいただけますか？",
-    "explanation": "意見や感想を求める際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_017",
     "englishText": "Let's iron out the details.",
     "japaneseTranslation": "詳細を詰めていきましょう。",
-    "explanation": "細かい点を解決する際に使われる表現です。"
+    "explanation": "「iron out ～」は「～を解決する、～の細かい点を詰める」という意味のイディオムです。問題や不明瞭な点を解消する際に使われます。"
   },
   {
     "id": "business_018",
     "englishText": "I'll circle back to this later.",
     "japaneseTranslation": "これについては後でまた検討します。",
-    "explanation": "後で改めて検討することを伝える際に使われます。"
+    "explanation": "「circle back to ～」は「～に後で戻る、～を後で再検討する」という意味のイディオムです。特に会議などで、一度脇に置いた議題に後で触れる際に使われます。"
   },
   {
     "id": "business_019",
     "englishText": "We need to align on our strategy.",
     "japaneseTranslation": "戦略について認識を合わせる必要があります。",
-    "explanation": "意見や方針を一致させる際に使われます。"
+    "explanation": "「align on ～」は「～について認識を合わせる、意見を一致させる」という意味の表現です。"
   },
   {
     "id": "business_020",
     "englishText": "Let's leverage our resources.",
     "japaneseTranslation": "私たちのリソースを活用しましょう。",
-    "explanation": "既存の資源を最大限に活用することを提案する際に使われます。"
+    "explanation": "「leverage ～」は「～を最大限に活用する、てこの原理で動かす」という意味の動詞です。ビジネスシーンで資源や強みを有効活用する際に使われます。"
   },
   {
     "id": "business_021",
     "englishText": "I'll take the lead on this project.",
     "japaneseTranslation": "このプロジェクトは私が主導します。",
-    "explanation": "自分が責任者となることを伝える際に使われます。"
+    "explanation": "「take the lead on ～」は「～を主導する、率先して行う」という意味の表現です。"
   },
   {
     "id": "business_022",
     "englishText": "We need to mitigate the risks.",
     "japaneseTranslation": "リスクを軽減する必要があります。",
-    "explanation": "リスクを減らすことを提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_023",
     "englishText": "Let's set up a call.",
     "japaneseTranslation": "電話会議を設定しましょう。",
-    "explanation": "電話会議を提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_024",
     "englishText": "I'll send you an invite.",
     "japaneseTranslation": "招待状を送ります。",
-    "explanation": "会議の招待を送る際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_025",
     "englishText": "We're facing a challenging situation.",
     "japaneseTranslation": "私たちは困難な状況に直面しています。",
-    "explanation": "問題があることを伝える際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_026",
     "englishText": "Let's think outside the box.",
     "japaneseTranslation": "型にはまらない発想をしましょう。",
-    "explanation": "創造的なアイデアを求める際に使われる表現です。"
+    "explanation": "「think outside the box」は「既成概念にとらわれずに考える、独創的な発想をする」という意味のイディオムです。"
   },
   {
     "id": "business_027",
     "englishText": "I'll keep that in mind.",
     "japaneseTranslation": "心に留めておきます。",
-    "explanation": "相手の意見を考慮に入れることを伝える際に使われます。"
+    "explanation": "「keep ～ in mind」は「～を心に留めておく、覚えておく」という意味の表現です。"
   },
   {
     "id": "business_028",
     "englishText": "We need to streamline our processes.",
     "japaneseTranslation": "プロセスを効率化する必要があります。",
-    "explanation": "作業手順を改善することを提案する際に使われます。"
+    "explanation": "「streamline ～」は「～を効率化する、簡素化する」という意味の動詞です。"
   },
   {
     "id": "business_029",
     "englishText": "Let's get straight to the point.",
     "japaneseTranslation": "早速本題に入りましょう。",
-    "explanation": "会議などで無駄なく本題に入ることを提案する際に使われます。"
+    "explanation": "「get straight to the point」は「すぐに本題に入る」という意味のイディオムです。"
   },
   {
     "id": "business_030",
     "englishText": "I appreciate your understanding.",
     "japaneseTranslation": "ご理解いただきありがとうございます。",
-    "explanation": "相手の理解に感謝する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_031",
     "englishText": "We need to allocate resources effectively.",
     "japaneseTranslation": "リソースを効果的に配分する必要があります。",
-    "explanation": "資源の効率的な利用を提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_032",
     "englishText": "Let's clarify the objectives.",
     "japaneseTranslation": "目的を明確にしましょう。",
-    "explanation": "目標をはっきりさせることを提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_033",
     "englishText": "I'll handle that.",
     "japaneseTranslation": "私が対応します。",
-    "explanation": "自分が担当することを伝える際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_034",
     "englishText": "We need to assess the situation.",
     "japaneseTranslation": "状況を評価する必要があります。",
-    "explanation": "現状を分析することを提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_035",
     "englishText": "Let's move forward with the plan.",
     "japaneseTranslation": "計画を進めましょう。",
-    "explanation": "計画を実行に移すことを提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_036",
     "englishText": "I'll keep you in the loop.",
     "japaneseTranslation": "随時状況をお知らせします。",
-    "explanation": "最新情報を共有することを伝える際に使われます。"
+    "explanation": "「keep someone in the loop」は「～に最新情報を共有する、状況を知らせ続ける」という意味のイディオムです。"
   },
   {
     "id": "business_037",
     "englishText": "We need to address this issue.",
     "japaneseTranslation": "この問題に対処する必要があります。",
-    "explanation": "問題解決の必要性を強調する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_038",
     "englishText": "Let's get this done.",
     "japaneseTranslation": "これをやり遂げましょう。",
-    "explanation": "タスクの完了を促す際に使われる表現です。"
+    "explanation": ""
   },
   {
     "id": "business_039",
     "englishText": "I'll confirm the details.",
     "japaneseTranslation": "詳細を確認します。",
-    "explanation": "情報の確認を伝える際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_040",
     "englishText": "We need to stay competitive.",
     "japaneseTranslation": "競争力を維持する必要があります。",
-    "explanation": "市場での優位性を保つことを強調する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_041",
     "englishText": "Let's explore other options.",
     "japaneseTranslation": "他の選択肢を探りましょう。",
-    "explanation": "代替案を検討することを提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_042",
     "englishText": "I'll take care of it.",
     "japaneseTranslation": "私が対応します。",
-    "explanation": "自分が責任を持って処理することを伝える際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_043",
     "englishText": "We need to be proactive.",
     "japaneseTranslation": "積極的に行動する必要があります。",
-    "explanation": "先手を打つことの重要性を強調する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_044",
     "englishText": "Let's wrap this up.",
     "japaneseTranslation": "これを締めくくりましょう。",
-    "explanation": "会議や議論を終える際に使われる表現です。"
+    "explanation": "「wrap up ～」は「～を終える、締めくくる」という意味の句動詞です。会議やプロジェクトの終了時に使われます。"
   },
   {
     "id": "business_045",
     "englishText": "I'll send a follow-up email.",
     "japaneseTranslation": "フォローアップメールを送ります。",
-    "explanation": "後日改めてメールを送ることを伝える際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_046",
     "englishText": "We need to optimize our workflow.",
     "japaneseTranslation": "ワークフローを最適化する必要があります。",
-    "explanation": "作業効率の改善を提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_047",
     "englishText": "Let's prioritize our tasks.",
     "japaneseTranslation": "タスクに優先順位をつけましょう。",
-    "explanation": "作業の優先順位付けを提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_048",
     "englishText": "I'll get right on it.",
     "japaneseTranslation": "すぐに取り掛かります。",
-    "explanation": "すぐに作業を開始することを伝える際に使われます。"
+    "explanation": "「get right on it」は「すぐにそれに取り掛かる」という意味のイディオムです。迅速な対応を約束する際に使われます。"
   },
   {
     "id": "business_049",
     "englishText": "We need to ensure quality control.",
     "japaneseTranslation": "品質管理を徹底する必要があります。",
-    "explanation": "品質の維持・向上を強調する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_050",
     "englishText": "Let's review the progress.",
     "japaneseTranslation": "進捗を確認しましょう。",
-    "explanation": "プロジェクトの進捗状況を確認することを提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_051",
     "englishText": "I'll keep an eye on it.",
     "japaneseTranslation": "私が注意しておきます。",
-    "explanation": "状況を監視することを伝える際に使われます。"
+    "explanation": "「keep an eye on ～」は「～に目を光らせる、注意しておく」という意味のイディオムです。"
   },
   {
     "id": "business_052",
     "englishText": "We need to adapt to market changes.",
     "japaneseTranslation": "市場の変化に適応する必要があります。",
-    "explanation": "柔軟な対応の必要性を強調する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_053",
     "englishText": "Let's consolidate our efforts.",
     "japaneseTranslation": "私たちの努力を結集しましょう。",
-    "explanation": "協力を促す際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_054",
     "englishText": "I'll get a quote for that.",
     "japaneseTranslation": "それの見積もりを取ります。",
-    "explanation": "見積もりを依頼することを伝える際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_055",
     "englishText": "We need to enhance our customer experience.",
     "japaneseTranslation": "顧客体験を向上させる必要があります。",
-    "explanation": "顧客満足度を高めることを提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_056",
     "englishText": "Let's delegate tasks efficiently.",
     "japaneseTranslation": "タスクを効率的に割り当てましょう。",
-    "explanation": "業務の分担を提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_057",
     "englishText": "I'll double-check the figures.",
     "japaneseTranslation": "数字を再確認します。",
-    "explanation": "情報の正確性を確認することを伝える際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_058",
     "englishText": "We need to foster a collaborative environment.",
     "japaneseTranslation": "協力的な環境を育む必要があります。",
-    "explanation": "チームワークの重要性を強調する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_059",
     "englishText": "Let's outline the key takeaways.",
     "japaneseTranslation": "主要なポイントをまとめましょう。",
-    "explanation": "会議などの要点を整理することを提案する際に使われます。"
+    "explanation": "「outline ～」は「～の概要を述べる、要点をまとめる」という意味の動詞です。'key takeaways' は「主要なポイント、持ち帰るべき点」という意味のビジネス用語です。"
   },
   {
     "id": "business_060",
     "englishText": "I'll provide an update by end of day.",
     "japaneseTranslation": "今日の終わりまでに最新情報を提供します。",
-    "explanation": "その日のうちに状況を報告することを伝える際に使われます。"
+    "explanation": "「by end of day」は「今日の終わりまでに」という意味のビジネスでよく使われる表現です。略して「EOD」とも言われます。"
   },
   {
     "id": "business_061",
     "englishText": "We need to address the root cause.",
     "japaneseTranslation": "根本原因に対処する必要があります。",
-    "explanation": "問題の根本的な解決を提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_062",
     "englishText": "Let's streamline communication.",
     "japaneseTranslation": "コミュニケーションを効率化しましょう。",
-    "explanation": "情報伝達の改善を提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_063",
     "englishText": "I'll take notes during the meeting.",
     "japaneseTranslation": "会議中にメモを取ります。",
-    "explanation": "議事録作成などを申し出る際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_064",
     "englishText": "We need to set realistic expectations.",
     "japaneseTranslation": "現実的な期待値を設定する必要があります。",
-    "explanation": "過度な期待を避けることの重要性を強調する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_065",
     "englishText": "Let's conduct a thorough analysis.",
     "japaneseTranslation": "徹底的な分析を行いましょう。",
-    "explanation": "詳細な調査を提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_066",
     "englishText": "I'll prepare a presentation.",
     "japaneseTranslation": "プレゼンテーションを準備します。",
-    "explanation": "発表の準備を伝える際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_067",
     "englishText": "We need to implement new strategies.",
     "japaneseTranslation": "新しい戦略を実行する必要があります。",
-    "explanation": "新しい方針の導入を提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_068",
     "englishText": "Let's evaluate the outcomes.",
     "japaneseTranslation": "結果を評価しましょう。",
-    "explanation": "成果の検証を提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_069",
     "englishText": "I'll send out the agenda.",
     "japaneseTranslation": "議題を送付します。",
-    "explanation": "会議の議題を共有することを伝える際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_070",
     "englishText": "We need to maintain transparency.",
     "japaneseTranslation": "透明性を維持する必要があります。",
-    "explanation": "情報の公開性を強調する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_071",
     "englishText": "Let's consolidate our findings.",
     "japaneseTranslation": "私たちの発見を統合しましょう。",
-    "explanation": "複数の調査結果をまとめることを提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_072",
     "englishText": "I'll draft a proposal.",
     "japaneseTranslation": "提案書を作成します。",
-    "explanation": "提案書の作成を伝える際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_073",
     "englishText": "We need to gain a competitive edge.",
     "japaneseTranslation": "競争優位性を獲得する必要があります。",
-    "explanation": "市場での優位性を築くことを強調する際に使われます。"
+    "explanation": "「gain a competitive edge」は「競争優位性を獲得する」という意味のイディオムです。"
   },
   {
     "id": "business_074",
     "englishText": "Let's finalize the agreement.",
     "japaneseTranslation": "合意を最終決定しましょう。",
-    "explanation": "契約などを締結することを提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_075",
     "englishText": "I'll coordinate with the team.",
     "japaneseTranslation": "チームと連携します。",
-    "explanation": "チーム内での調整を伝える際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_076",
     "englishText": "We need to ensure compliance.",
     "japaneseTranslation": "コンプライアンスを遵守する必要があります。",
-    "explanation": "法令遵守の重要性を強調する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_077",
     "englishText": "Let's address any concerns.",
     "japaneseTranslation": "懸念事項に対処しましょう。",
-    "explanation": "不安や疑問を解消することを提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_078",
     "englishText": "I'll provide a comprehensive overview.",
     "japaneseTranslation": "包括的な概要を提供します。",
-    "explanation": "全体像を説明することを伝える際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_079",
     "englishText": "We need to foster innovation.",
     "japaneseTranslation": "イノベーションを促進する必要があります。",
-    "explanation": "新しいアイデアや技術の導入を促す際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_080",
     "englishText": "Let's set clear expectations.",
     "japaneseTranslation": "明確な期待値を設定しましょう。",
-    "explanation": "目標や役割をはっきりさせることを提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_081",
     "englishText": "I'll facilitate the discussion.",
     "japaneseTranslation": "議論を円滑に進めます。",
-    "explanation": "会議の進行役を務めることを伝える際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_082",
     "englishText": "We need to optimize our resources.",
     "japaneseTranslation": "リソースを最適化する必要があります。",
-    "explanation": "資源の効率的な利用を強調する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_083",
     "englishText": "Let's prioritize customer satisfaction.",
     "japaneseTranslation": "顧客満足度を最優先しましょう。",
-    "explanation": "顧客のニーズを最重要視することを提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_084",
     "englishText": "I'll conduct a market research.",
     "japaneseTranslation": "市場調査を行います。",
-    "explanation": "市場の動向を調査することを伝える際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_085",
     "englishText": "We need to enhance our brand image.",
     "japaneseTranslation": "ブランドイメージを向上させる必要があります。",
-    "explanation": "企業の評判を高めることを提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_086",
     "englishText": "Let's implement best practices.",
     "japaneseTranslation": "ベストプラクティスを実行しましょう。",
-    "explanation": "最も効果的な方法を導入することを提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_087",
     "englishText": "I'll provide a detailed breakdown.",
     "japaneseTranslation": "詳細な内訳を提供します。",
-    "explanation": "費用の内訳などを説明することを伝える際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_088",
     "englishText": "We need to mitigate potential risks.",
     "japaneseTranslation": "潜在的なリスクを軽減する必要があります。",
-    "explanation": "将来的な問題を防ぐことを強調する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_089",
     "englishText": "Let's collaborate on this project.",
     "japaneseTranslation": "このプロジェクトで協力しましょう。",
-    "explanation": "共同作業を提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_090",
     "englishText": "I'll keep track of the expenses.",
     "japaneseTranslation": "経費を記録しておきます。",
-    "explanation": "支出の管理を伝える際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_091",
     "englishText": "We need to ensure data security.",
     "japaneseTranslation": "データセキュリティを確保する必要があります。",
-    "explanation": "情報保護の重要性を強調する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_092",
     "englishText": "Let's review the contract terms.",
     "japaneseTranslation": "契約条件を確認しましょう。",
-    "explanation": "契約内容の確認を提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_093",
     "englishText": "I'll provide a progress report.",
     "japaneseTranslation": "進捗報告書を提供します。",
-    "explanation": "プロジェクトの進捗状況を報告することを伝える際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_094",
     "englishText": "We need to maintain a positive outlook.",
     "japaneseTranslation": "前向きな姿勢を維持する必要があります。",
-    "explanation": "困難な状況でも楽観的であることを強調する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_095",
     "englishText": "Let's explore new opportunities.",
     "japaneseTranslation": "新しい機会を探りましょう。",
-    "explanation": "ビジネスチャンスの探索を提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_096",
     "englishText": "I'll handle the logistics.",
     "japaneseTranslation": "私がロジスティクスを担当します。",
-    "explanation": "物流や手配を自分が担当することを伝える際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_097",
     "englishText": "We need to build strong relationships.",
     "japaneseTranslation": "強固な関係を築く必要があります。",
-    "explanation": "人間関係の構築の重要性を強調する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_098",
     "englishText": "Let's finalize the budget.",
     "japaneseTranslation": "予算を最終決定しましょう。",
-    "explanation": "予算の確定を提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_099",
     "englishText": "I'll provide a summary of our discussion.",
     "japaneseTranslation": "議論の要約を提供します。",
-    "explanation": "会議内容のまとめを伝える際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_100",
     "englishText": "We need to stay agile.",
     "japaneseTranslation": "俊敏性を維持する必要があります。",
-    "explanation": "変化に素早く対応することの重要性を強調する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_101",
     "englishText": "Let's set a realistic timeline.",
     "japaneseTranslation": "現実的なタイムラインを設定しましょう。",
-    "explanation": "無理のないスケジュールを提案する際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_102",
     "englishText": "I'll follow up on the action items.",
     "japaneseTranslation": "行動項目についてフォローアップします。",
-    "explanation": "決定事項の進捗を確認することを伝える際に使われます。"
+    "explanation": ""
   },
   {
     "id": "business_103",
     "englishText": "We need to leverage our strengths.",
     "japaneseTranslation": "私たちの強みを活かす必要があります。",
-    "explanation": "長所を最大限に活用することを強調する際に使われます。"
+    "explanation": ""
   }
 ]
