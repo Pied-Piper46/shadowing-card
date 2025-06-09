@@ -402,6 +402,7 @@ export default function HomePage() {
                     script={script}
                     isExpanded={isCardExpanded}
                     onToggleExpand={() => !isAnimating && handleCardTap(script.id)}
+                    selectedVoice={selectedVoice}
                   />
                 </motion.div>
               );

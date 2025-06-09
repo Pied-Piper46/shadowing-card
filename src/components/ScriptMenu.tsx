@@ -134,8 +134,8 @@ const ScriptMenu: React.FC<ScriptMenuProps> = ({
                             onClick={() => handleGroupSelect(group.id)}
                             className={`w-full text-left px-4 py-3 rounded-xl transition-all duration-200 ease-in-out
                               ${isSelected 
-                                ? 'bg-neumorph-accent text-white shadow-neumorph-pressed' 
-                                : 'bg-neumorph-bg text-neumorph-text shadow-neumorph-convex hover:shadow-neumorph-icon-hover'
+                                ? 'bg-neumorph-accent text-white shadow-neumorph-icon-pressed' 
+                                : 'bg-neumorph-bg text-neumorph-text shadow-neumorph-icon hover:shadow-neumorph-icon-hover'
                               }
                             `}
                             variants={itemVariants}

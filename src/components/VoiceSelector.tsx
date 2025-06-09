@@ -48,8 +48,8 @@ const VoiceSelector: React.FC<VoiceSelectorProps> = ({
               onClick={() => onVoiceSelect(voice)}
               className={`aspect-square rounded-xl transition-all duration-200 ease-in-out flex items-center justify-center
                 ${isSelected 
-                  ? 'bg-neumorph-accent text-white shadow-neumorph-pressed' 
-                  : 'bg-neumorph-bg text-neumorph-text shadow-neumorph-convex hover:shadow-neumorph-icon-hover'
+                  ? 'bg-neumorph-accent text-white shadow-neumorph-icon-pressed' 
+                  : 'bg-neumorph-bg text-neumorph-text shadow-neumorph-icon hover:shadow-neumorph-icon-hover'
                 }
               `}
               whileHover={{ scale: isSelected ? 1 : 1.05 }}

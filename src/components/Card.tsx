@@ -2,7 +2,7 @@
 
 import React, { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Script } from '@/types';
+import { Script, VoiceProvider } from '@/types';
 import { useSpeechSynthesis } from '@/hooks/useSpeechSynthesis';
 import IconVolumeUp from '@/components/IconVolumeUp'; // Assuming SpeakerWaveIcon
 import IconVolumeOff from '@/components/IconVolumeOff'; // Assuming SpeakerXMarkIcon or similar
@@ -13,11 +13,12 @@ interface CardProps {
   script: Script;
   isExpanded: boolean;
   onToggleExpand: () => void;
+  selectedVoice: VoiceProvider;
 }
 
 const MAX_CONTENT_HEIGHT = 200; // Define max height for content
 
-const Card: React.FC<CardProps> = ({ script, isExpanded, onToggleExpand }) => {
+const Card: React.FC<CardProps> = ({ script, isExpanded, onToggleExpand, selectedVoice }) => {
   const { speak, cancel, isSpeaking, isSupported } = useSpeechSynthesis();
   const [needsScroll, setNeedsScroll] = useState(false);
   const contentRef = useRef<HTMLDivElement>(null);
@@ -41,7 +42,7 @@ const Card: React.FC<CardProps> = ({ script, isExpanded, onToggleExpand }) => {
     if (isSpeaking) {
       cancel();
     } else if (isSupported) {
-      speak(script.englishText);
+      speak(script.englishText, selectedVoice);
     } else {
       alert('Sorry, your browser does not support text-to-speech.');
     }
