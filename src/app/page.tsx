@@ -5,7 +5,7 @@ import { motion, AnimatePresence, PanInfo } from 'framer-motion';
 import Card from '@/components/Card';
 import Header from '@/components/Header';
 import ScriptMenu from '@/components/ScriptMenu';
-import { Script } from '@/types';
+import { Script, VoiceProvider } from '@/types';
 import { useScriptGroups } from '@/hooks/useScriptGroups';
 import { useSpeechSynthesis } from '@/hooks/useSpeechSynthesis';
 import IconVolumeUp from '@/components/IconVolumeUp';
@@ -18,6 +18,7 @@ const PEEK_OPACITY = 0.5;
 const DRAG_THRESHOLD_MODIFIED = 50;
 
 const CURRENT_INDEX_STORAGE_KEY = 'shadowing-card-current-index';
+const VOICE_SELECTION_STORAGE_KEY = 'shadowing-card-voice-selection';
 const HOLD_DELAY = 500; // milliseconds before continuous scroll starts
 const INITIAL_SCROLL_INTERVAL = 150; // initial milliseconds for continuous scroll step
 
@@ -52,6 +53,7 @@ export default function HomePage() {
     getCurrentGroupTitle,
     getShortGroupTitle,
   } = useScriptGroups();
+  const [selectedVoice, setSelectedVoice] = useState<VoiceProvider>('browser');
   const { speak, cancel, isSpeaking, isSupported } = useSpeechSynthesis();
   
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -74,6 +76,19 @@ export default function HomePage() {
       }
     };
   }, []);
+
+  // Load voice selection from localStorage
+  useEffect(() => {
+    const savedVoice = localStorage.getItem(VOICE_SELECTION_STORAGE_KEY);
+    if (savedVoice && ['browser', 'google-us', 'google-uk', 'google-au'].includes(savedVoice)) {
+      setSelectedVoice(savedVoice as VoiceProvider);
+    }
+  }, []);
+
+  // Save voice selection to localStorage
+  useEffect(() => {
+    localStorage.setItem(VOICE_SELECTION_STORAGE_KEY, selectedVoice);
+  }, [selectedVoice]);
 
   // Reset current index when scripts change (and load from storage)
   useEffect(() => {
@@ -348,6 +363,8 @@ export default function HomePage() {
         scriptGroups={scriptGroups}
         currentGroupId={currentGroupId}
         onGroupSelect={selectGroup}
+        selectedVoice={selectedVoice}
+        onVoiceSelect={setSelectedVoice}
       />
 
       <div className="flex-grow flex flex-col items-center justify-center w-full relative px-4">
@@ -417,7 +434,7 @@ export default function HomePage() {
             onClick={() => {
               if (isSpeaking) cancel();
               if (currentScripts[currentIndex] && isSupported) {
-                speak(currentScripts[currentIndex].englishText);
+                speak(currentScripts[currentIndex].englishText, selectedVoice);
               } else if (!isSupported) {
                 alert('Sorry, your browser does not support text-to-speech.');
               }

@@ -2,8 +2,8 @@
 
 import React from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { XMarkIcon } from '@heroicons/react/24/outline';
-import { ScriptGroup } from '@/types';
+import { ScriptGroup, VoiceProvider } from '@/types';
+import VoiceSelector from './VoiceSelector';
 
 interface ScriptMenuProps {
   isOpen: boolean;
@@ -11,6 +11,8 @@ interface ScriptMenuProps {
   scriptGroups: ScriptGroup[];
   currentGroupId: string;
   onGroupSelect: (groupId: string) => void;
+  selectedVoice: VoiceProvider;
+  onVoiceSelect: (voice: VoiceProvider) => void;
 }
 
 const ScriptMenu: React.FC<ScriptMenuProps> = ({
@@ -19,6 +21,8 @@ const ScriptMenu: React.FC<ScriptMenuProps> = ({
   scriptGroups,
   currentGroupId,
   onGroupSelect,
+  selectedVoice,
+  onVoiceSelect,
 }) => {
   const handleGroupSelect = (groupId: string) => {
     onGroupSelect(groupId);
@@ -92,27 +96,24 @@ const ScriptMenu: React.FC<ScriptMenuProps> = ({
             animate="open"
             exit="closed"
           >
-            <div className="p-6">
-              {/* Header */}
-              <div className="flex items-center justify-between mb-6">
-                <h2 className="text-xl font-bold text-neumorph-text">
-                  Script Collections
-                </h2>
-                <motion.button
-                  onClick={onClose}
-                  className="p-2 rounded-xl transition-all duration-200 ease-in-out
-                    bg-neumorph-bg text-neumorph-text shadow-neumorph-icon 
-                    hover:shadow-neumorph-icon-hover active:shadow-neumorph-icon-pressed"
-                  whileHover={{ scale: 1.05 }}
-                  whileTap={{ scale: 0.95 }}
-                  aria-label="Close menu"
-                >
-                  <XMarkIcon className="h-5 w-5" />
-                </motion.button>
-              </div>
+            <div className="p-0">
+              {/* Voice Selector */}
+              <VoiceSelector
+                selectedVoice={selectedVoice}
+                onVoiceSelect={onVoiceSelect}
+                onClose={onClose}
+              />
 
-              {/* Script Groups by Category */}
-              <div className="space-y-6">
+              <div className="p-6">
+                {/* Header */}
+                <div className="mb-6">
+                  <h2 className="text-xl font-bold text-neumorph-text">
+                    Script Collections
+                  </h2>
+                </div>
+
+                {/* Script Groups by Category */}
+                <div className="space-y-6">
                 {Object.entries(groupedByCategory).map(([category, groups]) => (
                   <motion.div
                     key={category}
@@ -152,6 +153,7 @@ const ScriptMenu: React.FC<ScriptMenuProps> = ({
                     </div>
                   </motion.div>
                 ))}
+                </div>
               </div>
             </div>
           </motion.div>
