@@ -19,7 +19,15 @@ const DRAG_THRESHOLD_MODIFIED = 50;
 
 const CURRENT_INDEX_STORAGE_KEY = 'shadowing-card-current-index';
 const HOLD_DELAY = 500; // milliseconds before continuous scroll starts
-const SCROLL_INTERVAL = 150; // milliseconds for continuous scroll step
+const INITIAL_SCROLL_INTERVAL = 150; // initial milliseconds for continuous scroll step
+
+// Speed acceleration stages
+const ACCELERATION_STAGES = [
+  { threshold: 0, interval: 150 },    // 0-2s: normal speed
+  { threshold: 2000, interval: 100 }, // 2-4s: 1.5x speed  
+  { threshold: 4000, interval: 60 },  // 4-6s: 2.5x speed
+  { threshold: 6000, interval: 30 },  // 6s+: 5x speed
+];
 
 const transitionSpec = {
   type: "spring",
@@ -53,6 +61,7 @@ export default function HomePage() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const scrollIntervalRef = useRef<NodeJS.Timeout | null>(null);
   const holdStartTimeoutRef = useRef<NodeJS.Timeout | null>(null);
+  const holdStartTimeRef = useRef<number | null>(null);
 
   // Cleanup intervals and timeouts on component unmount
   useEffect(() => {
@@ -115,6 +124,22 @@ export default function HomePage() {
     }
   }, [currentScripts.length, currentIndex, expandedCardId, isAnimating]);
 
+  // Get current scroll interval based on hold duration
+  const getCurrentScrollInterval = useCallback(() => {
+    if (!holdStartTimeRef.current) return INITIAL_SCROLL_INTERVAL;
+    
+    const elapsed = Date.now() - holdStartTimeRef.current;
+    
+    // Find the appropriate acceleration stage
+    for (let i = ACCELERATION_STAGES.length - 1; i >= 0; i--) {
+      if (elapsed >= ACCELERATION_STAGES[i].threshold) {
+        return ACCELERATION_STAGES[i].interval;
+      }
+    }
+    
+    return INITIAL_SCROLL_INTERVAL;
+  }, []);
+
   useEffect(() => {
     if (isAnimating) {
       const animationDuration = (transitionSpec.stiffness > 0 ? 1000 / transitionSpec.stiffness : 0) * 5 + 300; 
@@ -125,19 +150,34 @@ export default function HomePage() {
     }
   }, [isAnimating]);
 
+  // Update scroll interval dynamically based on hold duration
+  const updateScrollInterval = useCallback((direction: number) => {
+    if (scrollIntervalRef.current) {
+      clearInterval(scrollIntervalRef.current);
+    }
+    
+    const currentInterval = getCurrentScrollInterval();
+    scrollIntervalRef.current = setInterval(() => {
+      navigate(direction);
+      // Schedule next interval update
+      updateScrollInterval(direction);
+    }, currentInterval);
+  }, [navigate, getCurrentScrollInterval]);
+
   const handlePressStart = useCallback((direction: number) => {
     if (holdStartTimeoutRef.current) clearTimeout(holdStartTimeoutRef.current);
     if (scrollIntervalRef.current) clearInterval(scrollIntervalRef.current);
 
+    // Record hold start time
+    holdStartTimeRef.current = Date.now();
+
     holdStartTimeoutRef.current = setTimeout(() => {
       // Initial scroll after hold delay
       navigate(direction);
-      // Then start interval for continuous scroll
-      scrollIntervalRef.current = setInterval(() => {
-        navigate(direction);
-      }, SCROLL_INTERVAL);
+      // Start dynamic interval for continuous scroll
+      updateScrollInterval(direction);
     }, HOLD_DELAY);
-  }, [navigate]);
+  }, [navigate, updateScrollInterval]);
 
   const handlePressEnd = useCallback(() => {
     if (holdStartTimeoutRef.current) {
@@ -148,6 +188,8 @@ export default function HomePage() {
       clearInterval(scrollIntervalRef.current);
       scrollIntervalRef.current = null;
     }
+    // Reset hold start time
+    holdStartTimeRef.current = null;
   }, []);
 
   const handleDragEnd = (event: MouseEvent | TouchEvent | PointerEvent, info: PanInfo) => {
