@@ -736,5 +736,869 @@
     "englishText": "So, my interest in football ended as suddenly and dramatically as the climax of West Side Story. I'm a musical theater fan.",
     "japaneseTranslation": "だから、フットボールへの私の興味は、『ウエスト・サイド物語』のクライマックスと同じくらい突然かつ劇的に終わったの。私はミュージカルシアターのファンよ。",
     "explanation": "'as suddenly and dramatically as': ～と同じくらい突然かつ劇的に。比較表現。'climax of West Side Story': 『ウエスト・サイド物語』のクライマックス。劇的な展開の比喩。"
+  },
+  {
+    "id": "MF_s01e05_124",
+    "englishText": "Okay, the truth? I sometimes feel like you don't like me.",
+    "japaneseTranslation": "さて、本当のことを言うと？時々、あなたは私が好きじゃないんじゃないかと感じるの。",
+    "explanation": "'feel like': ～のような気がする、～だと感じる。"
+  },
+  {
+    "id": "MF_s01e05_125",
+    "englishText": "Wow, Powerful stuff. Claire, tell us how that makes you feel.",
+    "japaneseTranslation": "すごい、強烈な内容だね。クレア、それがどんな気持ちにさせるか教えてくれる？",
+    "explanation": "'Powerful stuff': 強烈な内容、すごいこと。感情的な発言に対して使われる。"
+  },
+  {
+    "id": "MF_s01e05_126",
+    "englishText": "Right now, I'm feeling a lot of anger.",
+    "japaneseTranslation": "今、私はたくさんの怒りを感じているわ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_127",
+    "englishText": "Gloria, right now, I'm really angry at Phill.",
+    "japaneseTranslation": "グロリア、今、私はフィルに本当に怒っているわ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_128",
+    "englishText": "Let's respect the process.",
+    "japaneseTranslation": "プロセスを尊重しましょう。",
+    "explanation": "'respect the process': （話し合いや治療などの）プロセスを尊重する。焦らず、段階を踏むことの重要性を説く。"
+  },
+  {
+    "id": "MF_s01e05_129",
+    "englishText": "Gloria, I don't know why you think I don't like you.",
+    "japaneseTranslation": "グロリア、なぜ私があなたを好きじゃないと思うのか分からないわ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_130",
+    "englishText": "Well, sometimes when you see me, you make that face. Like this.",
+    "japaneseTranslation": "ええと、時々私を見ると、そういう顔をするじゃない。こんな風に。",
+    "explanation": "'make that face': （特定の）顔をする、表情を作る。"
+  },
+  {
+    "id": "MF_s01e05_131",
+    "englishText": "I do not make a face like that.",
+    "japaneseTranslation": "私はそんな顔はしないわ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_132",
+    "englishText": "Oh, my God, that is so Claire.",
+    "japaneseTranslation": "ああ、なんてこと、それってまさにクレアだわ。",
+    "explanation": "'that is so X': それはまさにXだ。Xの典型的な行動や特徴を表す。"
+  },
+  {
+    "id": "MF_s01e05_133",
+    "englishText": "See? She does that with everyone. It's just her face.",
+    "japaneseTranslation": "ほら？彼女は誰にでもそうするのよ。ただの彼女の顔なの。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_134",
+    "englishText": "No, it's not just the face. From the beginning, I feel like Manny and I are not welcome in this family.",
+    "japaneseTranslation": "いいえ、顔だけじゃないわ。最初から、マニーと私がこの家族に歓迎されていないように感じるの。",
+    "explanation": "'not welcome': 歓迎されていない。"
+  },
+  {
+    "id": "MF_s01e05_135",
+    "englishText": "It's not so crazy, it's how I feel.",
+    "japaneseTranslation": "そんなにおかしいことじゃないわ、それが私の気持ちなの。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_136",
+    "englishText": "I am sorry if you feel that way. I really am. Because from the moment I met you, I have tried to make you feel comfortable with us.",
+    "japaneseTranslation": "もしあなたがそう感じるなら、ごめんなさい。本当にそう思うわ。だって、あなたに会った瞬間から、私はあなたに私たちといて快適に感じてもらおうと努力してきたから。",
+    "explanation": "'I really am': 本当にそう思う（強調）。'make you feel comfortable': 快適に感じさせる。"
+  },
+  {
+    "id": "MF_s01e05_137",
+    "englishText": "You think it's all in my head?",
+    "japaneseTranslation": "全部私の気のせいだとでも思ってるの？",
+    "explanation": "'all in my head': 全て私の気のせい、思い込み。ネイティブ表現。"
+  },
+  {
+    "id": "MF_s01e05_138",
+    "englishText": "No. Kind... I don't know, I mean, we really love having you and Manny in our family.",
+    "japaneseTranslation": "いいえ。その…分からないわ、つまり、私たちは本当にあなたとマニーが家族にいることを愛しているわ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_139",
+    "englishText": "So you don't have to be so defensive.",
+    "japaneseTranslation": "だからそんなに防御的にならなくてもいいのよ。",
+    "explanation": "'defensive': 防御的な、守りに入る。"
+  },
+  {
+    "id": "MF_s01e05_140",
+    "englishText": "I'm feeling a hug. I was thinking group hug, but this is nice.",
+    "japaneseTranslation": "ハグを感じるわ。グループハグを考えていたけど、これもいいわね。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_141",
+    "englishText": "You know I'd be there if I could.",
+    "japaneseTranslation": "もしできるなら、そこにいるのにって分かってるでしょ。",
+    "explanation": "'I'd be there if I could': もしできるなら、そこにいるのに。物理的に参加できない状況で、気持ちだけは参加していることを示す。"
+  },
+  {
+    "id": "MF_s01e05_142",
+    "englishText": "Haley, get off the phone already.",
+    "japaneseTranslation": "ヘイリー、もう電話を切って。",
+    "explanation": "'get off the phone': 電話を切る。"
+  },
+  {
+    "id": "MF_s01e05_143",
+    "englishText": "Dad. Look, I was coming to get a beer anyways. Nice apology.",
+    "japaneseTranslation": "パパ。見て、どうせビールを取りに来てたんだ。良い謝罪だね。",
+    "explanation": "'anyways': とにかく、どうせ。'Nice apology': 良い謝罪だ（皮肉を込めて）。"
+  },
+  {
+    "id": "MF_s01e05_144",
+    "englishText": "Hey, there are our little roustabouts.",
+    "japaneseTranslation": "やあ、うちの小さなやんちゃ坊主たちだ。",
+    "explanation": "'roustabouts': （ここでは）やんちゃな子供たち、いたずらっ子。元々は港湾労働者やサーカスの雑役夫を指す。"
+  },
+  {
+    "id": "MF_s01e05_145",
+    "englishText": "You look like you patched things up pretty good, huh?",
+    "japaneseTranslation": "かなりうまく仲直りしたみたいだね、どう？",
+    "explanation": "'patch things up': 仲直りする、関係を修復する。'pretty good': かなり良い。"
+  },
+  {
+    "id": "MF_s01e05_146",
+    "englishText": "We can learn so much from the children.",
+    "japaneseTranslation": "私たちは子供たちからたくさんのことを学べるわ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_147",
+    "englishText": "I bet it seems kind of silly now what you were even fighting about, huh?",
+    "japaneseTranslation": "今となっては、何で喧嘩してたのか馬鹿らしく思えるだろうね、どう？",
+    "explanation": "'kind of silly': ちょっと馬鹿らしい。'what you were even fighting about': そもそも何について喧嘩していたのか。"
+  },
+  {
+    "id": "MF_s01e05_148",
+    "englishText": "I made fun of his accent.",
+    "japaneseTranslation": "彼のアクセントをからかったんだ。",
+    "explanation": "'made fun of': ～をからかった。"
+  },
+  {
+    "id": "MF_s01e05_149",
+    "englishText": "I made fun of him for having the same thing for lunch every day.",
+    "japaneseTranslation": "彼が毎日同じものをランチに食べてるのをからかったんだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_150",
+    "englishText": "I made fun of him because his mom used to dig coal.",
+    "japaneseTranslation": "彼のママが昔、炭鉱夫だったからからかったんだ。",
+    "explanation": "'dig coal': 石炭を掘る。炭鉱夫として働く。"
+  },
+  {
+    "id": "MF_s01e05_151",
+    "englishText": "He said you were a coal digger.",
+    "japaneseTranslation": "彼があなたのことを炭鉱夫だって言ったのよ。",
+    "explanation": "'coal digger': 炭鉱夫。ここでは、グロリアの過去の職業を指している。"
+  },
+  {
+    "id": "MF_s01e05_152",
+    "englishText": "Okay, I think we can move on.",
+    "japaneseTranslation": "よし、もう次に進めると思うわ。",
+    "explanation": "'move on': 次に進む、話題を変える。"
+  },
+  {
+    "id": "MF_s01e05_153",
+    "englishText": "Who said I was a coal digger?",
+    "japaneseTranslation": "誰が私が炭鉱夫だって言ったの？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_154",
+    "englishText": "That's what my mom told me.",
+    "japaneseTranslation": "ママがそう言ったんだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_155",
+    "englishText": "What's a coal digger?",
+    "japaneseTranslation": "炭鉱夫って何？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_156",
+    "englishText": "Sweetheart, you heard it wrong, it's gold digger.",
+    "japaneseTranslation": "坊や、聞き間違いよ、それは「ゴールドディガー」よ。",
+    "explanation": "'heard it wrong': 聞き間違い。'gold digger': 金目当ての女性。スラングで、男性の財産を目当てに交際する女性を指す。"
+  },
+  {
+    "id": "MF_s01e05_157",
+    "englishText": "I'm gonna have to call you back.",
+    "japaneseTranslation": "後でかけ直すわ。",
+    "explanation": "'gonna': going to の短縮形。'call you back': 後でかけ直す。"
+  },
+  {
+    "id": "MF_s01e05_158",
+    "englishText": "Well, I really do not think that I remember ever saying that.",
+    "japaneseTranslation": "ええと、そんなことを言った覚えは本当にないと思うわ。",
+    "explanation": "'I really do not think': 本当に思わない（強調）。'ever saying that': そんなことを言ったことがある。"
+  },
+  {
+    "id": "MF_s01e05_159",
+    "englishText": "Well, you said it in the car, you said it at Christmas, you said it at that Mexiacan restaurant...",
+    "japaneseTranslation": "だって、車の中で言ったし、クリスマスにも言ったし、あのメキシコ料理店でも言ったじゃない…",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_160",
+    "englishText": "Okay, Mr. Leaves-his-sweatshirts-at-school-everyday-suddenly-remembers-everything. Thank you.",
+    "japaneseTranslation": "分かったわ、毎日学校にスウェットシャツを置き忘れるくせに、急に全部思い出す人さん。ありがとう。",
+    "explanation": "皮肉を込めた表現。相手の普段の忘れっぽさと、都合の良い記憶力を対比させている。"
+  },
+  {
+    "id": "MF_s01e05_161",
+    "englishText": "And it was all in my head, huh?",
+    "japaneseTranslation": "そして全部私の気のせいだったってわけね？",
+    "explanation": "'all in my head': 全て私の気のせい、思い込み。"
+  },
+  {
+    "id": "MF_s01e05_162",
+    "englishText": "Listen, Gloria, it was, like, a year ago, before I knew you.",
+    "japaneseTranslation": "聞いて、グロリア、それは1年くらい前のことよ、あなたを知る前の。",
+    "explanation": "'like': ～くらい、～のような（口語表現）。"
+  },
+  {
+    "id": "MF_s01e05_163",
+    "englishText": "Nice going. Now my mom and my sister are fighting.",
+    "japaneseTranslation": "よくやったわね。今度は私のママと妹が喧嘩してるわ。",
+    "explanation": "'Nice going': よくやった（皮肉を込めて、失敗や問題を引き起こした時に使う）。"
+  },
+  {
+    "id": "MF_s01e05_164",
+    "englishText": "If I say something that everybody else is thinking, does that make me a mean person?",
+    "japaneseTranslation": "もし私が他の誰もが考えていることを言ったら、それは私を意地悪な人にするかしら？",
+    "explanation": "'mean person': 意地悪な人。"
+  },
+  {
+    "id": "MF_s01e05_165",
+    "englishText": "Or does it make me a brave person?",
+    "japaneseTranslation": "それとも私を勇敢な人にするかしら？",
+    "explanation": "'brave person': 勇敢な人。"
+  },
+  {
+    "id": "MF_s01e05_166",
+    "englishText": "One who is courageous enough to stand up and say something behind someone's back to a 10-year-old?",
+    "japaneseTranslation": "10歳の子供に、誰かの陰で立ち上がって何かを言うほど勇敢な人？",
+    "explanation": "'courageous enough to': ～するのに十分勇敢な。'behind someone's back': 誰かの陰で、こっそりと。"
+  },
+  {
+    "id": "MF_s01e05_167",
+    "englishText": "Well, she's pissed.",
+    "japaneseTranslation": "まあ、彼女は怒ってるわ。",
+    "explanation": "'pissed': 怒っている、うんざりしている（スラング）。"
+  },
+  {
+    "id": "MF_s01e05_168",
+    "englishText": "Yeah. She wouldn't even come out of her room.",
+    "japaneseTranslation": "ええ。彼女は部屋から出てこようともしないわ。",
+    "explanation": "'wouldn't even': ～しようともしない（強い拒否）。"
+  },
+  {
+    "id": "MF_s01e05_169",
+    "englishText": "Did you really have to call her that? A gold digger?",
+    "japaneseTranslation": "本当に彼女をそう呼ぶ必要があったの？金目当ての女って？",
+    "explanation": "'really have to': 本当に～する必要があるのか（非難のニュアンス）。'gold digger': 金目当ての女性。"
+  },
+  {
+    "id": "MF_s01e05_170",
+    "englishText": "You know what, Dad? It was a year ago, and it was a natural question to ask.",
+    "japaneseTranslation": "あのね、パパ？それは1年前のことだし、自然な疑問だったのよ。",
+    "explanation": "'natural question to ask': 自然な疑問。"
+  },
+  {
+    "id": "MF_s01e05_171",
+    "englishText": "She's a beautiful, hot woman and you're not exactly, you know...",
+    "japaneseTranslation": "彼女は美しくて魅力的な女性だし、あなたは正直、その…",
+    "explanation": "'hot woman': 魅力的な女性（スラング）。'not exactly': 正確には～ではない、あまり～ではない（婉曲表現）。"
+  },
+  {
+    "id": "MF_s01e05_172",
+    "englishText": "Not exactly what?",
+    "japaneseTranslation": "正確には何だって？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_173",
+    "englishText": "Mitchell, a little help.",
+    "japaneseTranslation": "ミッチェル、ちょっと助けて。",
+    "explanation": "'a little help': ちょっとした助け。"
+  },
+  {
+    "id": "MF_s01e05_174",
+    "englishText": "No, you are doing great.",
+    "japaneseTranslation": "いや、君はよくやっているよ。",
+    "explanation": "'doing great': よくやっている、素晴らしい。"
+  },
+  {
+    "id": "MF_s01e05_175",
+    "englishText": "No, see this is exactly why we sweep things under the rug. So people don't get hurt.",
+    "japaneseTranslation": "いや、ほら、だからこそ私たちは問題を隠すのよ。そうすれば誰も傷つかないから。",
+    "explanation": "'sweep things under the rug': 問題を隠す、見て見ぬふりをする。"
+  },
+  {
+    "id": "MF_s01e05_176",
+    "englishText": "Well, yeah, until you sweep too much under the rug, then you got a lumpy rug.",
+    "japaneseTranslation": "ええ、そうね、でも隠しすぎると、絨毯がでこぼこになるわよ。",
+    "explanation": "'lumpy rug': でこぼこの絨毯。問題を隠しすぎると、それが表面化して問題になることの比喩。"
+  },
+  {
+    "id": "MF_s01e05_177",
+    "englishText": "It creates a tripping hazard, you open yourself up to lawsuits.",
+    "japaneseTranslation": "つまずく危険を生むし、訴訟の対象になるわ。",
+    "explanation": "'tripping hazard': つまずく危険。'open yourself up to lawsuits': 訴訟の対象になる、訴えられる可能性を生む。"
+  },
+  {
+    "id": "MF_s01e05_178",
+    "englishText": "Boy, you can go a really long time without blingking.",
+    "japaneseTranslation": "君は本当に長い間まばたきせずにいられるんだね。",
+    "explanation": "'go a long time without X': 長い間Xせずにいる。'blingking'は'blinking'の誤記と思われる。"
+  },
+  {
+    "id": "MF_s01e05_179",
+    "englishText": "Hi, Gloria, it's Phill. Can I talk to you for a second?",
+    "japaneseTranslation": "やあ、グロリア、フィルだよ。ちょっと話せるかな？",
+    "explanation": "'for a second': ちょっとの間。"
+  },
+  {
+    "id": "MF_s01e05_180",
+    "englishText": "Claire likes to say, 'You can be part of the problem or part of the solution.'",
+    "japaneseTranslation": "クレアはよく言うんだ、「問題の一部になるか、解決策の一部になるかだ」って。",
+    "explanation": "'part of the problem or part of the solution': 問題の一部になるか、解決策の一部になるか。問題解決への積極的な関与を促す表現。"
+  },
+  {
+    "id": "MF_s01e05_181",
+    "englishText": "Well, I happen to believe that you can be both.",
+    "japaneseTranslation": "まあ、私は両方になれると信じているわ。",
+    "explanation": "'happen to believe': たまたま～だと信じている、偶然にも～だと信じている。"
+  },
+  {
+    "id": "MF_s01e05_182",
+    "englishText": "Listen, Claire feels terrible. Why don't you talk to her?",
+    "japaneseTranslation": "聞いて、クレアはひどく落ち込んでいるわ。彼女と話してみたらどう？",
+    "explanation": "'feels terrible': ひどく落ち込んでいる、気分が悪い。'Why don't you X?': Xしたらどう？（提案）"
+  },
+  {
+    "id": "MF_s01e05_183",
+    "englishText": "Why? I know what she thinks. A coal digger.",
+    "japaneseTranslation": "なぜ？彼女が何を考えているか知ってるわ。炭鉱夫よ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_184",
+    "englishText": "I know she said that, but that was a long time ago. Before she knew you.",
+    "japaneseTranslation": "彼女がそう言ったのは知ってるけど、それはずっと前のことよ。あなたを知る前の。",
+    "explanation": "'a long time ago': ずっと昔。"
+  },
+  {
+    "id": "MF_s01e05_185",
+    "englishText": "Does Jay buy me nice things? Yes, of cource. All beautiful things.",
+    "japaneseTranslation": "ジェイは私に素敵なものを買ってくれるかって？ええ、もちろんよ。全部美しいものよ。",
+    "explanation": "'of cource': もちろん（'of course'の誤記と思われる）。"
+  },
+  {
+    "id": "MF_s01e05_186",
+    "englishText": "Look at this, yellow, red, blue, all the colors.",
+    "japaneseTranslation": "これを見て、黄色、赤、青、全部の色よ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_187",
+    "englishText": "Do you think I can't live without these? Take them away, Phill.",
+    "japaneseTranslation": "私がこれらなしでは生きられないとでも思ってるの？持って行って、フィル。",
+    "explanation": "'can't live without X': Xなしでは生きられない。'Take them away': それらを持って行く。"
+  },
+  {
+    "id": "MF_s01e05_188",
+    "englishText": "Gloria, we all know you'd be fine without underwear. I mean, we know it's not about that.",
+    "japaneseTranslation": "グロリア、みんな知ってるわ、あなたは下着なしでも大丈夫だって。つまり、そういうことじゃないって分かってるわ。",
+    "explanation": "'be fine without X': Xなしでも大丈夫。'it's not about that': そういうことじゃない。"
+  },
+  {
+    "id": "MF_s01e05_189",
+    "englishText": "No, it's about me not being accepted by my new family.",
+    "japaneseTranslation": "いいえ、新しい家族に受け入れられていないってことよ。",
+    "explanation": "'not being accepted': 受け入れられていない。"
+  },
+  {
+    "id": "MF_s01e05_190",
+    "englishText": "That's not true. You are beautiful woman.",
+    "japaneseTranslation": "それは違うわ。あなたは美しい女性よ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_191",
+    "englishText": "So, it's natural for Claire to wonder about you and her dad.",
+    "japaneseTranslation": "だから、クレアがあなたと彼女のパパについて疑問に思うのは自然なことなのよ。",
+    "explanation": "'wonder about': ～について疑問に思う、不思議に思う。"
+  },
+  {
+    "id": "MF_s01e05_192",
+    "englishText": "This family's very protective of each other.",
+    "japaneseTranslation": "この家族はお互いをとても守ろうとするのよ。",
+    "explanation": "'protective of': ～を守ろうとする、保護的な。"
+  },
+  {
+    "id": "MF_s01e05_193",
+    "englishText": "I remember the first time Claire brought me home.",
+    "japaneseTranslation": "クレアが初めて私を家に連れてきた時のことを覚えているわ。",
+    "explanation": "'brought me home': 私を家に連れてきた。"
+  },
+  {
+    "id": "MF_s01e05_194",
+    "englishText": "Do you think Jay thought I was good enough for his little girl? No way.",
+    "japaneseTranslation": "ジェイが彼の小さな娘に私が十分ふさわしいと思ったと思う？とんでもない。",
+    "explanation": "'good enough for': ～に十分ふさわしい。'No way': とんでもない、まさか。"
+  },
+  {
+    "id": "MF_s01e05_195",
+    "englishText": "But over time, he realized that I loved Claire as much as he did.",
+    "japaneseTranslation": "でも時間が経つにつれて、彼は私がクレアを彼と同じくらい愛していることに気づいたんだ。",
+    "explanation": "'over time': 時間が経つにつれて。'as much as he did': 彼と同じくらい。"
+  },
+  {
+    "id": "MF_s01e05_196",
+    "englishText": "And by then, Mitch had brought Cam home, so I was golden.",
+    "japaneseTranslation": "そしてその頃には、ミッチがカムを家に連れてきていたから、私は安泰だったんだ。",
+    "explanation": "'by then': その時までに。'I was golden': 私は安泰だった、うまくいった。スラング。"
+  },
+  {
+    "id": "MF_s01e05_197",
+    "englishText": "Claire just needs a little time.",
+    "japaneseTranslation": "クレアには少し時間が必要なのよ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_198",
+    "englishText": "And then, trust me, she'll be the most loyal friend you've ever had.",
+    "japaneseTranslation": "そして、私を信じて、彼女はあなたがこれまでで一番忠実な友達になるわ。",
+    "explanation": "'trust me': 私を信じて。'loyal friend': 忠実な友達。"
+  },
+  {
+    "id": "MF_s01e05_199",
+    "englishText": "You're not leaving, are you?",
+    "japaneseTranslation": "帰らないわよね？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_200",
+    "englishText": "You know, there's kind of a lot of drama. So, we're torn.",
+    "japaneseTranslation": "あのね、なんだかたくさんのドラマがあるのよ。だから、私たちは板挟みになっているの。",
+    "explanation": "'kind of': なんとなく、ちょっと。'a lot of drama': たくさんのドラマ、騒動。'torn': （感情的に）板挟みになっている、引き裂かれるような気持ち。"
+  },
+  {
+    "id": "MF_s01e05_201",
+    "englishText": "Let me ask you something.",
+    "japaneseTranslation": "一つ聞いてもいい？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_202",
+    "englishText": "Your sister said that Gloria would never go for anybody who looked like me.",
+    "japaneseTranslation": "君の妹が、グロリアは僕みたいな見た目の人には絶対に行かないって言ったんだ。",
+    "explanation": "'go for': ～に惹かれる、～を選ぶ。"
+  },
+  {
+    "id": "MF_s01e05_203",
+    "englishText": "Now, you guys basically are like women, you look at guys, so what do you think?",
+    "japaneseTranslation": "さて、君たちは基本的に女性みたいなものだ、男を見るんだから、どう思う？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_204",
+    "englishText": "You're seriously asking us if you're attractive?",
+    "japaneseTranslation": "本気で私たちに自分が魅力的かどうか聞いてるの？",
+    "explanation": "'seriously asking': 本気で聞いている。"
+  },
+  {
+    "id": "MF_s01e05_205",
+    "englishText": "Well, I know I'm no Erik Estrada or anything. I'm just curious. That's all.",
+    "japaneseTranslation": "まあ、エリック・エストラーダみたいじゃないのは分かってるよ。ただ興味があるだけなんだ。それだけ。",
+    "explanation": "'no X or anything': Xとかではない。謙遜や控えめな表現。'Erik Estrada': アメリカの俳優。'That's all': それだけだ。"
+  },
+  {
+    "id": "MF_s01e05_206",
+    "englishText": "So, if I was in one of your bars, and the Righteous Brothers were on, you know,",
+    "japaneseTranslation": "それで、もし僕が君たちのバーにいて、ライチャス・ブラザーズの曲がかかってたら、ほら、",
+    "explanation": "'were on': （音楽が）かかっている、流れている。'Righteous Brothers': アメリカの音楽デュオ。"
+  },
+  {
+    "id": "MF_s01e05_207",
+    "englishText": "would you, I don't know, check me out?",
+    "japaneseTranslation": "君は、どうだろう、僕をチェックするかな？",
+    "explanation": "'check me out': 私をチェックする、私に注目する。異性に対して興味を示す際に使うスラング。"
+  },
+  {
+    "id": "MF_s01e05_208",
+    "englishText": "Dad, you're really close to ruining gay for me.",
+    "japaneseTranslation": "パパ、私にとってゲイというものを台無しにする寸前よ。",
+    "explanation": "'ruining gay for me': 私にとってゲイという概念を台無しにする。不快な言動によって、ある概念やイメージが嫌いになること。"
+  },
+  {
+    "id": "MF_s01e05_209",
+    "englishText": "Jay, I just think it's a little weird for a son to say this to his father,",
+    "japaneseTranslation": "ジェイ、息子が父親にこんなことを言うのは少し変だと思うわ、",
+    "explanation": "'a little weird': 少し変な。"
+  },
+  {
+    "id": "MF_s01e05_210",
+    "englishText": "but for the record I think you're smoking hot. Yeah, 100%.",
+    "japaneseTranslation": "でも記録のために言っておくけど、あなたはめちゃくちゃ魅力的よ。ええ、100％。",
+    "explanation": "'for the record': 記録のために、はっきり言っておくけど。'smoking hot': めちゃくちゃ魅力的な、セクシーな（スラング）。"
+  },
+  {
+    "id": "MF_s01e05_211",
+    "englishText": "You are totally my type. You're dangerous, you're gettable,",
+    "japaneseTranslation": "あなたは完全に私のタイプよ。危険で、手に入れやすくて、",
+    "explanation": "'totally my type': 完全に私のタイプ。'gettable': 手に入れやすい、誘惑しやすい（スラング）。"
+  },
+  {
+    "id": "MF_s01e05_212",
+    "englishText": "you have a little cashola in your pocket.",
+    "japaneseTranslation": "ポケットにちょっとしたお金も持ってるし。",
+    "explanation": "'cashola': お金、現金（スラング）。"
+  },
+  {
+    "id": "MF_s01e05_213",
+    "englishText": "Face, body, the whole...",
+    "japaneseTranslation": "顔、体、全部…",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_214",
+    "englishText": "The whole kit and kaboodle, I think, really.",
+    "japaneseTranslation": "全部ひっくるめて、本当にそう思うわ。",
+    "explanation": "'the whole kit and kaboodle': 全て、全部ひっくるめて。ネイティブ表現。"
+  },
+  {
+    "id": "MF_s01e05_215",
+    "englishText": "What about a seven?",
+    "japaneseTranslation": "7点くらいはどう？",
+    "explanation": "魅力度を点数で評価している。"
+  },
+  {
+    "id": "MF_s01e05_216",
+    "englishText": "Nine. For sure nine. You knew that.",
+    "japaneseTranslation": "9点。間違いなく9点よ。分かってたでしょ。",
+    "explanation": "'For sure': 間違いなく、確かに。"
+  },
+  {
+    "id": "MF_s01e05_217",
+    "englishText": "I might have low-balled a little bit.",
+    "japaneseTranslation": "ちょっと低めに見積もりすぎたかもしれない。",
+    "explanation": "'low-balled': 低めに見積もった、安値をつけた。ここでは、相手の魅力を過小評価したことを指す。"
+  },
+  {
+    "id": "MF_s01e05_218",
+    "englishText": "Okay, isn't there a game on?",
+    "japaneseTranslation": "よし、試合やってるんじゃないの？",
+    "explanation": "'game on': 試合が放送されている、行われている。"
+  },
+  {
+    "id": "MF_s01e05_219",
+    "englishText": "Touchy",
+    "japaneseTranslation": "デリケートな問題ね。",
+    "explanation": "'Touchy': 扱いにくい、デリケートな。感情的になりやすい状況や話題を指す。"
+  },
+  {
+    "id": "MF_s01e05_220",
+    "englishText": "Gloria, come on. Let's talk about it.",
+    "japaneseTranslation": "グロリア、さあ。それについて話しましょう。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_221",
+    "englishText": "I've seen her kick in a door before",
+    "japaneseTranslation": "彼女が以前ドアを蹴破るのを見たことがあるわ。",
+    "explanation": "'kick in a door': ドアを蹴破る。怒りや衝動的な行動を表す。"
+  },
+  {
+    "id": "MF_s01e05_222",
+    "englishText": "I don't know what my husband is saying to you, or why he's covered in your underwear.",
+    "japaneseTranslation": "夫があなたに何を言っているのか、なぜ彼があなたの下着まみれなのか分からないわ。",
+    "explanation": "'covered in': ～まみれになっている。"
+  },
+  {
+    "id": "MF_s01e05_223",
+    "englishText": "Obviously, I'm trying to seduce him for his money.",
+    "japaneseTranslation": "明らかに、私は彼のお金目当てで誘惑しようとしているのよ。",
+    "explanation": "'seduce him for his money': 彼のお金目当てで誘惑する。'gold digger'という非難に対する皮肉。"
+  },
+  {
+    "id": "MF_s01e05_224",
+    "englishText": "Because that's what I do, right?",
+    "japaneseTranslation": "だってそれが私のすることだもの、そうでしょ？",
+    "explanation": "皮肉を込めて、自分の行動がステレオタイプに当てはまると言っている。"
+  },
+  {
+    "id": "MF_s01e05_225",
+    "englishText": "What do I have to give back so that everyone trusts me? Huh?",
+    "japaneseTranslation": "みんなが私を信頼するように、何を返せばいいの？ねえ？",
+    "explanation": "'give back': （ここでは）何かを犠牲にする、代償を払う。"
+  },
+  {
+    "id": "MF_s01e05_226",
+    "englishText": "I don't know what to say, except for that I am really, really sorry.",
+    "japaneseTranslation": "本当に、本当にごめんなさいとしか言いようがないわ。",
+    "explanation": "'except for that': ～ということ以外は。'really, really sorry': 本当に、本当にごめんなさい（強調）。"
+  },
+  {
+    "id": "MF_s01e05_227",
+    "englishText": "How do you really feel that I'm with your father?",
+    "japaneseTranslation": "私があなたの父親と一緒にいることについて、本当はどう感じているの？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_228",
+    "englishText": "Well, honestly, at first it was hard.",
+    "japaneseTranslation": "ええと、正直言って、最初は大変だったわ。",
+    "explanation": "'at first': 最初は。'hard': 大変な、難しい。"
+  },
+  {
+    "id": "MF_s01e05_229",
+    "englishText": "I mean, you don't expect to wake up one morning with a new mom who looks like she fell off a mud flap.",
+    "japaneseTranslation": "だって、ある朝起きたら、泥除けから落ちてきたみたいな新しいママがいるなんて、普通は思わないでしょ。",
+    "explanation": "'fell off a mud flap': 泥除けから落ちてきた。ここでは、派手で安っぽい見た目を揶揄する表現。"
+  },
+  {
+    "id": "MF_s01e05_230",
+    "englishText": "But I'm getting used to it, and the important thing is you make him happy, which you do in so many ways, so many colors.",
+    "japaneseTranslation": "でも慣れてきたし、大切なのはあなたが彼を幸せにしていることよ。たくさんの方法で、たくさんの彩りでね。",
+    "explanation": "'getting used to it': それに慣れてきている。'in so many ways, so many colors': たくさんの方法で、たくさんの彩りで。グロリアの個性的で鮮やかな性格を表現している。"
+  },
+  {
+    "id": "MF_s01e05_231",
+    "englishText": "You embarrased me in front of everyone downstairs.",
+    "japaneseTranslation": "あなたは階下のみんなの前で私を恥ずかしめたわ。",
+    "explanation": "'embarrassed me': 私を恥ずかしめた。"
+  },
+  {
+    "id": "MF_s01e05_232",
+    "englishText": "What, I'm supposed just to forget about it?",
+    "japaneseTranslation": "何よ、私がただそれを忘れるとでも思ってるの？",
+    "explanation": "'I'm supposed to X': Xすることになっている、Xすべきだと思われている。"
+  },
+  {
+    "id": "MF_s01e05_233",
+    "englishText": "What do you want me to do? Embarrass myself so we're even?",
+    "japaneseTranslation": "どうしてほしいの？私が自分を恥ずかしめて、それでチャラになるってこと？",
+    "explanation": "'so we're even': それでチャラになる、おあいこになる。"
+  },
+  {
+    "id": "MF_s01e05_234",
+    "englishText": "Go jump in the pool.",
+    "japaneseTranslation": "プールに飛び込んで。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_235",
+    "englishText": "Oh, you mean, go jump in a lake.",
+    "japaneseTranslation": "ああ、つまり、「湖に飛び込め」ってことね。",
+    "explanation": "'go jump in a lake': （俗語で）うるさい、放っておいてくれ。相手を突き放す表現。"
+  },
+  {
+    "id": "MF_s01e05_236",
+    "englishText": "Go jump in the pool with your clothes on, then I know you're sorry.",
+    "japaneseTranslation": "服を着たままプールに飛び込んで。そうすればあなたが後悔しているって分かるわ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_237",
+    "englishText": "I'm not gonna do that, Gloria.",
+    "japaneseTranslation": "それはしないわ、グロリア。",
+    "explanation": "'gonna': going to の短縮形。"
+  },
+  {
+    "id": "MF_s01e05_238",
+    "englishText": "Okay, then I won't forgive you.",
+    "japaneseTranslation": "分かったわ、じゃあ許さない。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_239",
+    "englishText": "Hey, you guys work that out?",
+    "japaneseTranslation": "ねえ、君たち解決したの？",
+    "explanation": "'work that out': それを解決する。"
+  },
+  {
+    "id": "MF_s01e05_240",
+    "englishText": "Almost. Gloria just wants me to jump in the pool.",
+    "japaneseTranslation": "もう少しね。グロリアが私にプールに飛び込んでほしいだけなの。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_241",
+    "englishText": "If they could get a pass rush on them, something, a break.",
+    "japaneseTranslation": "もし彼らがパスラッシュをかけられたら、何か、突破口が。",
+    "explanation": "'pass rush': （フットボールで）パスラッシュ。クォーターバックにプレッシャーをかける守備の動き。'a break': 突破口、好機。"
+  },
+  {
+    "id": "MF_s01e05_242",
+    "englishText": "This is so awesome.",
+    "japaneseTranslation": "これ、最高だね。",
+    "explanation": "'awesome': 最高、素晴らしい（スラング）。"
+  },
+  {
+    "id": "MF_s01e05_243",
+    "englishText": "I know. Mom does not look good wet.",
+    "japaneseTranslation": "知ってる。ママは濡れると格好良くないんだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_244",
+    "englishText": "Gloria, is this really necessary?",
+    "japaneseTranslation": "グロリア、これ本当に必要なの？",
+    "explanation": "'really necessary': 本当に必要。"
+  },
+  {
+    "id": "MF_s01e05_245",
+    "englishText": "If I need to jump in this water to prove to Gloria how sorry I am, I will do it. Fine.",
+    "japaneseTranslation": "もしグロリアにどれだけ後悔しているか証明するためにこの水に飛び込む必要があるなら、そうするわ。分かったわ。",
+    "explanation": "'prove to X how sorry I am': Xにどれだけ後悔しているか証明する。"
+  },
+  {
+    "id": "MF_s01e05_246",
+    "englishText": "You're seriously not gonna stop me?",
+    "japaneseTranslation": "本気で私を止めないの？",
+    "explanation": "'seriously not gonna stop me': 本気で私を止めないつもりか（驚きや不信感）。"
+  },
+  {
+    "id": "MF_s01e05_247",
+    "englishText": "Why would I do that?",
+    "japaneseTranslation": "なぜそんなことをするんだ？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_248",
+    "englishText": "Because I am standing here. I'm showing you mu willingness to...",
+    "japaneseTranslation": "だって私はここに立っているのよ。私の意欲を見せているのに…",
+    "explanation": "'willingness to': ～する意欲、意思。'mu'は'my'の誤記と思われる。"
+  },
+  {
+    "id": "MF_s01e05_249",
+    "englishText": "Are you happy? Give me your hand.",
+    "japaneseTranslation": "満足した？手を貸して。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_250",
+    "englishText": "That's the oldest trick in the book. She's gonna pull you in there. And that's my job.",
+    "japaneseTranslation": "それは昔からの手口よ。彼女はあなたをそこに引きずり込むつもりよ。そしてそれが私の仕事だ。",
+    "explanation": "'the oldest trick in the book': 昔からの手口、常套手段。'pull you in there': あなたをそこに引きずり込む。"
+  },
+  {
+    "id": "MF_s01e05_251",
+    "englishText": "This is funny. But this is also a teaching moment.",
+    "japaneseTranslation": "これは面白いね。でもこれは教訓の瞬間でもあるわ。",
+    "explanation": "'teaching moment': 教訓の瞬間、何かを教えるのに最適な時。"
+  },
+  {
+    "id": "MF_s01e05_252",
+    "englishText": "Come on, how could he fumble that?",
+    "japaneseTranslation": "おいおい、どうして彼がそれをファンブルできたんだ？",
+    "explanation": "'fumble': （フットボールで）ボールをファンブルする、落とす。転じて、失敗する。"
+  },
+  {
+    "id": "MF_s01e05_253",
+    "englishText": "The center blew the snap!",
+    "japaneseTranslation": "センターがスナップを失敗したんだ！",
+    "explanation": "'blew the snap': スナップを失敗した。'snap': （フットボールで）センターがボールをクォーターバックに渡す動作。"
+  },
+  {
+    "id": "MF_s01e05_254",
+    "englishText": "You know what? I hate that. I played center,",
+    "japaneseTranslation": "あのね？それが嫌なんだ。僕はセンターだったから、",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_255",
+    "englishText": "and I always got blamed for a quarterback's clumsy hands.",
+    "japaneseTranslation": "いつもクォーターバックの不器用な手のせいにされたんだ。",
+    "explanation": "'got blamed for': ～のせいにされた。'clumsy hands': 不器用な手。"
+  },
+  {
+    "id": "MF_s01e05_256",
+    "englishText": "I was a quarterback and it was probably your fault.",
+    "japaneseTranslation": "僕はクォーターバックだったけど、多分君のせいだったよ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_257",
+    "englishText": "It's impossible to fumble the ball when the quarterback has the proper hand placement.",
+    "japaneseTranslation": "クォーターバックが適切な手の位置にあれば、ボールをファンブルすることは不可能だ。",
+    "explanation": "'proper hand placement': 適切な手の位置。"
+  },
+  {
+    "id": "MF_s01e05_258",
+    "englishText": "You know, it's weird to think of a woman being sexually attracted to Dad.",
+    "japaneseTranslation": "あのね、女性がパパに性的に惹かれるって考えるのは変な感じだね。",
+    "explanation": "'sexually attracted to': ～に性的に惹かれる。"
+  },
+  {
+    "id": "MF_s01e05_259",
+    "englishText": "No, you wanna hear weird? Cam said he'd pick up Dad at a gay bar.",
+    "japaneseTranslation": "いや、変な話を聞きたい？カムがゲイバーでパパをナンパするって言ったんだ。",
+    "explanation": "'pick up': （異性を）ナンパする、口説く。"
+  },
+  {
+    "id": "MF_s01e05_260",
+    "englishText": "Oh! How did that come up?",
+    "japaneseTranslation": "ああ！どうしてそんな話になったの？",
+    "explanation": "'come up': （話題が）出てくる、持ち上がる。"
+  },
+  {
+    "id": "MF_s01e05_261",
+    "englishText": "Mmm! I'm really trying to block it out.",
+    "japaneseTranslation": "うーん！本当にそれを忘れようとしているの。",
+    "explanation": "'block it out': （記憶や感情を）遮断する、忘れようとする。"
+  },
+  {
+    "id": "MF_s01e05_262",
+    "englishText": "As far as I'm concerned, Mom and Dad had sex two times.",
+    "japaneseTranslation": "私に関する限り、ママとパパは2回セックスしただけよ。",
+    "explanation": "'As far as I'm concerned': 私に関する限り、私の知る限りでは。"
+  },
+  {
+    "id": "MF_s01e05_263",
+    "englishText": "Okay. Get your hands up there, like you're lifting me off the ground.",
+    "japaneseTranslation": "よし。手を上げて、私を地面から持ち上げるみたいに。",
+    "explanation": "'lift me off the ground': 私を地面から持ち上げる。"
+  },
+  {
+    "id": "MF_s01e05_264",
+    "englishText": "Be one with me, Jay. There you go.",
+    "japaneseTranslation": "私と一体になって、ジェイ。そうそう。",
+    "explanation": "'Be one with me': 私と一体になる。精神的なつながりを求める表現。"
+  },
+  {
+    "id": "MF_s01e05_265",
+    "englishText": "Do you wanna get something to eat?",
+    "japaneseTranslation": "何か食べに行かない？",
+    "explanation": "'wanna': want to の短縮形。"
+  },
+  {
+    "id": "MF_s01e05_266",
+    "englishText": "I'm never eating again.",
+    "japaneseTranslation": "二度と食べないわ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e05_267",
+    "englishText": "Just snap the damn thing!",
+    "japaneseTranslation": "さっさとスナップしろよ！",
+    "explanation": "'damn thing': くそったれ、いまいましいもの（強調）。"
   }
 ]
