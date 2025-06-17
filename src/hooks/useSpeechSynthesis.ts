@@ -62,9 +62,9 @@ export const useSpeechSynthesis = (options?: SpeechSynthesisOptions) => {
     try {
       // Map voice provider to Google Cloud TTS configuration
       const voiceConfig = {
-        'google-us': { languageCode: 'en-US', name: 'en-US-Neural2-F' },
-        'google-uk': { languageCode: 'en-GB', name: 'en-GB-Neural2-F' },
-        'google-au': { languageCode: 'en-AU', name: 'en-AU-Neural2-A' },
+        'google-us': { languageCode: 'en-AU', name: 'en-AU-Chirp-HD-D' },
+        'google-uk': { languageCode: 'en-GB', name: 'en-GB-Chirp3-HD-Aoede' },
+        'google-au': { languageCode: 'en-US', name: 'en-US-Chirp-HD-F' },
       }[voiceProvider as Exclude<VoiceProvider, 'browser'>];
 
       if (!voiceConfig) {
