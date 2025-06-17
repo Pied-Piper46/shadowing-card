@@ -7,6 +7,19 @@
     "description": "日常会話の基本的なフレーズ集です。"
   },
   {
+    "id": "MF_s01e02",
+    "title": "Modern Familiy - s01e02: 「偉大なる父」",
+    "category": "American TV Series",
+    "subCategory": "Modern Family",
+    "details": {
+      "series": "Modern Family",
+      "season": 1,
+      "episode": 2,
+      "episodeTitle": "偉大なる父"
+    },
+    "description": "モダンファミリーシーズン１、エピソード2のスクリプトです。"
+  },
+  {
     "id": "MF_s01e04",
     "title": "Modern Familiy - s01e04: 「ママの来襲」",
     "category": "American TV Series",
