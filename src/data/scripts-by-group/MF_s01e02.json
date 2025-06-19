@@ -280,5 +280,509 @@
     "englishText": "So pack whatever you'd wear in a hot tub.",
     "japaneseTranslation": "だから、ホットタブで着るものを何でも詰めてね。",
     "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_048",
+    "englishText": "I usually wear nothing when I'm in a hot tub.",
+    "japaneseTranslation": "ホットタブに入るときは、たいてい何も着ないんだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_049",
+    "englishText": "And my college roommate's wife just had to get a new hip. Sucker.",
+    "japaneseTranslation": "それに、大学のルームメイトの妻が股関節の手術を受けなきゃならなくなったんだ。かわいそうに。",
+    "explanation": "「Sucker」はスラングで、ここでは「かわいそうな人」「だまされやすい人」といったニュアンスで使われています。"
+  },
+  {
+    "id": "MF_s01e02_050",
+    "englishText": "Manny's father is taking him for a couple of days to Disneyland,",
+    "japaneseTranslation": "マニーの父親が彼を数日間ディズニーランドに連れて行くんだ、",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_051",
+    "englishText": "So we're gonna go to the wine country.",
+    "japaneseTranslation": "だから僕たちはワインカントリーに行くんだ。",
+    "explanation": "「gonna」は「going to」の短縮形です。"
+  },
+  {
+    "id": "MF_s01e02_052",
+    "englishText": "We're gonna drink some wine, eat some good food.",
+    "japaneseTranslation": "ワインを飲んで、美味しいものを食べるんだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_053",
+    "englishText": "You know, we would do something like this a lot more often if it wasn't for Manny.",
+    "japaneseTranslation": "マニーがいなければ、もっと頻繁にこんなことをするんだけどね。",
+    "explanation": "「if it wasn't for Manny」は「マニーがいなければ」という仮定を表す表現です。"
+  },
+  {
+    "id": "MF_s01e02_054",
+    "englishText": "It's good. He keep us grounded. Like fog at an airport.",
+    "japaneseTranslation": "いいことだよ。彼は僕たちを地に足つけさせてくれる。空港の霧みたいにね。",
+    "explanation": "「keep us grounded」は「私たちを現実的な状態に保つ」「地に足つけさせる」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_055",
+    "englishText": "Limo gets here at 4:00.",
+    "japaneseTranslation": "リムジンは4時にここに着くよ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_056",
+    "englishText": "This morning, I thought I'd go over to the club, hit a few balls.",
+    "japaneseTranslation": "今朝、クラブに行って、いくつかボールを打とうと思ったんだ。",
+    "explanation": "「hit a few balls」はゴルフなどでボールを打つことを指します。"
+  },
+  {
+    "id": "MF_s01e02_057",
+    "englishText": "No, what about the fan in Manny's room? You're suppose to do it with him.",
+    "japaneseTranslation": "いや、マニーの部屋の扇風機はどうするんだ？彼と一緒にやるはずだろ。",
+    "explanation": "「suppose to do it with him」は「彼と一緒にやるべきだ」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_058",
+    "englishText": "It's important that we teach him how to do things for himself.",
+    "japaneseTranslation": "彼に自分で物事をやる方法を教えることが大切なんだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_059",
+    "englishText": "In my culture, men take great pride in doing physical labor.",
+    "japaneseTranslation": "私の文化では、男性は肉体労働をすることに大きな誇りを持っているんだ。",
+    "explanation": "「take pride in」は「～に誇りを持つ」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_060",
+    "englishText": "I know. That's why I hire people from your culture.",
+    "japaneseTranslation": "知ってるよ。だから君の文化の人を雇うんだ。",
+    "explanation": "皮肉を込めた発言です。"
+  },
+  {
+    "id": "MF_s01e02_061",
+    "englishText": "You are too funny. I'm gonna share that one with my next husband when we're spending all your money.",
+    "japaneseTranslation": "あなたって本当に面白いわね。あなたの財産を全部使い果たすときに、次の夫にその話をしてあげるわ。",
+    "explanation": "「gonna」は「going to」の短縮形です。"
+  },
+  {
+    "id": "MF_s01e02_062",
+    "englishText": "Dad, this is the coolest bike ever.",
+    "japaneseTranslation": "パパ、これ今までで一番かっこいい自転車だよ。",
+    "explanation": "「coolest bike ever」は「これまでで一番かっこいい自転車」という強調表現です。"
+  },
+  {
+    "id": "MF_s01e02_063",
+    "englishText": "So listen, certain members of this family don't think you can take care of this bad boy.",
+    "japaneseTranslation": "いいかい、この家族のあるメンバーは、お前がこのイケてるやつを大切にできないと思ってるんだ。",
+    "explanation": "「bad boy」はここでは「かっこいいもの」「手ごわいもの」といったニュアンスで、自転車を指しています。"
+  },
+  {
+    "id": "MF_s01e02_064",
+    "englishText": "You mean Mom?",
+    "japaneseTranslation": "ママのこと？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_065",
+    "englishText": "Your words, not mine. Your mom and I are a team.",
+    "japaneseTranslation": "お前の言葉であって、僕の言葉じゃない。ママと僕はチームなんだ。",
+    "explanation": "「Your words, not mine」は「それは君の意見であって、私の意見ではない」という表現です。"
+  },
+  {
+    "id": "MF_s01e02_066",
+    "englishText": "We feel like this is a chance for you to show some responsibility.",
+    "japaneseTranslation": "これはお前が責任感を示すチャンスだと僕たちは思っているんだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_067",
+    "englishText": "Don't make us look like jerks here. One more rule.",
+    "japaneseTranslation": "ここで僕たちをバカみたいに見せないでくれ。もう一つルールだ。",
+    "explanation": "「make us look like jerks」は「私たちを間抜けに見せる」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_068",
+    "englishText": "Have, like, three buttloads of fun.",
+    "japaneseTranslation": "えっと、めちゃくちゃ楽しんでくれ。",
+    "explanation": "「buttloads of」はスラングで「大量の、たくさんの」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_069",
+    "englishText": "Okay, but I need to be done by 3:00. That's when my dad's picking me up.",
+    "japaneseTranslation": "わかった、でも3時までには終わらせてほしい。その時間にパパが迎えに来るんだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_070",
+    "englishText": "Hey, if we're not done by 3:00, I'm gonna tie a noose on this thing.",
+    "japaneseTranslation": "おい、もし3時までに終わらなかったら、これに首吊り縄を結んでやるぞ。",
+    "explanation": "「tie a noose on this thing」は比喩的な表現で、ここでは「（扇風機を）諦めてしまうぞ」というような意味合いです。"
+  },
+  {
+    "id": "MF_s01e02_071",
+    "englishText": "In Columbia, there's a saying.",
+    "japaneseTranslation": "コロンビアにはこんなことわざがある。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_072",
+    "englishText": "If you have two stubborn burros that don't like each other, you tie them to the same cart.",
+    "japaneseTranslation": "もし互いに嫌い合う頑固なロバが2頭いたら、同じ荷車に繋ぐんだ。",
+    "explanation": "「stubborn burros」は「頑固なロバ」という意味で、ここでは頑固な人間関係の比喩として使われています。"
+  },
+  {
+    "id": "MF_s01e02_073",
+    "englishText": "The ceiling fan is the cart.",
+    "japaneseTranslation": "シーリングファンが荷車だ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_074",
+    "englishText": "My dad's taking me on Space Mountain.",
+    "japaneseTranslation": "パパが僕をスペースマウンテンに連れて行ってくれるんだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_075",
+    "englishText": "It's supposed to be really fast, but he's not scared of anything.",
+    "japaneseTranslation": "すごく速いらしいけど、パパは何も怖がらないんだ。",
+    "explanation": "「supposed to be」は「～することになっている」「～だと思われている」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_076",
+    "englishText": "He doesn't even wear a seat belt when he drives. He killed a bear once.",
+    "japaneseTranslation": "運転するときもシートベルトをしないんだ。一度クマを殺したこともあるんだよ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_077",
+    "englishText": "Was the bear sitting in the passenger seat? Read me the instructions.",
+    "japaneseTranslation": "クマは助手席に座っていたのか？説明書を読んでくれ。",
+    "explanation": "皮肉を込めた質問です。"
+  },
+  {
+    "id": "MF_s01e02_078",
+    "englishText": "'Safety tips. Warning, to reduce the risk of electrical shock...'",
+    "japaneseTranslation": "「安全上のヒント。警告、感電のリスクを減らすために…」",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_079",
+    "englishText": "We can skip that.",
+    "japaneseTranslation": "それは飛ばしていいよ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_080",
+    "englishText": "'Failure to heed these warnings can lead to serious injury or death.'",
+    "japaneseTranslation": "「これらの警告に従わない場合、重傷または死亡に至る可能性があります。」",
+    "explanation": "「heed」は「注意を払う、従う」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_081",
+    "englishText": "You worry too much, you know that. Nobody's gonna get shocked.",
+    "japaneseTranslation": "お前は心配しすぎだよ、わかってるだろ。誰も感電しないさ。",
+    "explanation": "「gonna」は「going to」の短縮形です。"
+  },
+  {
+    "id": "MF_s01e02_082",
+    "englishText": "One time my dad was struck by lightning. That's why he can drink as much as he wants.",
+    "japaneseTranslation": "一度、僕のパパは雷に打たれたんだ。だから彼は好きなだけ飲めるんだよ。",
+    "explanation": "雷に打たれたことと飲酒量を結びつけるのは、子供らしい誤解や誇張表現です。"
+  },
+  {
+    "id": "MF_s01e02_083",
+    "englishText": "Manny thinks his dad is like Superman. The truth? He's a total flake.",
+    "japaneseTranslation": "マニーは自分のパパがスーパーマンみたいだと思ってる。本当は？彼は全くの当てにならないやつなんだ。",
+    "explanation": "「total flake」はスラングで「全く当てにならない人」「無責任な人」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_084",
+    "englishText": "In fact, the only way he's like Superman is that they both landed in this country illegally.",
+    "japaneseTranslation": "実際、彼がスーパーマンに似ている唯一の点は、二人とも不法にこの国に上陸したことだ。",
+    "explanation": "皮肉を込めた発言です。「landed in this country illegally」は「不法入国した」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_085",
+    "englishText": "I can't believe I'm so nervous.",
+    "japaneseTranslation": "こんなに緊張してるなんて信じられない。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_086",
+    "englishText": "They're gonna love us. Let's just be ourselves.",
+    "japaneseTranslation": "みんな僕たちを気に入ってくれるさ。自分たちらしくいよう。",
+    "explanation": "「gonna」は「going to」の短縮形です。"
+  },
+  {
+    "id": "MF_s01e02_087",
+    "englishText": "Or a slightly toned-down version of ourselves.",
+    "japaneseTranslation": "それか、少し控えめな自分たちでね。",
+    "explanation": "「toned-down version」は「控えめなバージョン」「抑えた版」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_088",
+    "englishText": "I just don't want this to become an episode of The Cam Show.",
+    "japaneseTranslation": "ただ、これが「カム・ショー」のエピソードになってほしくないんだ。",
+    "explanation": "「The Cam Show」は、カムが目立ちたがり屋であることを示唆する比喩的な表現です。"
+  },
+  {
+    "id": "MF_s01e02_089",
+    "englishText": "It's appointment viewing.",
+    "japaneseTranslation": "それは必見の番組だよ。",
+    "explanation": "「appointment viewing」は「見逃せない番組」「必ず見るべき番組」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_090",
+    "englishText": "Hi, are you here for Toddler Time?",
+    "japaneseTranslation": "こんにちは、幼児の時間にいらっしゃいましたか？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_091",
+    "englishText": "Yes. I'm Mitchell, this is Cameron and this here is Lily.",
+    "japaneseTranslation": "はい。私がミッチェルで、こちらはキャメロン、そしてこちらがリリーです。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_092",
+    "englishText": "Well, we're all over here taking turns blowing bubbles.",
+    "japaneseTranslation": "ええと、みんなここで交代でシャボン玉を吹いていますよ。",
+    "explanation": "「taking turns」は「交代で、順番に」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_093",
+    "englishText": "Ten minutes after making a promise to me, he leaves his bike unlocked.",
+    "japaneseTranslation": "僕に約束してから10分後には、彼は自転車の鍵をかけずに放置したんだ。",
+    "explanation": "「leaves his bike unlocked」は「自転車の鍵をかけずに放置する」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_094",
+    "englishText": "All I can hear is Claire's voice in my head.",
+    "japaneseTranslation": "頭の中ではクレアの声しか聞こえないよ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_095",
+    "englishText": "He's not responsible. You never should have given him a bike.",
+    "japaneseTranslation": "彼は責任感がない。自転車なんて与えるべきじゃなかったんだ。",
+    "explanation": "「never should have given him」は「～すべきではなかった」という後悔を表す表現です。"
+  },
+  {
+    "id": "MF_s01e02_096",
+    "englishText": "I know. I do a pretty good Claire.",
+    "japaneseTranslation": "知ってるよ。僕、クレアのモノマネがかなり上手いんだ。",
+    "explanation": "「do a pretty good Claire」は「クレアのモノマネがかなり上手い」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_097",
+    "englishText": "So, I decided to teach him a lesson and let him think his bike was stolen.",
+    "japaneseTranslation": "だから、彼に教訓を与えるために、自転車を隠して盗まれたと思わせることにしたんだ。",
+    "explanation": "「teach him a lesson」は「彼に教訓を与える」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_098",
+    "englishText": "I know that sounds kind of rough, but sometimes it's a dad's job to be the tough guy.",
+    "japaneseTranslation": "それが少し手荒に聞こえるのはわかるけど、時には父親が厳しい役目を果たすことも必要なんだ。",
+    "explanation": "「kind of rough」は「少し手荒な、厳しい」という意味です。「tough guy」は「厳しい人、強硬な人」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_099",
+    "englishText": "Everyone, we have a new family joining us today.",
+    "japaneseTranslation": "皆さん、今日新しい家族が加わりました。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_100",
+    "englishText": "Okay, we're gonna start with the Hello Dance, and then we're gonna move on to blocks and finger painting,",
+    "japaneseTranslation": "さて、まずはハローダンスから始めて、それからブロックとフィンガーペインティングに移ります、",
+    "explanation": "「gonna」は「going to」の短縮形です。"
+  },
+  {
+    "id": "MF_s01e02_101",
+    "englishText": "and then we're gonna do our Family Dance.",
+    "japaneseTranslation": "そしてファミリーダンスをします。",
+    "explanation": "「gonna」は「going to」の短縮形です。"
+  },
+  {
+    "id": "MF_s01e02_102",
+    "englishText": "All right, who wants to start us off? Dance us in, P.J.",
+    "japaneseTranslation": "さあ、誰が始めてくれるかな？P.J.、踊って見せてくれ。",
+    "explanation": "「start us off」は「私たちを始める、先陣を切る」という意味です。「Dance us in」は「踊って私たちを迎え入れる」というニュアンスです。"
+  },
+  {
+    "id": "MF_s01e02_103",
+    "englishText": "She's adorable. Is she grabbing or scooting yet?",
+    "japaneseTranslation": "彼女は可愛いわね。もう掴んだり、お尻で進んだりするの？",
+    "explanation": "「grabbing」は物を掴むこと、「scooting」はお尻でずりずり進むこと（ハイハイの前段階など）を指します。"
+  },
+  {
+    "id": "MF_s01e02_104",
+    "englishText": "Yes, absolutely. I mean, when she's not grabbing, she is scooting.",
+    "japaneseTranslation": "ええ、もちろんです。つまり、掴んでいないときは、お尻で進んでいますよ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_105",
+    "englishText": "Cam, Lily is not grabbing or scooting yet.",
+    "japaneseTranslation": "カム、リリーはまだ掴んだり、お尻で進んだりしないよ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_106",
+    "englishText": "She's not doing it yet, but she will, eventually.",
+    "japaneseTranslation": "まだやってないけど、いずれはするようになるさ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_107",
+    "englishText": "No, but see a lot of these other kids, they're grabbing, I just...",
+    "japaneseTranslation": "いや、でも他のたくさんの子供たちは掴んでるだろ、僕はただ…",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_108",
+    "englishText": "I know. I'll tamp down my natural gifts and dance like a straight guy.",
+    "japaneseTranslation": "わかってるよ。僕の天性の才能を抑えて、ストレートの男みたいに踊るさ。",
+    "explanation": "「tamp down」は「抑える、抑制する」という意味です。「natural gifts」はここではダンスの才能を指しています。"
+  },
+  {
+    "id": "MF_s01e02_109",
+    "englishText": "No slapping your own butt.",
+    "japaneseTranslation": "自分のお尻を叩かないでね。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_110",
+    "englishText": "But that's how I make the horsey go.",
+    "japaneseTranslation": "でも、そうやって馬を走らせるんだよ。",
+    "explanation": "「make the horsey go」は、子供と遊ぶときの表現で、お尻を叩いて馬の真似をすることを指しています。"
+  },
+  {
+    "id": "MF_s01e02_111",
+    "englishText": "Hey, this is really embarrassing, but I locked myself out of my house.",
+    "japaneseTranslation": "ねえ、すごく恥ずかしいんだけど、家から締め出されちゃったんだ。",
+    "explanation": "「locked myself out of my house」は「家の鍵をかけずに外に出てしまい、中に入れなくなった」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_112",
+    "englishText": "Oh, I do that all the time. Don't be embarrassed.",
+    "japaneseTranslation": "ああ、私もよくやるわ。恥ずかしがらないで。",
+    "explanation": "「all the time」は「いつも、しょっちゅう」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_113",
+    "englishText": "I was hoping you could help me. There's a window open, but I can't reach it. Would you mind?",
+    "japaneseTranslation": "手伝ってくれると嬉しいんだけど。窓が開いてるんだけど、届かないんだ。お願いできる？",
+    "explanation": "「Would you mind?」は「～していただけませんか？」という丁寧な依頼です。"
+  },
+  {
+    "id": "MF_s01e02_114",
+    "englishText": "You know what they say.",
+    "japaneseTranslation": "彼らが言うようにね。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_115",
+    "englishText": "Every time God closes a door, he opens a window.",
+    "japaneseTranslation": "神様がドアを閉めるたびに、窓を開けてくれる。",
+    "explanation": "英語のことわざで、一つの機会が失われても、別の機会が訪れるという意味です。"
+  },
+  {
+    "id": "MF_s01e02_116",
+    "englishText": "Or I guess in this case, every time he locks you out. Okay, what do we got here.",
+    "japaneseTranslation": "それか、この場合は、彼があなたを締め出すたびに、かな。さて、どうするかな。",
+    "explanation": "「locks you out」は「あなたを締め出す」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_117",
+    "englishText": "I mean, am I attracted to her? Yes. Would I ever act on it? No way.",
+    "japaneseTranslation": "つまり、彼女に惹かれているかって？うん。でも、それを行動に移すかって？とんでもない。",
+    "explanation": "「act on it」は「それを行動に移す」という意味です。「No way」は「とんでもない、まさか」という強い否定です。"
+  },
+  {
+    "id": "MF_s01e02_118",
+    "englishText": "Not while my wife is still alive.",
+    "japaneseTranslation": "妻がまだ生きている間はね。",
+    "explanation": "皮肉を込めた発言です。"
+  },
+  {
+    "id": "MF_s01e02_119",
+    "englishText": "Are you sure I can't get you something to drink?",
+    "japaneseTranslation": "何か飲み物をお持ちしましょうか？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_120",
+    "englishText": "If I knew a man was gonna climb into my bedroom window, I would have cleaned up a bit.",
+    "japaneseTranslation": "もし男が私の寝室の窓から入ってくるって知ってたら、少しは片付けておいたのに。",
+    "explanation": "「gonna」は「going to」の短縮形です。「would have cleaned up」は仮定法過去完了で「～していただろうに」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_121",
+    "englishText": "Are you kidding me? It smelled great in there.",
+    "japaneseTranslation": "冗談だろ？中、すごくいい匂いだったよ。",
+    "explanation": "「Are you kidding me?」は「冗談だろ？」「まさか」という驚きや不信を表す口語表現です。"
+  },
+  {
+    "id": "MF_s01e02_122",
+    "englishText": "Like lotions and oils for dry skin and you know calloused hands...",
+    "japaneseTranslation": "乾燥肌用のローションやオイルとか、それから、ほら、硬くなった手とか…",
+    "explanation": "「calloused hands」は「たこのできた手」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_123",
+    "englishText": "Wow... The bike's gone.",
+    "japaneseTranslation": "うわ…自転車がない。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_124",
+    "englishText": "So, to teach him a lesson, I took his bike and then, crazy thing,",
+    "japaneseTranslation": "それで、彼に教訓を与えるために、自転車を隠したんだけど、驚いたことに、",
+    "explanation": "「crazy thing」は「驚いたことに」「信じられないことに」という口語表現です。"
+  },
+  {
+    "id": "MF_s01e02_125",
+    "englishText": "I put it down for one minute and someone swiped it from me.",
+    "japaneseTranslation": "1分間置いただけで、誰かに盗まれちゃったんだ。",
+    "explanation": "「swiped it from me」は「私からそれを盗んだ」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_126",
+    "englishText": "Maybe that was your dad teaching you a lesson.",
+    "japaneseTranslation": "それはお父さんが君に教訓を与えたのかもしれないね。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_127",
+    "englishText": "So, any chance I could get a break on this one?",
+    "japaneseTranslation": "それで、これについて何か割引してもらえる可能性はある？",
+    "explanation": "「get a break on this one」は「これについて割引を受ける」「譲歩してもらう」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_128",
+    "englishText": "I can throw in a bell...for $5.",
+    "japaneseTranslation": "ベルを付けてあげられるよ…5ドルでね。",
+    "explanation": "「throw in」は「おまけにつける、無料で加える」という意味ですが、ここでは5ドル請求しているので皮肉です。"
+  },
+  {
+    "id": "MF_s01e02_129",
+    "englishText": "So, you wanna go for the insurance this time or is it still for suckers.",
+    "japaneseTranslation": "それで、今回は保険に入るかい、それともまだカモのためのものだと思うかい？",
+    "explanation": "「go for the insurance」は「保険に入る」という意味です。「for suckers」は「カモのためのもの」「だまされやすい人のためのもの」という軽蔑的な表現です。"
+  },
+  {
+    "id": "MF_s01e02_130",
+    "englishText": "Got me again. Well played, my lord.",
+    "japaneseTranslation": "またやられたよ。お見事、殿。",
+    "explanation": "「Got me again」は「またやられた」「一本取られた」という意味です。「Well played, my lord」は「お見事、殿」という、相手の巧みさを認めるユーモラスな表現です。"
+  },
+  {
+    "id": "MF_s01e02_131",
+    "englishText": "I will take some insurance. Thank you.",
+    "japaneseTranslation": "保険に入ります。ありがとう。",
+    "explanation": ""
   }
 ]
