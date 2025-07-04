@@ -784,5 +784,653 @@
     "englishText": "I will take some insurance. Thank you.",
     "japaneseTranslation": "保険に入ります。ありがとう。",
     "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_132",
+    "englishText": "What's going on in there?",
+    "japaneseTranslation": "中で何が起こっているんだ？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_133",
+    "englishText": "That's not step four.",
+    "japaneseTranslation": "それはステップ4じゃない。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_134",
+    "englishText": "It says right here that you...",
+    "japaneseTranslation": "ここに書いてあるだろ、お前が…",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_135",
+    "englishText": "That's you worrying about it.",
+    "japaneseTranslation": "それはお前が心配してるだけだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_136",
+    "englishText": "I thought you guys might need a drink.",
+    "japaneseTranslation": "君たち、飲み物が必要かと思ってね。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_137",
+    "englishText": "Manny, I have to go get some stuff for our trip.",
+    "japaneseTranslation": "マニー、旅行の準備をしに行かなきゃならないんだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_138",
+    "englishText": "But have some fun with your father, and I'll see you Monday.",
+    "japaneseTranslation": "でも、お父さんと楽しんでね。月曜日に会おう。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_139",
+    "englishText": "It makes me so happy to see my two boys working together.",
+    "japaneseTranslation": "私の二人の息子が一緒に働いているのを見ると、とても嬉しいわ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_140",
+    "englishText": "Jay shocked himself twice. I warned him.",
+    "japaneseTranslation": "ジェイは二度も感電したんだ。警告したのに。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_141",
+    "englishText": "Yep, he's been a big help.",
+    "japaneseTranslation": "ああ、彼はとても助けになったよ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_142",
+    "englishText": "Look at you two with your private jokes already.",
+    "japaneseTranslation": "もう二人で内緒のジョークを言い合ってるじゃないか。",
+    "explanation": "「private jokes」は「内輪のジョーク」や「身内ネタ」を意味します。"
+  },
+  {
+    "id": "MF_s01e02_143",
+    "englishText": "You're a regular Salazar and El Oso.",
+    "japaneseTranslation": "まるでサラザールとエル・オソみたいだ。",
+    "explanation": "「regular」は「いつもの、典型的な」という意味で、ここでは「まるで～のようだ」という比喩的な表現です。サラザールとエル・オソはコロンビアの有名なコメディコンビです。"
+  },
+  {
+    "id": "MF_s01e02_144",
+    "englishText": "It's a very big comedy team in Colombia.",
+    "japaneseTranslation": "コロンビアではとても有名なコメディチームなんだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_145",
+    "englishText": "El Oso is always hitting Salazar in the head with the ladder and things.",
+    "japaneseTranslation": "エル・オソはいつもサラザールの頭をハシゴなどで叩いているんだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_146",
+    "englishText": "And sometimes they wear dresses.",
+    "japaneseTranslation": "そして時にはドレスを着るんだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_147",
+    "englishText": "They make you laugh, but they also make you think.",
+    "japaneseTranslation": "彼らは君を笑わせるけど、考えさせもするんだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_148",
+    "englishText": "Luke, you made me look bad. No, you made your mother and I look bad.",
+    "japaneseTranslation": "ルーク、お前は僕を悪者にした。いや、お前はママと僕を悪者にしたんだ。",
+    "explanation": "「made me look bad」は「私を悪者に見せた」「私の評判を落とした」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_149",
+    "englishText": "So, what happened after I took off? Anything you want to share with me?",
+    "japaneseTranslation": "それで、僕が立ち去った後、何があったんだ？何か僕と共有したいことはあるかい？",
+    "explanation": "「took off」は「立ち去る、出発する」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_150",
+    "englishText": "Not really.",
+    "japaneseTranslation": "別に。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_151",
+    "englishText": "So, if I went out to the garage to take a picture for a scrapbook, there'd be no surprises?",
+    "japaneseTranslation": "じゃあ、もし僕がスクラップブックのために写真を撮りにガレージに行ったら、何も驚くことはないってこと？",
+    "explanation": "「scrapbook」は「スクラップブック」で、思い出の品や写真を貼るアルバムです。"
+  },
+  {
+    "id": "MF_s01e02_152",
+    "englishText": "I'm so sorry. I didn't mean it. I just made a mistake.",
+    "japaneseTranslation": "本当にごめんなさい。そんなつもりじゃなかったんだ。ただ間違いを犯しただけなんだ。",
+    "explanation": "「I didn't mean it」は「そんなつもりじゃなかった」という謝罪の言葉です。"
+  },
+  {
+    "id": "MF_s01e02_153",
+    "englishText": "Yeah, a big mistake. You're making me look really bad here.",
+    "japaneseTranslation": "ああ、大きな間違いだ。お前はここで僕を本当に悪者にしてるぞ。",
+    "explanation": "「making me look really bad」は「私を本当に悪者に見せている」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_154",
+    "englishText": "I told Mom you were ready for this.",
+    "japaneseTranslation": "ママにはお前がこれに準備できているって言ったんだぞ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_155",
+    "englishText": "It's just a scratch, Dad!",
+    "japaneseTranslation": "ただの傷だよ、パパ！",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_156",
+    "englishText": "That's not the point, Luke. What?",
+    "japaneseTranslation": "問題はそこじゃないんだ、ルーク。何？",
+    "explanation": "「That's not the point」は「そこが問題じゃない」「論点が違う」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_157",
+    "englishText": "I scratched it on my way into the driveway.",
+    "japaneseTranslation": "車道に入る途中で傷つけちゃったんだ。",
+    "explanation": "「on my way into the driveway」は「車道に入る途中で」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_158",
+    "englishText": "So it's not stolen?",
+    "japaneseTranslation": "じゃあ盗まれてないのか？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_159",
+    "englishText": "Because there are bad people out there who would steal a bike. Those are thieves.",
+    "japaneseTranslation": "なぜなら、自転車を盗むような悪い奴らがいるからだ。そいつらは泥棒だ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_160",
+    "englishText": "You sit there and think about the scratch part. That's not good either.",
+    "japaneseTranslation": "お前はそこに座って、傷の部分について考えろ。それも良くないことだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_161",
+    "englishText": "I gotta fix that step.",
+    "japaneseTranslation": "あの段差を直さなきゃ。",
+    "explanation": "「gotta fix」は「got to fix」の短縮形で「直さなければならない」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_162",
+    "englishText": "So don't scratch anything while I'm gone, unless it itches, that's different.",
+    "japaneseTranslation": "だから僕がいない間に何も引っ掻くなよ、痒いなら別だけど、それは違うからな。",
+    "explanation": "「unless it itches, that's different」はユーモラスな言い回しで、痒い場合は引っ掻いてもいいという例外を設けています。"
+  },
+  {
+    "id": "MF_s01e02_163",
+    "englishText": "The good news is Luke has his bike. More good news,",
+    "japaneseTranslation": "良いニュースは、ルークが自転車を持っていることだ。さらなる良いニュースは、",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_164",
+    "englishText": "I taught some random kid a valuable lesson by stealing his bike.",
+    "japaneseTranslation": "彼の自転車を盗むことで、ある見知らぬ子供に貴重な教訓を与えたことだ。",
+    "explanation": "「random kid」は「見知らぬ子供」という意味です。「valuable lesson」は「貴重な教訓」です。"
+  },
+  {
+    "id": "MF_s01e02_165",
+    "englishText": "Best news, Claire knows nothing.",
+    "japaneseTranslation": "最高のニュースは、クレアが何も知らないことだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_166",
+    "englishText": "So, I figure I'll just dump the new bike where I stole the first bike.",
+    "japaneseTranslation": "だから、最初の自転車を盗んだ場所に新しい自転車を捨ててくるつもりだ。",
+    "explanation": "「figure」は「～だと思う、～と考える」という意味です。「dump」は「捨てる」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_167",
+    "englishText": "That way, random kid gets his back, and this new bike doesn't raise a lot of embarrassing questions.",
+    "japaneseTranslation": "そうすれば、見知らぬ子供は自転車を取り戻せるし、この新しい自転車は多くの恥ずかしい質問を引き起こさないだろう。",
+    "explanation": "「raise a lot of embarrassing questions」は「多くの恥ずかしい質問を引き起こす」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_168",
+    "englishText": "Like why I had it or who boosted who through a bedroom window.",
+    "japaneseTranslation": "例えば、なぜ私がそれを持っていたのかとか、誰が誰を寝室の窓から押し上げたのかとかね。",
+    "explanation": "「boosted who through a bedroom window」は「誰が誰を寝室の窓から押し上げたのか」という、窓から侵入した状況を指しています。"
+  },
+  {
+    "id": "MF_s01e02_169",
+    "englishText": "Son of a... You gave me the wrong screwdriver.",
+    "japaneseTranslation": "なんてこった…間違ったドライバーを渡したな。",
+    "explanation": "「Son of a...」は「なんてこった」「ちくしょう」といった驚きや苛立ちを表す感嘆詞です。"
+  },
+  {
+    "id": "MF_s01e02_170",
+    "englishText": "Maybe you're just using it wrong.",
+    "japaneseTranslation": "たぶん、使い方が間違ってるだけだよ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_171",
+    "englishText": "My dad's great with tools.",
+    "japaneseTranslation": "僕のパパは道具の扱いがうまいんだ。",
+    "explanation": "「great with tools」は「道具の扱いがうまい」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_172",
+    "englishText": "He can get the wheels off a car in less than a minute.",
+    "japaneseTranslation": "彼は1分もかからずに車のタイヤを外せるんだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_173",
+    "englishText": "Just get me to wine country. Oh, Sorry.",
+    "japaneseTranslation": "とにかくワインカントリーに連れて行ってくれ。ああ、ごめん。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_174",
+    "englishText": "I think my arm is broken.",
+    "japaneseTranslation": "腕が折れたと思う。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_175",
+    "englishText": "Relax, it's not broken.",
+    "japaneseTranslation": "落ち着け、折れてないよ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_176",
+    "englishText": "How do you know? You don't know anything. You have no concern for safety.",
+    "japaneseTranslation": "どうしてわかるんだ？何も知らないくせに。安全に対する配慮が全くないじゃないか。",
+    "explanation": "「no concern for safety」は「安全に対する配慮が全くない」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_177",
+    "englishText": "Because it didn't hit you that hard.",
+    "japaneseTranslation": "だって、そんなに強く当たってないだろ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_178",
+    "englishText": "Why don't you just say it? You don't want me around.",
+    "japaneseTranslation": "はっきり言えばいいじゃないか？僕がそばにいてほしくないんだろ。",
+    "explanation": "「don't want me around」は「私にそばにいてほしくない」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_179",
+    "englishText": "I don't wanna be with you, either. I'm gonna go wait for my dad.",
+    "japaneseTranslation": "僕だって君と一緒にいたくないよ。パパを待ちに行くんだ。",
+    "explanation": "「wanna」は「want to」の短縮形です。「gonna」は「going to」の短縮形です。"
+  },
+  {
+    "id": "MF_s01e02_180",
+    "englishText": "But if you leave, how will I ever finish?",
+    "japaneseTranslation": "でも、もし君が去ったら、どうやって終わらせられるんだ？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_181",
+    "englishText": "You know what? I wish you never married my mom. I hate living here.",
+    "japaneseTranslation": "あのさ、パパがママと結婚しなければよかったのに。ここに住むのが嫌いだ。",
+    "explanation": "「I wish you never married my mom」は「パパがママと結婚しなければよかったのに」という後悔や不満を表す表現です。"
+  },
+  {
+    "id": "MF_s01e02_182",
+    "englishText": "You think I like this arrangement? I got a two-seater parked in the driveway!",
+    "japaneseTranslation": "僕がこの状況を気に入ってると思うのか？車道には2人乗りの車が停まってるんだぞ！",
+    "explanation": "「arrangement」は「取り決め、状況」という意味です。「two-seater」は「2人乗りの車」を指し、家族構成に合わないことを示唆しています。"
+  },
+  {
+    "id": "MF_s01e02_183",
+    "englishText": "Why are you trying to sneak around and hide things from me?",
+    "japaneseTranslation": "どうして僕に隠し事をしようとするんだ？",
+    "explanation": "「sneak around」は「こそこそする、隠れて行動する」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_184",
+    "englishText": "I actually think it's pretty funny.",
+    "japaneseTranslation": "実は、かなり面白いと思ってるよ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_185",
+    "englishText": "I mean, you steal a bike from some poor kid and the bike gets stolen from you. That's hilarious.",
+    "japaneseTranslation": "つまり、かわいそうな子供から自転車を盗んだら、その自転車が君から盗まれたんだろ。それは爆笑ものだ。",
+    "explanation": "「hilarious」は「爆笑ものの、とても面白い」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_186",
+    "englishText": "Classic me huh?",
+    "japaneseTranslation": "いかにも僕らしいだろ？",
+    "explanation": "「Classic me」は「いかにも私らしい」「私によくあることだ」という自嘲的な表現です。"
+  },
+  {
+    "id": "MF_s01e02_187",
+    "englishText": "Yeah, so, where were you when it got stolen?",
+    "japaneseTranslation": "ああ、それで、盗まれた時どこにいたんだ？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_188",
+    "englishText": "Oh, I was getting some gas.",
+    "japaneseTranslation": "ああ、ガソリンを入れてたんだ。",
+    "explanation": "「getting some gas」は「ガソリンを入れる」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_189",
+    "englishText": "You don't stand near the car when you get gas?",
+    "japaneseTranslation": "ガソリンを入れるとき、車のそばに立ってないのか？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_190",
+    "englishText": "Yep, but I went inside to get a soda because I was thirsty,",
+    "japaneseTranslation": "うん、でも喉が渇いたからソーダを買いに中に入ったんだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_191",
+    "englishText": "and if I had a soda I wouldn't be thirsty anymore, so I bought one",
+    "japaneseTranslation": "そしてソーダがあればもう喉が渇かないから、買ったんだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_192",
+    "englishText": "and then I drank it all right there, which is why I don't have the can.",
+    "japaneseTranslation": "そしてそこで全部飲んだんだ。だから缶がないんだよ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_193",
+    "englishText": "Honey, please, let's try to remember that I'm your wife, not your mom.",
+    "japaneseTranslation": "ハニー、お願いだから、私があなたの妻であって、お母さんじゃないってことを覚えておいてね。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_194",
+    "englishText": "So in the future, you don't need to hide things from me. Okay?",
+    "japaneseTranslation": "だから今後は、私に隠し事をする必要はないわ。いい？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_195",
+    "englishText": "Oh, you get back here. I just love you so darn much.",
+    "japaneseTranslation": "ああ、戻ってきて。本当に大好きよ。",
+    "explanation": "「so darn much」は「本当に、とても」という強調表現です。"
+  },
+  {
+    "id": "MF_s01e02_196",
+    "englishText": "Hi, I found your bike.",
+    "japaneseTranslation": "こんにちは、あなたの自転車を見つけました。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_197",
+    "englishText": "Good! At the gas station?",
+    "japaneseTranslation": "よかった！ガソリンスタンドで？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_198",
+    "englishText": "No, at my house. One of my neighbors saw it and put it in my garage when you were in my bedroom, so...",
+    "japaneseTranslation": "いいえ、私の家で。近所の人がそれを見て、あなたが私の寝室にいる間に私のガレージに入れてくれたのよ、だから…",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_199",
+    "englishText": "classic me?",
+    "japaneseTranslation": "いかにも僕らしい？",
+    "explanation": "「classic me」は「いかにも私らしい」「私によくあることだ」という自嘲的な表現です。"
+  },
+  {
+    "id": "MF_s01e02_200",
+    "englishText": "So, seen any movies lately?",
+    "japaneseTranslation": "それで、最近何か映画を見た？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_201",
+    "englishText": "Uh... Yeah, my husband and I just rented Mamma Mia! which I liked,",
+    "japaneseTranslation": "ええと…うん、夫と私はちょうど『マンマ・ミーア！』を借りたの。私は気に入ったんだけど、",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_202",
+    "englishText": "but I don't know that Meryl Streep was the right choice. What did you think?",
+    "japaneseTranslation": "でもメリル・ストリープが適役だったかはわからないわ。あなたはどう思った？",
+    "explanation": "「the right choice」は「適役、正しい選択」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_203",
+    "englishText": "Excuse me. Meryl Streep could play Batman and be the right choice. She's perfection.",
+    "japaneseTranslation": "失礼だけど。メリル・ストリープはバットマンを演じても適役だよ。彼女は完璧だ。",
+    "explanation": "「She's perfection」は「彼女は完璧だ」という強い賞賛の言葉です。"
+  },
+  {
+    "id": "MF_s01e02_204",
+    "englishText": "Whether she's divorcing Kramer, whether she's wearing Prada, and don't even get me started on Sophie's Choice.",
+    "japaneseTranslation": "クレイマーと離婚していようと、プラダを着ていようと、そして『ソフィーの選択』については言うまでもない。",
+    "explanation": "「don't even get me started on」は「～については言うまでもない」「～の話は切り出さないでくれ（止まらなくなるから）」という意味です。メリル・ストリープの出演作を挙げています。"
+  },
+  {
+    "id": "MF_s01e02_205",
+    "englishText": "I get emotional thinking about it.",
+    "japaneseTranslation": "それを考えると感情的になるよ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_206",
+    "englishText": "She couldn't forgive herself.",
+    "japaneseTranslation": "彼女は自分を許せなかった。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_207",
+    "englishText": "That is a big moment for her. Would you like a videotape?",
+    "japaneseTranslation": "それは彼女にとって大きな瞬間だ。ビデオテープはいかがですか？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_208",
+    "englishText": "I don't know if I could actually get her to do it again, so...",
+    "japaneseTranslation": "彼女にまたやらせられるかわからないから…",
+    "explanation": "「get her to do it again」は「彼女にそれをもう一度やらせる」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_209",
+    "englishText": "Well, we tape all of our classes.",
+    "japaneseTranslation": "ええと、私たちはすべてのクラスを録画しています。",
+    "explanation": "「tape」は「録画する」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_210",
+    "englishText": "We don't like parents bringing cameras in. It keeps them out of the moment.",
+    "japaneseTranslation": "親がカメラを持ち込むのは好きじゃないんです。それが彼らをその瞬間に集中させなくするから。",
+    "explanation": "「keeps them out of the moment」は「彼らをその瞬間に集中させない」「現実から遠ざける」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_211",
+    "englishText": "I'll get you a copy after the class.",
+    "japaneseTranslation": "クラスの後でコピーを渡しますよ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_212",
+    "englishText": "That's super. Thank you.",
+    "japaneseTranslation": "それは素晴らしい。ありがとう。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_213",
+    "englishText": "I don't know what happened to me but I just stole a baby's intellectual property.",
+    "japaneseTranslation": "自分に何が起こったのかわからないけど、赤ちゃんの知的財産を盗んでしまった。",
+    "explanation": "「intellectual property」は「知的財産」という意味です。ユーモラスな表現です。"
+  },
+  {
+    "id": "MF_s01e02_214",
+    "englishText": "You'll see it tonight on the news. Come on, let's just go.",
+    "japaneseTranslation": "今夜のニュースで見るだろうね。さあ、行こう。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_215",
+    "englishText": "Don't look at me. The eye candy here can't leave the house without spending 20 minutes in front of the mirror.",
+    "japaneseTranslation": "私を見るな。ここの目の保養は、鏡の前で20分過ごさないと家を出られないんだ。",
+    "explanation": "「eye candy」は「目の保養になる人/もの」という意味です。ここでは自分を指してユーモラスに言っています。"
+  },
+  {
+    "id": "MF_s01e02_216",
+    "englishText": "Are you kidding me?",
+    "japaneseTranslation": "冗談だろ？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_217",
+    "englishText": "Look at those queens, I would have killed with this crowd.",
+    "japaneseTranslation": "あのクイーンたちを見てくれ、この観客なら大成功だったのに。",
+    "explanation": "「queens」はここではゲイの男性を指すスラングです。「would have killed with this crowd」は「この観客なら大成功を収めただろう」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_218",
+    "englishText": "But you had to clip my wings, which you used to be the wind beneath.",
+    "japaneseTranslation": "でも君は僕の翼を切り落とさなきゃならなかった。君はかつてその翼の下の風だったのに。",
+    "explanation": "「clip my wings」は「私の自由を奪う、行動を制限する」という意味のイディオムです。「the wind beneath (my) wings」は「（私の）支え、力になってくれるもの」という意味の有名なフレーズです。"
+  },
+  {
+    "id": "MF_s01e02_219",
+    "englishText": "I know. This class has turned me into a complete monster. I'll make it up to you",
+    "japaneseTranslation": "わかってる。このクラスのせいで私は完全にモンスターになってしまった。埋め合わせをするよ。",
+    "explanation": "「make it up to you」は「あなたに埋め合わせをする」「償いをする」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_220",
+    "englishText": "Okay, it's time for Parent's Dance. Everybody dance for your baby.",
+    "japaneseTranslation": "よし、親のダンスの時間だ。みんな赤ちゃんのために踊って。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_221",
+    "englishText": "You wanna do it, don't you?",
+    "japaneseTranslation": "やりたいんだろ？",
+    "explanation": "「wanna」は「want to」の短縮形です。"
+  },
+  {
+    "id": "MF_s01e02_222",
+    "englishText": "I do. I wanna dance for my baby.",
+    "japaneseTranslation": "そうだよ。赤ちゃんのために踊りたいんだ。",
+    "explanation": "「wanna」は「want to」の短縮形です。"
+  },
+  {
+    "id": "MF_s01e02_223",
+    "englishText": "All right, go on, get in there.",
+    "japaneseTranslation": "よし、さあ、行ってこい。",
+    "explanation": "「go on」は「さあ、どうぞ」と促す表現です。「get in there」は「そこに入って」という意味で、ここではダンスの輪に入ることを促しています。"
+  },
+  {
+    "id": "MF_s01e02_224",
+    "englishText": "His son's sitting on a curb waiting to go to Disneyland",
+    "japaneseTranslation": "彼の息子は縁石に座ってディズニーランドに行くのを待っているのに、",
+    "explanation": "「sitting on a curb」は「縁石に座っている」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_225",
+    "englishText": "and Superman can't drag himself away from a craps table. And I'm the jerk.",
+    "japaneseTranslation": "スーパーマンはクラップス台から離れられない。そして僕が嫌な奴だ。",
+    "explanation": "「drag himself away from」は「～から自分を引き離す」という意味です。「craps table」はカジノのクラップスというゲームの台です。「jerk」は「嫌な奴、間抜け」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_226",
+    "englishText": "Say listen. Sorry, but I've got some bad news.",
+    "japaneseTranslation": "あのさ。ごめん、でも悪い知らせがあるんだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_227",
+    "englishText": "Your dad couldn't make it.",
+    "japaneseTranslation": "お父さんは来られなかったんだ。",
+    "explanation": "「couldn't make it」は「来られなかった」「間に合わなかった」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_228",
+    "englishText": "The plane was full and this old lady needed to get home,",
+    "japaneseTranslation": "飛行機は満席で、このおばあさんが家に帰る必要があったから、",
+    "explanation": "「old lady」はここでは「おばあさん」を指します。"
+  },
+  {
+    "id": "MF_s01e02_229",
+    "englishText": "so he gave up his seat. You're making that up, aren't you?",
+    "japaneseTranslation": "だから席を譲ったんだ。それ、でっち上げだろ？",
+    "explanation": "「gave up his seat」は「席を譲った」という意味です。「making that up」は「でっち上げている」「嘘をついている」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_230",
+    "englishText": "He just didn't want to come.",
+    "japaneseTranslation": "彼はただ来たがらなかっただけだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_231",
+    "englishText": "Are you kidding me? He was very upset. He was dying to see you.",
+    "japaneseTranslation": "冗談だろ？彼はとてもがっかりしていたよ。君に会いたくてたまらなかったんだ。",
+    "explanation": "「dying to see you」は「君に会いたくてたまらない」という強い願望を表す口語表現です。"
+  },
+  {
+    "id": "MF_s01e02_232",
+    "englishText": "He wanted me and your mom to take you to Disneyland.",
+    "japaneseTranslation": "彼は僕と君のママに君をディズニーランドに連れて行ってほしかったんだ。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_233",
+    "englishText": "I told you he's an awesome dad.",
+    "japaneseTranslation": "言っただろ、彼は最高のパパだって。",
+    "explanation": "「awesome」は「素晴らしい、最高の」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_234",
+    "englishText": "Okay, the key to being a great dad?",
+    "japaneseTranslation": "さて、素晴らしい父親になる秘訣は？",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_235",
+    "englishText": "Look, sometimes things work out just the way you want.",
+    "japaneseTranslation": "いいかい、時には物事が思い通りにいくこともある。",
+    "explanation": "「work out just the way you want」は「思い通りにいく」という意味です。"
+  },
+  {
+    "id": "MF_s01e02_236",
+    "englishText": "Race you to the end",
+    "japaneseTranslation": "終わりまで競争だ",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_237",
+    "englishText": "That's not a good idea, for you.",
+    "japaneseTranslation": "それは君にとって良い考えじゃない。",
+    "explanation": ""
+  },
+  {
+    "id": "MF_s01e02_238",
+    "englishText": "You gotta hang in there.",
+    "japaneseTranslation": "頑張り続けなきゃだめだ。",
+    "explanation": "「gotta hang in there」は「頑張り続ける」「諦めない」という意味の口語表現です。"
+  },
+  {
+    "id": "MF_s01e02_239",
+    "englishText": "Because when all is said and done, 90% of being a dad is just showing up.",
+    "japaneseTranslation": "なぜなら、結局のところ、父親であることの90%はただそこにいることだからだ。",
+    "explanation": "「when all is said and done」は「結局のところ」「あれこれ言っても」という意味のイディオムです。「showing up」は「姿を見せる」「出席する」という意味で、ここでは「ただそこにいること」「存在すること」を指します。"
   }
 ]
