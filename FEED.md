@@ -54,6 +54,6 @@ Prompt
 ## 4. Deploy
 
 - git add, commit
-- npm version patch "feed data"
+- npm version patch -m "feed data"
 - git push
 - git push --tags
