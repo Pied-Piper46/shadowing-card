@@ -1,0 +1,518 @@
+[
+  {
+    "id": "ielts_s3_001",
+    "englishText": "Could you tell me your full name?",
+    "japaneseTranslation": "フルネームを教えていただけますか？",
+    "explanation": "これは、相手のフルネームを尋ねる際の標準的で丁寧な表現です。「Could you」は丁寧な依頼の形式です。"
+  },
+  {
+    "id": "ielts_s3_002",
+    "englishText": "My name is Min Sok Kim. It spells out as m i n s o k k i m.",
+    "japaneseTranslation": "私の名前はミンソク・キムです。M-I-N S-O-K K-I-Mと綴ります。",
+    "explanation": "「It spells out as」は、名前や単語の綴りを説明する際によく使われるフレーズです。ここでは、名前がアルファベットでどのように綴られるかが示されています。"
+  },
+  {
+    "id": "ielts_s3_003",
+    "englishText": "Do you like your name?",
+    "japaneseTranslation": "ご自分の名前は好きですか？",
+    "explanation": "シンプルで直接的な質問です。"
+  },
+  {
+    "id": "ielts_s3_004",
+    "englishText": "I think I like my name. My grandfather gave it to me.",
+    "japaneseTranslation": "自分の名前は好きだと思います。祖父がつけてくれました。",
+    "explanation": "「Gave it to me」は、誰かがその名前を付けてくれたことを自然に伝える表現です。"
+  },
+  {
+    "id": "ielts_s3_005",
+    "englishText": "There were some candidates for my names, but one of them was the same as previous president of Korea.",
+    "japaneseTranslation": "私の名前にはいくつか候補がありましたが、そのうちの一つは韓国の元大統領と同じ名前でした。",
+    "explanation": "「Candidates for my names」という表現は少し不自然です。より自然な言い方としては、「There were several options for my name」や「My parents considered a few names for me」などがあります。「previous president of Korea」は明確です。"
+  },
+  {
+    "id": "ielts_s3_006",
+    "englishText": "So my grandfather disagreed and he said Min is better than the other one so he gave me this name.",
+    "japaneseTranslation": "それで祖父はそれに反対し、「ミン」の方がもう一方よりも良いと言って、この名前を付けてくれました。",
+    "explanation": "「disagreed」は、祖父がもう一方の名前に対して反対したことを示唆しています。「the other one」は、もう一方の名前候補を指しています。"
+  },
+  {
+    "id": "ielts_s3_007",
+    "englishText": "Are you working or are you a student?",
+    "japaneseTranslation": "お仕事されていますか、それとも学生さんですか？",
+    "explanation": "相手の現在の職業を尋ねる一般的な質問です。"
+  },
+  {
+    "id": "ielts_s3_008",
+    "englishText": "I'm a student in Australia, studying in university, majoring in marketing.",
+    "japaneseTranslation": "オーストラリアの大学でマーケティングを専攻している学生です。",
+    "explanation": "「studying in university」は、「student」という言葉に含まれるため、少し冗長です。「I'm a university student」や「I'm studying at university」の方が簡潔です。「majoring in marketing」は明確で正しい表現です。"
+  },
+  {
+    "id": "ielts_s3_009",
+    "englishText": "Do you like your course?",
+    "japaneseTranslation": "専攻されているコースは好きですか？",
+    "explanation": "シンプルで直接的な質問です。"
+  },
+  {
+    "id": "ielts_s3_010",
+    "englishText": "Yeah, for the course itself, I like it but sometimes I meet some strange professors or lectures but I do enjoy my major.",
+    "japaneseTranslation": "はい、コース自体は好きですが、時々変わった教授や講義に当たることがありますが、専攻は楽しんでいます。",
+    "explanation": "「for the course itself」は、コースの内容を強調しています。「meet some strange professors or lectures」の「meet」は、遭遇する、経験するという意味です。「strange」は、珍しい、変わったという意味です。「I do enjoy my major」の「do」は強調のために使われています。"
+  },
+  {
+    "id": "ielts_s3_011",
+    "englishText": "Okay, tell me what you do when you have some free time.",
+    "japaneseTranslation": "では、自由な時間があるときは何をしていますか、教えてください。",
+    "explanation": "趣味や自由な時間の過ごし方について尋ねる際の標準的な表現です。"
+  },
+  {
+    "id": "ielts_s3_012",
+    "englishText": "When I have free time, I have my own youtube channel so film with my friend and after that, I edit those videos and upload it on Youtube.",
+    "japaneseTranslation": "自由な時間があるときは、自分のYouTubeチャンネルがあるので、友達と撮影し、その後、それらの動画を編集してYouTubeにアップロードしています。",
+    "explanation": "「film with my friend」の「film」は動詞として使われており、撮影するという意味です。より一般的な表現は「so I film videos with my friend」や「so I record videos with my friend」です。「upload it on Youtube」は、動画（videos）を指しているので、「upload them on YouTube」とするべきです。"
+  },
+  {
+    "id": "ielts_s3_013",
+    "englishText": "And for daily hobbies, I go to gym to work out.",
+    "japaneseTranslation": "そして日々の趣味としては、運動するためにジムに行きます。",
+    "explanation": "「go to gym to work out」は正しい表現です。「work out」は運動するという意味です。"
+  },
+  {
+    "id": "ielts_s3_014",
+    "englishText": "Okay, and tell me about your hometown.",
+    "japaneseTranslation": "では、あなたの故郷について教えてください。",
+    "explanation": "標準的な質問です。"
+  },
+  {
+    "id": "ielts_s3_015",
+    "englishText": "My hometown is called Tegu, it's located at the sourthern of Korea and I moved to Seoul when I was six, but I still visit there once a year to visit relatives.",
+    "japaneseTranslation": "私の故郷はテグと呼ばれ、韓国の南部に位置しています。6歳の時にソウルに引っ越しましたが、年に一度は親戚を訪ねるためにそこに行きます。",
+    "explanation": "「Tegu」はおそらく「Daegu（대구）」の誤記です。「at the sourthern of Korea」は、「in the south of Korea」または「in southern Korea」とするべきです。「visit there once a year to visit relatives」は少し繰り返しが多いです。「I still visit once a year to see my relatives」の方が簡潔です。"
+  },
+  {
+    "id": "ielts_s3_016",
+    "englishText": "Okay, now we're gonna talk about jeans so do you wear jeans often?",
+    "japaneseTranslation": "さて、ジーンズについて話しましょう。ジーンズはよく履きますか？",
+    "explanation": "「we're gonna talk about」は「we are going to talk about」のくだけた短縮形です。「wear jeans often」は正しい表現です。"
+  },
+  {
+    "id": "ielts_s3_017",
+    "englishText": "Yes, most of my pants are jeans. I think after 10 years old, I only wore jeans mostly.",
+    "japaneseTranslation": "はい、私のズボンのほとんどはジーンズです。10歳を過ぎてからは、ほとんどジーンズしか履いていません。",
+    "explanation": "「most of my pants are jeans」は正しいです。「after 10 years old, I only wore jeans mostly」は、10歳から継続的にジーンズを履いていた習慣を示唆しています。「mostly」はここでは少し冗長です。「I've mostly worn jeans since I was 10」や「After I turned 10, I mostly wore jeans」の方が自然です。"
+  },
+  {
+    "id": "ielts_s3_018",
+    "englishText": "I think it's very comfortable and it matches almost every upper clothes but sometimes like if I have to wear formal clothes,",
+    "japaneseTranslation": "とても快適で、ほとんどのトップスに合いますが、フォーマルな服を着なければならない時は、",
+    "explanation": "「matches almost every upper clothes」の「upper clothes」は理解できますが、「tops」や「shirts」の方が一般的です。この文は「フォーマルな服を着なければならない時は、」で終わっており、文が不完全です。対比を導く文のようです。"
+  },
+  {
+    "id": "ielts_s3_019",
+    "englishText": "I feel like uncomfortable already.",
+    "japaneseTranslation": "もう不快に感じてしまいます。",
+    "explanation": "「I feel like uncomfortable」は文法的に誤りです。形容詞の前に「like」は不要で、「I feel uncomfortable already」とするべきです。「Already」は、既存の感覚や不快感への迅速な移行を示唆しています。"
+  },
+  {
+    "id": "ielts_s3_020",
+    "englishText": "Okay, so do you like wearing jeans?",
+    "japaneseTranslation": "なるほど、ジーンズを履くのは好きですか？",
+    "explanation": "シンプルで直接的な質問です。"
+  },
+  {
+    "id": "ielts_s3_021",
+    "englishText": "Yeah, I love wearing jeans.",
+    "japaneseTranslation": "ええ、ジーンズを履くのが大好きです。",
+    "explanation": "シンプルで直接的な表現です。"
+  },
+  {
+    "id": "ielts_s3_022",
+    "englishText": "Why do you think jeans are popular.",
+    "japaneseTranslation": "なぜジーンズが人気だと思いますか？",
+    "explanation": "シンプルで直接的な質問です。"
+  },
+  {
+    "id": "ielts_s3_023",
+    "englishText": "I think I've learn this in my schools and other like I've read some articles about it.",
+    "japaneseTranslation": "学校で習ったことや、それに関する記事を読んだことがあると思います。",
+    "explanation": "「I think I've learn this」は、「I think I learned this」または「I learned this」とするべきです。事実を述べるのであれば、「I think」は冗長です。「and other like I've read some articles about it」は文法的に不自然です。「and I've read some articles about it」とするべきです。"
+  },
+  {
+    "id": "ielts_s3_024",
+    "englishText": "And I've heard that jeans were popular when it was first invented and rich people thought even poor's were wearing those pants",
+    "japaneseTranslation": "そして、ジーンズが最初に発明されたときから人気があり、裕福な人々は貧しい人々もそれらのズボンを履いていると考えていたと聞きました。",
+    "explanation": "「poor's」は誤りです。「the poor」または「poor people」とするべきです。"
+  },
+  {
+    "id": "ielts_s3_025",
+    "englishText": "and at first rich people thought how could these people wear the same close as us.",
+    "japaneseTranslation": "そして最初は、裕福な人々は「どうしてこれらの人々が私たちと同じ服を着ることができるのだろうか」と考えていました。",
+    "explanation": "「close」は「clothes」のスペルミスです。"
+  },
+  {
+    "id": "ielts_s3_026",
+    "englishText": "But I think that represents that from every people's perspective, jeans looks okay and very fashionable.",
+    "japaneseTranslation": "しかし、それは、すべての人々の視点から見て、ジーンズは悪くない、とてもファッショナブルに見えることを示していると思います。",
+    "explanation": "「from every people's perspective」は、「from everyone's perspective」または「from the perspective of all people」とするべきです。「jeans looks okay」の「looks okay」は少し控えめな表現ですが、理解はできます。"
+  },
+  {
+    "id": "ielts_s3_027",
+    "englishText": "So I think I'm also part of those people I guess.",
+    "japaneseTranslation": "だから、私もそのような人々の仲間だと思います、たぶん。",
+    "explanation": "「I guess」は、わずかな不確かさやくだけたニュアンスを加えます。"
+  },
+  {
+    "id": "ielts_s3_028",
+    "englishText": "And what color of jeans do you like wearing?",
+    "japaneseTranslation": "そして、ジーンズはどんな色が好きですか？",
+    "explanation": "シンプルで直接的な質問です。"
+  },
+  {
+    "id": "ielts_s3_029",
+    "englishText": "I thought like five years ago, I only bought like black jeans, but only recently I have bought two very light blue jeans",
+    "japaneseTranslation": "5年くらい前は黒いジーンズしか買っていませんでしたが、最近になってとても明るい青色のジーンズを2本買いました。",
+    "explanation": "「I thought like five years ago」の「I thought」は、ここでは適切な動詞ではありません。「About five years ago」や「Five years ago」がより適切です。「like」はフィラーです。「I only bought like black jeans」も同様に、「like」はフィラーであり、「I only bought black jeans」とするべきです。「but only recently I have bought two very light blue jeans」は正しいです。"
+  },
+  {
+    "id": "ielts_s3_030",
+    "englishText": "I thought those colors didn't match me but as I age more, I think it's not too bad I guess.",
+    "japaneseTranslation": "それらの色は私には似合わないと思っていましたが、年を取るにつれて、悪くないと思うようになりました、たぶん。",
+    "explanation": "「I thought those colors didn't match me」は正しいです。「as I age more」は、「As I get older」や「As I age」の方が一般的です。「it's not too bad I guess」の「not too bad」は一般的な慣用句です。「I guess」はくだけたニュアンスを加えます。"
+  },
+  {
+    "id": "ielts_s3_031",
+    "englishText": "What style of jeans are popular in your country?",
+    "japaneseTranslation": "あなたの国ではどのようなスタイルのジーンズが人気ですか？",
+    "explanation": "シンプルで直接的な質問です。"
+  },
+  {
+    "id": "ielts_s3_032",
+    "englishText": "In my country, only a few years ago, very skinny fit jeans were very popular,",
+    "japaneseTranslation": "私の国では、ほんの数年前まで、非常にスキニーフィットのジーンズがとても人気がありました。",
+    "explanation": "正しい表現です。"
+  },
+  {
+    "id": "ielts_s3_033",
+    "englishText": "but some people thought it was a bit disgusting. when it's too tight, they thought it looks like sausage.",
+    "japaneseTranslation": "しかし、一部の人々はそれが少し嫌だと考えていました。きつすぎると、ソーセージのように見えると考えていました。",
+    "explanation": "「disgusting」は強い言葉です。タイトなジーンズを表現するには、「unflattering（あまり良くない）」、「uncomfortable（不快な）」、「unappealing（魅力的でない）」などがより適切かもしれません。「it looks like sausage」は、非常にタイトなパンツの外観を表現する鮮やかな比喩です。"
+  },
+  {
+    "id": "ielts_s3_034",
+    "englishText": "but these days I think the trend is that it's a bit loose pants is more popular.",
+    "japaneseTranslation": "しかし最近では、少しゆったりしたパンツの方が人気があるのがトレンドだと思います。",
+    "explanation": "文法的に誤りがあります。「a bit of loose pants is more popular」または「slightly loose pants are more popular」とするべきです。"
+  },
+  {
+    "id": "ielts_s3_035",
+    "englishText": "Okay, that will do us for part one of the test, so let's move on to the second part.",
+    "japaneseTranslation": "さて、これでテストのパート1は終わりです。パート2に進みましょう。",
+    "explanation": "テストにおける標準的な移行フレーズです。"
+  },
+  {
+    "id": "ielts_s3_036",
+    "englishText": "All right, it turns out that's where minute is down there just grab that pen back off you please.",
+    "japaneseTranslation": "わかりました、どうやらそこに分があるようです。そこからペンを返してもらえますか？",
+    "explanation": "この文は非常に不明瞭で、誤りや書き取りミスが含まれている可能性が高いです。「it turns out that's where minute is down there」というフレーズは、この文脈では意味をなしません。「it turns out that's where the minute is up there」のような聞き間違いか、特定の物体を指している可能性があります。「just grab that pen back off you please」は、ペンの返却を求める依頼です。"
+  },
+  {
+    "id": "ielts_s3_037",
+    "englishText": "So your question is describe your ideal home so you can begin anytime you like.",
+    "japaneseTranslation": "あなたの質問は、あなたの理想の家について説明することです。いつでも始めてください。",
+    "explanation": "これは試験官がパート2の課題を候補者に与えている場面です。「so you can begin anytime you like」は、候補者が準備ができたら話し始めて良いという意味です。"
+  },
+  {
+    "id": "ielts_s3_038",
+    "englishText": "I think for me ideal home would be apartment.",
+    "japaneseTranslation": "私にとって理想の家はアパートだと思います。",
+    "explanation": "文法的に誤りがあります。「For me, an ideal home would be an apartment.」とするべきです。"
+  },
+  {
+    "id": "ielts_s3_039",
+    "englishText": "I think the reason why I chose this form of home is because in Korea the landfill is small,",
+    "japaneseTranslation": "私がこの形態の家を選んだ理由は、韓国では土地が狭いためです。",
+    "explanation": "「landfill」はおそらく聞き間違いまたは書き取りミスです。文脈からは「land」または「space」を意味していると思われます。「landfill」は廃棄物処理場を指します。「most of people build a apartment for their houses」は、「most people build apartments for their homes」または「most people live in apartments」とするべきです。"
+  },
+  {
+    "id": "ielts_s3_040",
+    "englishText": "most of people build a apartment for their houses and I've lived in apartment for most of my life.",
+    "japaneseTranslation": "ほとんどの人がアパートを家として建てており、私は人生のほとんどをアパートで暮らしてきました。",
+    "explanation": "「most of people build a apartment for their houses」は、「most people live in apartments」または「most people build apartments」とするのが自然です。「for their houses」は冗長です。「I've lived in apartment for most of my life」は、「I've lived in apartments」（複数形）または「I've lived in an apartment」とするべきです。"
+  },
+  {
+    "id": "ielts_s3_041",
+    "englishText": "And it should be located near public transportation, I think that's the most important thing,",
+    "japaneseTranslation": "そして公共交通機関の近くにあるべきです。それが最も重要なことだと思います。",
+    "explanation": "正しい表現です。"
+  },
+  {
+    "id": "ielts_s3_042",
+    "englishText": "because let's say I'm studying or I have a job and commuting is the most important thing for me.",
+    "japaneseTranslation": "なぜなら、例えば私が勉強している場合や仕事がある場合、通勤は私にとって最も重要なことだからです。",
+    "explanation": "「let's say」は、例や仮説的な状況を導入するために使われます。「commuting is the most important thing for me」は正しいです。"
+  },
+  {
+    "id": "ielts_s3_043",
+    "englishText": "and for my home, it should be first cozy and should be secondly equipped with lots of furnitures and other facilities",
+    "japaneseTranslation": "そして私の家は、まず居心地が良く、次にたくさんの家具やその他の設備が整っているべきです。",
+    "explanation": "「first cozy and should be secondly equipped」という構造は少し不自然です。「First, it should be cozy, and second, it should be equipped...」または「It should be cozy and equipped with...」の方が自然です。「furnitures」は誤りです。「furniture」の複数形は通常使われず、「pieces of furniture」とするか、単に「lots of furniture」とするのが正しいです。"
+  },
+  {
+    "id": "ielts_s3_044",
+    "englishText": "and I would say it's better if there's like gym or swimming pool at the apartment for public use.",
+    "japaneseTranslation": "そして、アパートにジムやプールのようなものが公共利用のためにあれば、より良いと思います。",
+    "explanation": "「there's like gym or swimming pool」の「like」はフィラーです。「There's a gym or swimming pool」または「there are facilities like a gym or swimming pool」とするべきです。「at the apartment for public use」は、アパート複合施設内のアメニティを指しています。"
+  },
+  {
+    "id": "ielts_s3_045",
+    "englishText": "And it doesn't have to be big because I would live there for my 20s, but if once I get marry or get a kid, maybe I would move to a bigger apartment.",
+    "japaneseTranslation": "そして、大きくなくても構いません。なぜなら、私は20代の間そこに住むことになるでしょうが、もし結婚したり子供ができたりしたら、もっと大きなアパートに引っ越すかもしれません。",
+    "explanation": "「if once I get marry or get a kid」は、「if I get married or have a child」とするべきです。"
+  },
+  {
+    "id": "ielts_s3_046",
+    "englishText": "If I can, I would like to live near Seoul at least since it's the most popular area in Korea.",
+    "japaneseTranslation": "もし可能なら、少なくともソウル近郊に住みたいです。なぜなら、そこは韓国で最も人気のある地域だからです。",
+    "explanation": "正しい表現です。"
+  },
+  {
+    "id": "ielts_s3_047",
+    "englishText": "Okay, right good last two minutes so we'll stop you there. You're not a fan of commuting.",
+    "japaneseTranslation": "はい、わかりました。最後の2分です。そこで止めます。あなたは通勤が好きではないのですね。",
+    "explanation": "試験官が要約し、観察を述べています。「not a fan of commuting」は、通勤が嫌いという意味の一般的な慣用句です。"
+  },
+  {
+    "id": "ielts_s3_048",
+    "englishText": "Yes, it's very hard to be in the packed subway when everyone is pushing each other.",
+    "japaneseTranslation": "はい、みんながお互いを押し合っているとき、満員電車に乗るのはとても大変です。",
+    "explanation": "「packed subway」は、混雑した地下鉄の電車を指します。「everyone is pushing each other」は、混雑して不快な状況を説明しています。"
+  },
+  {
+    "id": "ielts_s3_049",
+    "englishText": "Yeah, it's like a war isn't it? Okay, we go on to part three now.",
+    "japaneseTranslation": "ええ、まるで戦争のようですよね？さて、パート3に進みましょう。",
+    "explanation": "「it's like a war isn't it?」は、混雑した地下鉄の不快さを強調するための誇張された比較です。「isn't it?」は同意を求める付加疑問文です。「we go on to part three now」は標準的な移行です。"
+  },
+  {
+    "id": "ielts_s3_050",
+    "englishText": "What do you think what are the differences between living in the city and living in the countryside?",
+    "japaneseTranslation": "どう思いますか？都市での生活と田舎での生活の違いは何ですか？",
+    "explanation": "文法的に不自然です。「What do you think are the differences」または「What are the differences」とするべきです。"
+  },
+  {
+    "id": "ielts_s3_051",
+    "englishText": "Currently I'm living in Australia and the city is canberra.",
+    "japaneseTranslation": "現在、私はオーストラリアに住んでおり、都市はキャンベラです。",
+    "explanation": "正しい表現です。"
+  },
+  {
+    "id": "ielts_s3_052",
+    "englishText": "I would say even though it's capital city, it's more countryside than Seoul.",
+    "japaneseTranslation": "首都ではありますが、ソウルよりも田舎っぽいと言えます。",
+    "explanation": "比較の文です。キャンベラはソウルよりも田舎のような特徴を持っていると描写されています。"
+  },
+  {
+    "id": "ielts_s3_053",
+    "englishText": "Because when I come out of my room, I can see the kangaroos running around but I think there's advantages and disadvantages.",
+    "japaneseTranslation": "なぜなら、部屋から出るとカンガルーが走り回っているのが見えるからです。しかし、利点と欠点があると思います。",
+    "explanation": "「come out of my room」は標準的です。「kangaroos running around」はオーストラリアの環境の特徴です。「advantages and disadvantages」は正しいです。"
+  },
+  {
+    "id": "ielts_s3_054",
+    "englishText": "for city, it's very convenient since everything is prepared already.",
+    "japaneseTranslation": "都市に関しては、すべてがすでに準備されているので非常に便利です。",
+    "explanation": "「for city」は、「For cities」または「In the city」とするべきです。「everything is prepared already」は、アメニティやサービスがすぐに利用可能であることを示唆しています。"
+  },
+  {
+    "id": "ielts_s3_055",
+    "englishText": "But I would say it's very packed and sometimes you wanna be by yourself but there are a lot of people around you.",
+    "japaneseTranslation": "しかし、非常に混雑しており、時には一人になりたいと思っても、周りにはたくさんの人がいます。",
+    "explanation": "「packed」は混雑しているという意味です。「you wanna be by yourself」は、「you want to be by yourself」のくだけた表現です。"
+  },
+  {
+    "id": "ielts_s3_056",
+    "englishText": "I think it's hard for you to get personal zone but for countryside I think it's very easy you wanna be alone.",
+    "japaneseTranslation": "パーソナルスペースを確保するのが難しいと思いますが、田舎では一人になりたいなら非常に簡単だと思います。",
+    "explanation": "「get personal zone」は、「get personal space」または「have personal space」とするべきです。「you wanna be alone」は、「you want to be alone」のくだけた表現です。"
+  },
+  {
+    "id": "ielts_s3_057",
+    "englishText": "Do you think older people prefer living in the countryside rather than the city?",
+    "japaneseTranslation": "年配の人は都市よりも田舎に住むことを好むと思いますか？",
+    "explanation": "シンプルで直接的な質問です。"
+  },
+  {
+    "id": "ielts_s3_058",
+    "englishText": "Yes, I agree with this statement. Older people especially from Korean perspective, I've heard a lot of older generations saying that after retiring,",
+    "japaneseTranslation": "はい、その意見に同意します。特に韓国の観点から言うと、多くの年配世代が引退後に、",
+    "explanation": "「from Korean perspective」は、文化的文脈を明確にしています。「older generations saying that after retiring」は正しいです。"
+  },
+  {
+    "id": "ielts_s3_059",
+    "englishText": "they would like to go back to countryside and run their own farm.",
+    "japaneseTranslation": "田舎に戻って自分の農場を経営したいと言っているのを聞きました。",
+    "explanation": "正しい表現です。"
+  },
+  {
+    "id": "ielts_s3_060",
+    "englishText": "That's because they care more about their health issue. They want to breed in some more clean air and live among the nature.",
+    "japaneseTranslation": "それは彼らが健康問題により関心があるからです。よりきれいな空気を吸い、自然の中で暮らしたいと思っています。",
+    "explanation": "「health issue」は、「health issues」または「their health」とするべきです。「breed in some more clean air」は誤りです。「breathe in」または「breathe」とするべきです。"
+  },
+  {
+    "id": "ielts_s3_061",
+    "englishText": "All right. Let's get into the feedback. Did well, you're nice and confident. You spoke fluently.",
+    "japaneseTranslation": "わかりました。フィードバックに入りましょう。よくできました。あなたは感じが良く、自信がありました。流暢に話しました。",
+    "explanation": "試験官からの肯定的なフィードバックです。"
+  },
+  {
+    "id": "ielts_s3_062",
+    "englishText": "I'd say your score would be about 6.5 what you would get.",
+    "japaneseTranslation": "あなたのスコアは6.5くらいになるでしょう。",
+    "explanation": "「what you would get」は冗長です。「I'd say your score would be about 6.5.」とするべきです。"
+  },
+  {
+    "id": "ielts_s3_063",
+    "englishText": "Now to get up to 7.0, I think the only thing that's really kind of stopping you probably is just some small grammer errors kind of throughout you know.",
+    "japaneseTranslation": "7.0に上がるためには、おそらくあなたを妨げている唯一のことは、全体を通してのいくつかの小さな文法の間違いだと思います。",
+    "explanation": "「grammer」は「grammar」のスペルミスです。「kind of stopping you」はくだけた表現です。「that's stopping you」または「that's hindering you」とします。「kind of throughout you know」はフィラーです。"
+  },
+  {
+    "id": "ielts_s3_064",
+    "englishText": "So in term of your fluency it was really good. There was very little hesitation throughout you were able to speak comfortably.",
+    "japaneseTranslation": "だから、あなたの流暢さという点では本当に良かったです。ほとんどためらいがなく、快適に話すことができました。",
+    "explanation": "「in term of」は「in terms of」とするべきです。「very little hesitation throughout」は正しいです。"
+  },
+  {
+    "id": "ielts_s3_065",
+    "englishText": "And you answered all the questions on the spot.",
+    "japaneseTranslation": "そして、すべての質問にその場で答えました。",
+    "explanation": "正しい表現です。"
+  },
+  {
+    "id": "ielts_s3_066",
+    "englishText": "As was your pronunciation, very clear, very accurate, there were no real issues to point out there.",
+    "japaneseTranslation": "あなたの発音も同様に、非常に明瞭で、非常に正確で、特に指摘すべき問題はありませんでした。",
+    "explanation": "「As was your pronunciation」という構造は少しフォーマルで、やや不自然です。「Your pronunciation was also very clear...」の方が自然です。"
+  },
+  {
+    "id": "ielts_s3_067",
+    "englishText": "Obviously there's a few vocabulary issues let's just point out a couple, just to give some examples,",
+    "japaneseTranslation": "明らかにいくつかの語彙の問題があります。例としていくつか指摘しましょう。",
+    "explanation": "正しい表現です。"
+  },
+  {
+    "id": "ielts_s3_068",
+    "englishText": "you were talking about your name, there were a few other candidates for your name like candidates suggest me like people.",
+    "japaneseTranslation": "あなたの名前について話していたとき、あなたの名前には候補がいくつかありました。候補は私に人々のような人を提案しました。",
+    "explanation": "これは非常に不明瞭で、おそらく「candidates」の意味を説明しようとしているようです。元の文は「There were some candidates for my names」でした。試験官は「candidates」がここでは「人々」ではなく、「名前の候補」を意味することを明確にしようとしています。より良い説明は、「When you said 'candidates for your name,' you meant other names that were considered for you, not people.」となります。"
+  },
+  {
+    "id": "ielts_s3_069",
+    "englishText": "But if you're talking about a name, I would say options.",
+    "japaneseTranslation": "しかし、名前について話すなら、「options」と言うべきです。",
+    "explanation": "試験官は、名前について話す際に「candidates」よりも「options」という言葉を使うことを提案しています。「options」は良い代替語です。"
+  },
+  {
+    "id": "ielts_s3_070",
+    "englishText": "Use the word as well disgusting for the jeans, I probably wouldn't use that word.",
+    "japaneseTranslation": "ジーンズに対して「disgusting」という言葉も使いましたが、私はその言葉を使わないでしょう。",
+    "explanation": "試験官は、ジーンズに対して「disgusting」という言葉を使うことを避けるようにアドバイスしています。"
+  },
+  {
+    "id": "ielts_s3_071",
+    "englishText": "For disgusting sounds just a little bit worse, a little bit extreme in that sense.",
+    "japaneseTranslation": "「disgusting」は、その意味で少し悪く、少し極端に聞こえます。",
+    "explanation": "「disgusting」がなぜ不適切なのかを説明しています。"
+  },
+  {
+    "id": "ielts_s3_072",
+    "englishText": "For example, when you're talking about food like really bad food, you would say disgusting",
+    "japaneseTranslation": "例えば、本当にまずい食べ物について話すとき、「disgusting」と言うでしょう。",
+    "explanation": "「disgusting」が適切な例を挙げています。"
+  },
+  {
+    "id": "ielts_s3_073",
+    "englishText": "or, something that would make your stomach feel bad, maybe for that one.",
+    "japaneseTranslation": "あるいは、お腹の調子が悪くなるようなものに対して、それには使えるかもしれません。",
+    "explanation": "「disgusting」の適切な使用例を続けています。"
+  },
+  {
+    "id": "ielts_s3_074",
+    "englishText": "And just a little word work between packed and crowded. They're very similar actually you know",
+    "japaneseTranslation": "そして、「packed」と「crowded」の間の言葉の使い分けについて少し。実際にはとても似ていますよ。",
+    "explanation": "試験官は、「packed」と「crowded」のニュアンスの違いを説明しようとしています。"
+  },
+  {
+    "id": "ielts_s3_075",
+    "englishText": "but if I were talking about a city I would say crowded rather than packed.",
+    "japaneseTranslation": "しかし、都市について話すなら、「packed」よりも「crowded」と言うでしょう。",
+    "explanation": "都市について話す際に「crowded」を好む理由を説明しています。"
+  },
+  {
+    "id": "ielts_s3_076",
+    "englishText": "Packed suggests like you're in a room you know.",
+    "japaneseTranslation": "「packed」は、部屋の中にいるような感じを示唆します。",
+    "explanation": "「packed」のニュアンスを説明しています。しばしば、人が閉じ込められている空間に対して使われます。"
+  },
+  {
+    "id": "ielts_s3_077",
+    "englishText": "If you're talking about the subway or establishment you could say it's packed because everyone's inside yeah.",
+    "japaneseTranslation": "地下鉄や施設について話すなら、みんな中に入っているので「packed」だと言えます。",
+    "explanation": "「packed」が地下鉄や施設など、人が中に閉じ込められている空間に対して使えることを明確にしています。"
+  },
+  {
+    "id": "ielts_s3_078",
+    "englishText": "In terms of grammer, the tense is usually all right but I think what let you down is just some prepositions.",
+    "japaneseTranslation": "文法に関しては、時制は通常問題ありませんが、あなたを落胆させているのは前置詞だと思います。",
+    "explanation": "「grammer」は「grammar」のスペルミスです。「what let you down」はくだけた表現で、「what's holding you back」や「what's causing issues」を意味します。「some prepositions」は、前置詞が弱い分野であることを特定しています。"
+  },
+  {
+    "id": "ielts_s3_079",
+    "englishText": "Just prepositions are kind of missing from a lot of your sentences for example you said go to gym, go to the gym.",
+    "japaneseTranslation": "多くの文で前置詞が欠けているようです。例えば、あなたは「go to gym」と言いましたが、「go to the gym」と言うべきです。",
+    "explanation": "前置詞「the」が欠けている具体的な例を示しています。"
+  },
+  {
+    "id": "ielts_s3_080",
+    "englishText": "at the southern Korea, in the Southern Korea",
+    "japaneseTranslation": "「at the southern Korea」は、「in the Southern Korea」と言うべきです。",
+    "explanation": "前置詞の誤用に関する別の例です。"
+  },
+  {
+    "id": "ielts_s3_081",
+    "englishText": "When we're talking about jeans, just the subject you were using was it, it's very comfortable, it's very popular",
+    "japaneseTranslation": "ジーンズについて話すとき、あなたが使っていた主語は「it」でした。それはとても快適です、それはとても人気があります。",
+    "explanation": "試験官は、主語と動詞の一致の誤りを指摘しています。"
+  },
+  {
+    "id": "ielts_s3_082",
+    "englishText": "What should it be? They. Because they're one thing but they're plural.",
+    "japaneseTranslation": "どうあるべきでしょうか？「They」です。それは一つのものですが、複数形だからです。",
+    "explanation": "「they're one thing but they're plural」という説明は混乱を招きます。英語ではジーンズは複数形として扱われるため、「they」を使うべきです。より良い説明は、「Jeans are treated as plural in English, so you should use 'they' as the subject.」となります。"
+  },
+  {
+    "id": "ielts_s3_083",
+    "englishText": "And you said you bought two very light blue jeans, it should be pairs.",
+    "japaneseTranslation": "そして、あなたはとても明るい青色のジーンズを2本買ったと言いました。それはペアであるべきです。",
+    "explanation": "「it should be pairs」は正しいです。ジーンズは通常、ペア（a pair of jeans）として言及されます。"
+  },
+  {
+    "id": "ielts_s3_084",
+    "englishText": "Indeed the second part, it was quite strong. You spoke for a full two minutes.",
+    "japaneseTranslation": "確かに第二部では、それはかなり力強かったです。あなたは丸々2分間話しました。",
+    "explanation": "パート2に対する肯定的なフィードバックです。"
+  },
+  {
+    "id": "ielts_s3_085",
+    "englishText": "One question I started with do you think, and you answered with I agree,",
+    "japaneseTranslation": "私が始めた質問の一つに「どう思いますか」がありましたが、あなたは「同意します」と答えました。",
+    "explanation": "試験官は、尋ねられた質問と回答の不一致を指摘しています。"
+  },
+  {
+    "id": "ielts_s3_086",
+    "englishText": "You can only say I agree if the question is do you agree, just a little thing to be careful of there.",
+    "japaneseTranslation": "「同意します」と答えるのは、「同意しますか」という質問に対してのみです。そこに注意すべき小さな点があります。",
+    "explanation": "「I agree」を使う際のルールを説明しています。"
+  }
+]
