@@ -66,11 +66,11 @@
     "description": "ビジネスシーンで使える英語表現集です。"
   },
   {
-    "id": "youtube_ted_talks",
-    "title": "TED Talks: The Power of Vulnerability",
+    "id": "youtube_ted_talks_002",
+    "title": "TED Talks: The Economic Opportunity Hidden in the Climate Transition",
     "category": "YouTube",
     "subCategory": "Educational",
-    "description": "人気のTEDトーク「The Power of Vulnerability」からの抜粋です。"
+    "description": ""
   },
   {
     "id": "ielts_s1",
@@ -89,7 +89,7 @@
   {
     "id": "ielts_s3",
     "title": "IELTS Speaking Test 3 Band 6.5+",
-    "category": "YouTube",
+    "category": "Youtube",
     "subCategory": "Educational",
     "description": ""
   }

@@ -1,0 +1,854 @@
+[
+  {
+    "id": "ted_002_001",
+    "englishText": "I don't mean this in a philosophical way.",
+    "japaneseTranslation": "これは哲学的な意味で言っているのではありません。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_002",
+    "englishText": "Does humanity have sufficient grit and creativity?",
+    "japaneseTranslation": "人類には十分な気概と創造性があるでしょうか？",
+    "explanation": "「grit」は「気概」「根性」「粘り強さ」といった意味で、困難に立ち向かう精神的な強さを指します。"
+  },
+  {
+    "id": "ted_002_003",
+    "englishText": "Do we have the political will?",
+    "japaneseTranslation": "私たちには政治的な意思があるでしょうか？",
+    "explanation": "「political will」は「政治的意志」と訳され、政府や政治家が特定の政策を実行しようとする意欲や決意を指します。"
+  },
+  {
+    "id": "ted_002_004",
+    "englishText": "I mean, quite literally, do we have enough stuff?",
+    "japaneseTranslation": "つまり、文字通り、私たちには十分な「もの」があるでしょうか？",
+    "explanation": "「quite literally」は「文字通りに」という意味で、比喩ではなくそのままの意味であることを強調します。「stuff」はここでは「材料」「資源」といった意味合いで使われています。"
+  },
+  {
+    "id": "ted_002_005",
+    "englishText": "Cement, steel, glass, nuts, bolts needed to achieve net zero.",
+    "japaneseTranslation": "ネットゼロを達成するために必要なセメント、鉄鋼、ガラス、ナット、ボルト。",
+    "explanation": "「net zero」は「排出量実質ゼロ」を意味し、温室効果ガスの排出量と吸収量を均衡させる目標を指します。"
+  },
+  {
+    "id": "ted_002_006",
+    "englishText": "Because this is no small undertaking.",
+    "japaneseTranslation": "なぜなら、これは小さな事業ではないからです。",
+    "explanation": "「no small undertaking」は「決して小さな事業ではない」「大変な仕事である」という意味の強調表現です。"
+  },
+  {
+    "id": "ted_002_007",
+    "englishText": "Over the next 30 years, we're going to need to build 42 billion solar panels,",
+    "japaneseTranslation": "今後30年間で、私たちは420億枚のソーラーパネルを建設する必要があります。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_008",
+    "englishText": "1.3 million wind turbines, 476 nuclear reactors,",
+    "japaneseTranslation": "130万基の風力タービン、476基の原子力発電所、",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_009",
+    "englishText": "establish a hydrogen economy, overhaul our electrical grid and transform our transportation networks.",
+    "japaneseTranslation": "水素経済を確立し、電力網を刷新し、交通網を変革する必要があります。",
+    "explanation": "「overhaul」は「徹底的に見直す」「刷新する」という意味です。"
+  },
+  {
+    "id": "ted_002_010",
+    "englishText": "This is a lot of money and a lot of labor, yes, but it's also just a lot of stuff.",
+    "japaneseTranslation": "これは多額の費用と多くの労働力を要しますが、それだけでなく、単に多くの「もの」も必要とします。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_011",
+    "englishText": "So as governments set increasingly ambitious policy targets",
+    "japaneseTranslation": "政府がますます野心的な政策目標を設定し、",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_012",
+    "englishText": "and businesses overhaul their operations, whether by carrots or sticks.",
+    "japaneseTranslation": "企業がその事業を刷新するにつれて、飴と鞭のどちらであっても。",
+    "explanation": "「by carrots or sticks」は「飴と鞭で」「インセンティブと罰則で」という意味のイディオムです。"
+  },
+  {
+    "id": "ted_002_013",
+    "englishText": "We can't forget a fundamental question, is it even feasible?",
+    "japaneseTranslation": "私たちは根本的な問いを忘れてはなりません。それはそもそも実現可能なのか？",
+    "explanation": "「feasible」は「実行可能な」「実現可能な」という意味です。"
+  },
+  {
+    "id": "ted_002_014",
+    "englishText": "I've been working on climate and sustainability topics my entire career.",
+    "japaneseTranslation": "私はキャリアを通じてずっと気候と持続可能性のテーマに取り組んできました。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_015",
+    "englishText": "I started as a policy advocate and activist lobbying for stronger policy interventions",
+    "japaneseTranslation": "私は政策提唱者および活動家として、より強力な政策介入を求めてロビー活動を行うことから始め、",
+    "explanation": "「lobbying for」は「～のためにロビー活動をする」という意味です。"
+  },
+  {
+    "id": "ted_002_016",
+    "englishText": "and later as a scientist and a engineer,",
+    "japaneseTranslation": "その後、科学者やエンジニアとして働き、",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_017",
+    "englishText": "only to come to the conclusion that those industries, while very important, move so slowly.",
+    "japaneseTranslation": "しかし、それらの産業は非常に重要であるにもかかわらず、動きが非常に遅いという結論に至りました。",
+    "explanation": "「only to come to the conclusion that...」は「～という結論に至るだけだった」という、予期せぬ結果や残念な結果を表す表現です。"
+  },
+  {
+    "id": "ted_002_018",
+    "englishText": "I'm not a very patient person and climate change demands urgent action.",
+    "japaneseTranslation": "私はあまり忍耐強い人間ではなく、気候変動は緊急の行動を求めています。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_019",
+    "englishText": "So I made my switch to the business sector, where we have both the resources and agility to effect climate change on the necessary time scales.",
+    "japaneseTranslation": "そこで私はビジネスセクターに転身しました。そこには、必要な時間スケールで気候変動に影響を与えるための資源と機敏さの両方があります。",
+    "explanation": "「make one's switch to」は「～に転身する」という意味です。「agility」は「機敏さ」「俊敏性」という意味です。「effect climate change」は「気候変動に影響を与える」という意味ですが、ここでは「気候変動対策を実行する」というニュアンスです。"
+  },
+  {
+    "id": "ted_002_020",
+    "englishText": "Among the hightlights of my career has been working at the BCG Henderson Institute, BCG's think tank.",
+    "japaneseTranslation": "私のキャリアのハイライトの一つは、BCGのシンクタンクであるBCGヘンダーソン研究所で働いたことです。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_021",
+    "englishText": "There, our research team studies how to increase the speed and scale of the energy trasition",
+    "japaneseTranslation": "そこで私たちの研究チームは、エネルギー転換の速度と規模をいかにして高めるかを研究しています。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_022",
+    "englishText": "by looking at the transition economy as a system.",
+    "japaneseTranslation": "それは、転換経済をシステムとして捉えることによってです。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_023",
+    "englishText": "Underpinning our research is this idea that it's not just one sector that's going to need to transform, but all of them.",
+    "japaneseTranslation": "私たちの研究の根底にあるのは、変革が必要なのは一つのセクターだけでなく、すべてのセクターであるという考えです。",
+    "explanation": "「underpinning」は「基礎となる」「根底にある」という意味です。"
+  },
+  {
+    "id": "ted_002_024",
+    "englishText": "You know, it's not just wind or automotive industries.",
+    "japaneseTranslation": "つまり、風力産業や自動車産業だけではありません。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_025",
+    "englishText": "These sectors are transforming in parallel and we need to look at this holistically.",
+    "japaneseTranslation": "これらのセクターは並行して変革しており、私たちはこれを全体的に見る必要があります。",
+    "explanation": "「in parallel」は「並行して」という意味です。「holistically」は「全体的に」「包括的に」という意味です。"
+  },
+  {
+    "id": "ted_002_026",
+    "englishText": "So let me give you an example.",
+    "japaneseTranslation": "では、例を挙げましょう。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_027",
+    "englishText": "If we wanted to answer this question, can we achieve net zero, do we have enough stuff for just the wind sector?",
+    "japaneseTranslation": "もし「ネットゼロを達成できるか、風力セクターだけで十分なものがあるか」という問いに答えたいとします。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_028",
+    "englishText": "Classically, you might approach this question by looking at all the materials you need to make a wind turbine",
+    "japaneseTranslation": "古典的には、風力タービンを作るのに必要なすべての材料を見て、この問いにアプローチするかもしれません。",
+    "explanation": "「Classically」は「古典的に」「従来の方法で」という意味です。"
+  },
+  {
+    "id": "ted_002_029",
+    "englishText": "and then comparing supply and demand.",
+    "japaneseTranslation": "そして供給と需要を比較します。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_030",
+    "englishText": "And what you would see is that maybe through 2030, you would see some scarcity in carbon fiber, possibly terbium,",
+    "japaneseTranslation": "すると、おそらく2030年までには、炭素繊維や、もしかしたらテルビウムにいくらかの不足が見られるでしょう。",
+    "explanation": "「scarcity」は「不足」「希少性」という意味です。"
+  },
+  {
+    "id": "ted_002_031",
+    "englishText": "but it's really unclear once you get to the bottom of the list.",
+    "japaneseTranslation": "しかし、リストの最後まで見ていくと、本当に不明瞭になります。",
+    "explanation": "「get to the bottom of the list」は「リストの最後までたどり着く」という意味で、ここでは詳細を掘り下げていくと状況が複雑になることを示唆しています。"
+  },
+  {
+    "id": "ted_002_032",
+    "englishText": "Once we start factoring in the rest of the economy, the picture looks like this.",
+    "japaneseTranslation": "経済の残りの部分を考慮に入れ始めると、状況はこのようになります。",
+    "explanation": "「factor in」は「～を考慮に入れる」「～を織り込む」という意味です。"
+  },
+  {
+    "id": "ted_002_033",
+    "englishText": "There are 14 materials that would face scarcity in the wind energy supply chain through 2030",
+    "japaneseTranslation": "2030年までに風力エネルギーのサプライチェーンで不足に直面する材料は14種類あります。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_034",
+    "englishText": "Once we account for the full economy.",
+    "japaneseTranslation": "経済全体を考慮に入れると。",
+    "explanation": "「account for」は「～を考慮に入れる」「～を説明する」という意味です。"
+  },
+  {
+    "id": "ted_002_035",
+    "englishText": "I don't know about you, but I found these results staggering.",
+    "japaneseTranslation": "皆さんはどうかわかりませんが、私はこれらの結果に衝撃を受けました。",
+    "explanation": "「staggering」は「驚くべき」「圧倒的な」という意味です。"
+  },
+  {
+    "id": "ted_002_036",
+    "englishText": "It's exactly this type of perspective that we need to bring to policymakers to make informed decisions",
+    "japaneseTranslation": "まさにこのような視点を政策立案者に提供し、情報に基づいた意思決定をしてもらう必要があります。",
+    "explanation": "「informed decisions」は「情報に基づいた意思決定」という意味です。"
+  },
+  {
+    "id": "ted_002_037",
+    "englishText": "and to bring to investors so that they're investing in clean technologies that will actually have meaningful impact.",
+    "japaneseTranslation": "そして投資家には、実際に意味のある影響をもたらすクリーンテクノロジーに投資してもらう必要があります。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_038",
+    "englishText": "Now, you may be wondering, you know, isn't this just one scenario, right?",
+    "japaneseTranslation": "さて、あなたは疑問に思うかもしれません。「これは単なる一つのシナリオに過ぎないのではないか？」と。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_039",
+    "englishText": "There are many pathways that you could take to reach net zero,",
+    "japaneseTranslation": "ネットゼロに到達するための経路はたくさんありますし、",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_040",
+    "englishText": "and in fact, there are hundreds of design choices that go into each of these individual technologies.",
+    "japaneseTranslation": "実際、これらの個々の技術には何百もの設計上の選択肢があります。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_041",
+    "englishText": "So to show you what I mean, we have a few different solar panels here mounted in different ways.",
+    "japaneseTranslation": "私が何を意味するかを示すために、ここにいくつかの異なる方法で設置されたソーラーパネルがあります。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_042",
+    "englishText": "You can see this picture on the bottom left uses cement. Some of the others do not.",
+    "japaneseTranslation": "左下のこの写真ではセメントが使われていますが、他のものには使われていません。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_043",
+    "englishText": "Whether they're mounted on the rooftop or on the ground will influence things like the number of inverters you need per gigawatt.",
+    "japaneseTranslation": "屋根に設置するか地面に設置するかによって、ギガワットあたりに必要なインバーターの数などが影響されます。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_044",
+    "englishText": "So what happens if we start factoring in actual design choices?",
+    "japaneseTranslation": "では、実際の設計上の選択肢を考慮に入れ始めたらどうなるでしょうか？",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_045",
+    "englishText": "Our team wanted to do this.",
+    "japaneseTranslation": "私たちのチームはこれを実行したかったのです。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_046",
+    "englishText": "So we ran a modest 6,000 experiments where we varied not only the amount of solar and wind in our net zero scenario, but individual design choices.",
+    "japaneseTranslation": "そこで私たちは、ネットゼロのシナリオにおける太陽光と風力の量だけでなく、個々の設計上の選択肢も変更する、控えめな6,000回の実験を行いました。",
+    "explanation": "「modest」は「控えめな」「適度な」という意味です。"
+  },
+  {
+    "id": "ted_002_047",
+    "englishText": "So far our solar panels, we looked at whether they were made from crystalline silicon or thin films,",
+    "japaneseTranslation": "これまでのところ、私たちのソーラーパネルについては、結晶シリコン製か薄膜製か、",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_048",
+    "englishText": "Whether they were framed in aluminum, whether they had a glass backing",
+    "japaneseTranslation": "アルミニウムで枠が作られているか、ガラスの裏打ちがあるか、",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_049",
+    "englishText": "and whether they were mounted on the roof or on the ground.",
+    "japaneseTranslation": "そして屋根に設置されているか地面に設置されているか、を調べました。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_050",
+    "englishText": "And we varied similar parameters for the wind sector.",
+    "japaneseTranslation": "そして風力セクターについても同様のパラメータを変更しました。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_051",
+    "englishText": "What we found was that 45 percent of the materials needed to build solar and wind panels could face scarcity through 2030 under every scenario we tested.",
+    "japaneseTranslation": "私たちが発見したのは、テストしたすべてのシナリオにおいて、太陽光パネルと風力パネルを建設するために必要な材料の45パーセントが2030年までに不足に直面する可能性があるということでした。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_052",
+    "englishText": "Some of the materials we expected, right?",
+    "japaneseTranslation": "いくつかの材料は予想通りでしたよね？",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_053",
+    "englishText": "Things like cobalt or rare earth metals have been in the news for a long time,",
+    "japaneseTranslation": "コバルトや希土類金属のようなものは、長い間ニュースになっていましたし、",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_054",
+    "englishText": "but others were a lot more suprising.",
+    "japaneseTranslation": "しかし、他のものははるかに驚くべきものでした。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_055",
+    "englishText": "No one's talking about aluminum or carbon fiber.",
+    "japaneseTranslation": "アルミニウムや炭素繊維については誰も話していません。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_056",
+    "englishText": "For every decarbonization pathway,",
+    "japaneseTranslation": "あらゆる脱炭素化の経路において、",
+    "explanation": "「decarbonization pathway」は「脱炭素化の経路」という意味です。"
+  },
+  {
+    "id": "ted_002_057",
+    "englishText": "the mix of technologies down to small design choices can sway our ability to achieve net zero.",
+    "japaneseTranslation": "小さな設計上の選択肢に至るまでの技術の組み合わせが、ネットゼロ達成能力を左右する可能性があります。",
+    "explanation": "「sway」は「揺り動かす」「左右する」という意味です。"
+  },
+  {
+    "id": "ted_002_058",
+    "englishText": "And for businesses, what this necessarily means is that they're going to look for substitutes",
+    "japaneseTranslation": "そして企業にとって、これは必然的に代替品を探すことを意味します。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_059",
+    "englishText": "as they try and overcome these scarcities.",
+    "japaneseTranslation": "これらの不足を克服しようとする中で。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_060",
+    "englishText": "But those substitutes and those transformations can lead to more scarcity. So...",
+    "japaneseTranslation": "しかし、それらの代替品や変革は、さらなる不足につながる可能性があります。ですから…",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_061",
+    "englishText": "We can do a thought experiment. Say we had a scarcity in carbon fiber.",
+    "japaneseTranslation": "思考実験をしてみましょう。炭素繊維が不足しているとします。",
+    "explanation": "「thought experiment」は「思考実験」という意味です。"
+  },
+  {
+    "id": "ted_002_062",
+    "englishText": "It's used to strengthen the wind turbine blades. A logical substitute here is fiberglass.",
+    "japaneseTranslation": "それは風力タービンのブレードを強化するために使われます。ここでの論理的な代替品はグラスファイバーです。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_063",
+    "englishText": "The fiberglass market is quite large,",
+    "japaneseTranslation": "グラスファイバー市場はかなり大きく、",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_064",
+    "englishText": "it could easily absorb addtional demand coming from the wind sector.",
+    "japaneseTranslation": "風力セクターからの追加需要を容易に吸収できるでしょう。",
+    "explanation": "「absorb additional demand」は「追加需要を吸収する」という意味です。"
+  },
+  {
+    "id": "ted_002_065",
+    "englishText": "But to make fiberglass, you need boron, and boron is becoming increasingly used throughout the energy trasition.",
+    "japaneseTranslation": "しかし、グラスファイバーを作るにはホウ素が必要です。そしてホウ素はエネルギー転換全体でますます使用されるようになっています。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_066",
+    "englishText": "It goes into rare earth magnets that are used in EVs and wind turbines.",
+    "japaneseTranslation": "それはEVや風力タービンに使われる希土類磁石に使われます。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_067",
+    "englishText": "It goes into boron steel in the automotive industry,",
+    "japaneseTranslation": "自動車産業ではホウ素鋼に使われ、",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_068",
+    "englishText": "it goes into borosilicate glass in certain types of solar applications.",
+    "japaneseTranslation": "特定の種類の太陽光発電用途ではホウケイ酸ガラスに使われます。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_069",
+    "englishText": "So as we increase demand for fiberglass, we may put strain on boron supplies.",
+    "japaneseTranslation": "したがって、グラスファイバーの需要が増加すると、ホウ素の供給に負担をかける可能性があります。",
+    "explanation": "「put strain on」は「～に負担をかける」「～を圧迫する」という意味です。"
+  },
+  {
+    "id": "ted_002_070",
+    "englishText": "So maybe we just increase the supplies. Well, as it would turn out,",
+    "japaneseTranslation": "では、供給を増やせばいいのでしょうか。しかし、結局のところ、",
+    "explanation": "「as it would turn out」は「結局のところ」「蓋を開けてみれば」という意味で、意外な事実を導入する際に使われます。"
+  },
+  {
+    "id": "ted_002_071",
+    "englishText": "there's only a few countries that mine boron.",
+    "japaneseTranslation": "ホウ素を採掘する国はごくわずかです。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_072",
+    "englishText": "Seventy three percent of known reserves exist in Turkey.",
+    "japaneseTranslation": "既知の埋蔵量の73パーセントはトルコに存在します。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_073",
+    "englishText": "And to open a new mine, that's a 20-year process.",
+    "japaneseTranslation": "そして新しい鉱山を開設するには、20年かかるプロセスです。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_074",
+    "englishText": "So yeah, we could replace carbon fiber with fiberglass,",
+    "japaneseTranslation": "ですから、確かに炭素繊維をグラスファイバーに置き換えることはできますが、",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_075",
+    "englishText": "but it could have implications for the entire economy.",
+    "japaneseTranslation": "それは経済全体に影響を及ぼす可能性があります。",
+    "explanation": "「have implications for」は「～に影響を及ぼす」「～にとっての意味合いを持つ」という意味です。"
+  },
+  {
+    "id": "ted_002_076",
+    "englishText": "And this is just one material. For all of these technologies,",
+    "japaneseTranslation": "そしてこれは一つの材料に過ぎません。これらのすべての技術には、",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_077",
+    "englishText": "there's hundreds, maybe even thousands of components to consider.",
+    "japaneseTranslation": "何百、おそらく何千もの部品を考慮する必要があります。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_078",
+    "englishText": "I could give you another example, right.",
+    "japaneseTranslation": "別の例を挙げましょう。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_079",
+    "englishText": "So if the wind example didn't resonate, we could talk about lithium ion batteries.",
+    "japaneseTranslation": "もし風力の例が響かなかったなら、リチウムイオン電池について話しましょう。",
+    "explanation": "「resonate」は「共感を呼ぶ」「響く」という意味です。"
+  },
+  {
+    "id": "ted_002_080",
+    "englishText": "They are skyrocketing in demand driven by electric vehicles and grid scale storage.",
+    "japaneseTranslation": "それらは電気自動車とグリッドスケール貯蔵によって需要が急増しています。",
+    "explanation": "「skyrocketing in demand」は「需要が急増している」という表現です。「grid scale storage」は「電力網規模の貯蔵」を指します。"
+  },
+  {
+    "id": "ted_002_081",
+    "englishText": "The anode material that goes into a lithium ion battery is typically graphite.",
+    "japaneseTranslation": "リチウムイオン電池に使われる負極材料は通常グラファイトです。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_082",
+    "englishText": "We would pretty much need to double graphite supplies by 2030 to achieve net zero.",
+    "japaneseTranslation": "ネットゼロを達成するためには、2030年までにグラファイトの供給量をほぼ倍増させる必要があります。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_083",
+    "englishText": "The graphite anode supply chain is dominated by China.",
+    "japaneseTranslation": "グラファイト負極のサプライチェーンは中国が支配しています。",
+    "explanation": "「dominated by」は「～に支配されている」という意味です。"
+  },
+  {
+    "id": "ted_002_084",
+    "englishText": "They control 100 percent of battery-grade graphite.",
+    "japaneseTranslation": "彼らはバッテリーグレードのグラファイトの100パーセントを管理しています。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_085",
+    "englishText": "So there are a lot of people looking to expand supplies of graphite,",
+    "japaneseTranslation": "そのため、グラファイトの供給を拡大しようとしている人々が多くいますが、",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_086",
+    "englishText": "but there's also substitutions that are under research.",
+    "japaneseTranslation": "研究中の代替品もあります。",
+    "explanation": "「under research」は「研究中である」という意味です。"
+  },
+  {
+    "id": "ted_002_087",
+    "englishText": "Scientists are exploring the alternative of using silicon as an anode material.",
+    "japaneseTranslation": "科学者たちは、シリコンを負極材料として使用する代替案を模索しています。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_088",
+    "englishText": "But this not only creates a new opportunity for silicon producers,",
+    "japaneseTranslation": "しかし、これはシリコン生産者にとって新たな機会を生み出すだけでなく、",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_089",
+    "englishText": "but could put pressure in semiconductor and solar panel industries.",
+    "japaneseTranslation": "半導体産業やソーラーパネル産業に圧力をかける可能性があります。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_090",
+    "englishText": "OK, thrown a lot at you, so just to check that you're following.",
+    "japaneseTranslation": "さて、多くの情報を提供しましたが、皆さんがついてきているか確認させてください。",
+    "explanation": "「throw a lot at you」は「多くの情報や課題を一度に与える」という意味の口語表現です。「check that you're following」は「理解しているか確認する」という意味です。"
+  },
+  {
+    "id": "ted_002_091",
+    "englishText": "Achieving net zero is going to take a lot of stuff.",
+    "japaneseTranslation": "ネットゼロを達成するには、多くの「もの」が必要です。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_092",
+    "englishText": "That stuff is going to increase our demand, could lead to scarcity",
+    "japaneseTranslation": "その「もの」は私たちの需要を増加させ、不足につながる可能性があり、",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_093",
+    "englishText": "and businesses will respond through substitution.",
+    "japaneseTranslation": "企業は代替によって対応するでしょう。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_094",
+    "englishText": "But there's one more thing I'm not sure you caught.",
+    "japaneseTranslation": "しかし、もう一つ、皆さんが気づいたかどうかわからないことがあります。",
+    "explanation": "「catch」はここでは「理解する」「気づく」という意味です。"
+  },
+  {
+    "id": "ted_002_095",
+    "englishText": "Somebody's going to get rich. That somebody could be you.",
+    "japaneseTranslation": "誰かが金持ちになるでしょう。その誰かはあなたかもしれません。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_096",
+    "englishText": "For businesses big and small, the energy transition creates the single largest industrial growth opportunity since the Industrial Revolution.",
+    "japaneseTranslation": "大小の企業にとって、エネルギー転換は産業革命以来、最大の産業成長機会を生み出します。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_097",
+    "englishText": "The energy sector that was once dominated by two fuels is now experiencing fierce competition among a broader range of climate technologies.",
+    "japaneseTranslation": "かつて2つの燃料に支配されていたエネルギーセクターは、現在、より広範な気候技術の間で激しい競争を経験しています。",
+    "explanation": "「fierce competition」は「激しい競争」という意味です。"
+  },
+  {
+    "id": "ted_002_098",
+    "englishText": "The materials and components that go into these could gain a share in trillion-dollar energy economy.",
+    "japaneseTranslation": "これらに使われる材料や部品は、数兆ドル規模のエネルギー経済でシェアを獲得する可能性があります。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_099",
+    "englishText": "And it's not just rare earth metals and clean tech. We're talking about commodities.",
+    "japaneseTranslation": "そして、それは希土類金属やクリーンテックだけではありません。私たちはコモディティについて話しています。",
+    "explanation": "「commodities」は「商品」「一次産品」という意味です。"
+  },
+  {
+    "id": "ted_002_100",
+    "englishText": "I mentioned aluminum a little bit earlier.",
+    "japaneseTranslation": "先ほど少しアルミニウムについて触れました。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_101",
+    "englishText": "This is an industry that has been stagnant since 1980s.",
+    "japaneseTranslation": "これは1980年代から停滞していた産業です。",
+    "explanation": "「stagnant」は「停滞した」「不活発な」という意味です。"
+  },
+  {
+    "id": "ted_002_102",
+    "englishText": "But if we take our approach to net zero seriously, they will see a boon in their industry.",
+    "japaneseTranslation": "しかし、もし私たちがネットゼロへのアプローチを真剣に受け止めるなら、彼らの産業は恩恵を受けるでしょう。",
+    "explanation": "「take seriously」は「真剣に受け止める」という意味です。「boon」は「恩恵」「恵み」という意味です。"
+  },
+  {
+    "id": "ted_002_103",
+    "englishText": "It's used in solar panel mounting hardware and frames.",
+    "japaneseTranslation": "それはソーラーパネルの取り付け金具やフレームに使われます。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_104",
+    "englishText": "It's used in conductors for the electric grid. It's used to lightweight electric vehicles.",
+    "japaneseTranslation": "電力網の導体に使われます。電気自動車の軽量化に使われます。",
+    "explanation": "「lightweight」は動詞で「～を軽量化する」という意味です。"
+  },
+  {
+    "id": "ted_002_105",
+    "englishText": "It can also replace other scarce materials like copper, thereby seeing increased demand through substitution.",
+    "japaneseTranslation": "また、銅のような他の希少な材料の代替となり、それによって代替による需要増加が見込まれます。",
+    "explanation": "「thereby」は「それによって」「その結果」という意味です。"
+  },
+  {
+    "id": "ted_002_106",
+    "englishText": "And it's not just alminum, we're seeing this trend for certain grades of steel, for silver, for epoxy resin.",
+    "japaneseTranslation": "そしてアルミニウムだけでなく、特定のグレードの鉄鋼、銀、エポキシ樹脂でもこの傾向が見られます。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_107",
+    "englishText": "There's also opportunities that exist by entering new markets. so we could say for an example,",
+    "japaneseTranslation": "新しい市場に参入することによって存在する機会もあります。例えば、",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_108",
+    "englishText": "perhaps you are a manufacturer of automotive parts.",
+    "japaneseTranslation": "あなたが自動車部品の製造業者だとしましょう。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_109",
+    "englishText": "You may think that the electric vehicle industry is going to be the death of your industry.",
+    "japaneseTranslation": "あなたは電気自動車産業が自社の産業の終焉をもたらすと思うかもしれません。",
+    "explanation": "「the death of one's industry」は「～の産業の終焉」という比喩表現です。"
+  },
+  {
+    "id": "ted_002_110",
+    "englishText": "But the same skills and labor that go into manufacturing parts for a gas car translate incredibly well to the wind energy sector,",
+    "japaneseTranslation": "しかし、ガソリン車の部品製造に使われるのと同じスキルと労働力は、風力エネルギーセクターに驚くほどよく応用できます。",
+    "explanation": "「translate incredibly well to」は「～に驚くほどよく応用できる」「～に非常にうまく移行できる」という意味です。"
+  },
+  {
+    "id": "ted_002_111",
+    "englishText": "where wind turbines require thousands of mechanical parts.",
+    "japaneseTranslation": "風力タービンは何千もの機械部品を必要とします。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_112",
+    "englishText": "Getting a foothold in that supply chain could diversify your product portfolio and lead to new revenue opportunities.",
+    "japaneseTranslation": "そのサプライチェーンに足がかりを築くことは、製品ポートフォリオを多様化し、新たな収益機会につながる可能性があります。",
+    "explanation": "「get a foothold in」は「～に足がかりを築く」「～に足場を固める」という意味です。「diversify product portfolio」は「製品ポートフォリオを多様化する」という意味です。"
+  },
+  {
+    "id": "ted_002_113",
+    "englishText": "Or say you make lubricant. There's an opportunity for you, too.",
+    "japaneseTranslation": "あるいは、あなたが潤滑油を製造しているとしましょう。あなたにも機会があります。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_114",
+    "englishText": "There's two drivetrains that are common in wind turbines.",
+    "japaneseTranslation": "風力タービンには2つの一般的な駆動系があります。",
+    "explanation": "「drivetrain」は「駆動系」「動力伝達装置」という意味です。"
+  },
+  {
+    "id": "ted_002_115",
+    "englishText": "One uses magnets that are becoming incresingly rare, and one is mechanical design",
+    "japaneseTranslation": "一つはますます希少になっている磁石を使用し、もう一つは機械設計です。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_116",
+    "englishText": "As rare earth magnets become more scarce, the industry will likely shift to mechanical alternatives, which will need more lubricant.",
+    "japaneseTranslation": "希土類磁石がより希少になるにつれて、業界は機械的な代替品に移行する可能性が高く、それにはより多くの潤滑油が必要になります。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_117",
+    "englishText": "We'll also see an expansion in infrastructure.",
+    "japaneseTranslation": "インフラの拡大も期待できます。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_118",
+    "englishText": "The offshore wind industry is going to need ports that can store enormous components.",
+    "japaneseTranslation": "洋上風力産業は、巨大な部品を保管できる港を必要とするでしょう。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_119",
+    "englishText": "It's going to need ships that can erect skyscraper-sized wind turbines in the ocean.",
+    "japaneseTranslation": "海中に超高層ビルサイズの風力タービンを建設できる船が必要になるでしょう。",
+    "explanation": "「erect」は「建設する」「立てる」という意味です。「skyscraper-sized」は「超高層ビルサイズの」という形容詞です。"
+  },
+  {
+    "id": "ted_002_120",
+    "englishText": "Those ships are going to need new engines that can burn alternative fuels like methanol and ammonia.",
+    "japaneseTranslation": "それらの船には、メタノールやアンモニアのような代替燃料を燃焼できる新しいエンジンが必要になるでしょう。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_121",
+    "englishText": "In fact, ammonia demand is expected to double through 2030 and triple by 2050.",
+    "japaneseTranslation": "実際、アンモニアの需要は2030年までに倍増し、2050年までに3倍になると予想されています。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_122",
+    "englishText": "That extra ammonia is going to need storage.",
+    "japaneseTranslation": "その余分なアンモニアには貯蔵が必要です。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_123",
+    "englishText": "So if you're a chemical storage tank producer, this is an opportunity for you too.",
+    "japaneseTranslation": "ですから、もしあなたが化学貯蔵タンクの生産者であれば、これもあなたにとっての機会です。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_124",
+    "englishText": "And I haven't even touched the surface on the finance sector, the education sector, construction, logistic services",
+    "japaneseTranslation": "そして、私は金融セクター、教育セクター、建設、物流サービスについてはまだ表面に触れたに過ぎません。",
+    "explanation": "「haven't even touched the surface on」は「～についてはまだ表面に触れたに過ぎない」「～のほんの一部しか話していない」という意味のイディオムです。"
+  },
+  {
+    "id": "ted_002_125",
+    "englishText": "that are all going to experience increased opportunities as we achieve net zero.",
+    "japaneseTranslation": "これらすべてが、ネットゼロを達成するにつれて機会の増加を経験するでしょう。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_126",
+    "englishText": "Now, I think it's important to take a pause here to note,",
+    "japaneseTranslation": "さて、ここで一時停止して注目することが重要だと思います。",
+    "explanation": "「take a pause to note」は「一時停止して注目する」という意味です。"
+  },
+  {
+    "id": "ted_002_127",
+    "englishText": "I'm not advocating for more consumption on our pathway to net zero.",
+    "japaneseTranslation": "私はネットゼロへの道のりで、より多くの消費を提唱しているわけではありません。",
+    "explanation": "「advocating for」は「～を提唱する」「～を擁護する」という意味です。"
+  },
+  {
+    "id": "ted_002_128",
+    "englishText": "And I think it's really important to acknowledge that clean technology can come with their own environmental and social costs.",
+    "japaneseTranslation": "そして、クリーンテクノロジーにはそれ自身の環境的および社会的コストが伴う可能性があることを認識することが非常に重要だと思います。",
+    "explanation": "「acknowledge」は「認める」「認識する」という意味です。"
+  },
+  {
+    "id": "ted_002_129",
+    "englishText": "We're going to need to be really thoughtful about how we do this.",
+    "japaneseTranslation": "私たちはこれをどのように行うかについて、本当に慎重になる必要があります。",
+    "explanation": "「thoughtful」は「思慮深い」「慎重な」という意味です。"
+  },
+  {
+    "id": "ted_002_130",
+    "englishText": "But these opportunities can also lead to innovations in new and different ways, right?",
+    "japaneseTranslation": "しかし、これらの機会は、新しく異なる方法でのイノベーションにもつながる可能性がありますよね？",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_131",
+    "englishText": "Better processes, better use and recycling of materials.",
+    "japaneseTranslation": "より良いプロセス、より良い材料の使用とリサイクル。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_132",
+    "englishText": "The LED light bulb is a really good example here.",
+    "japaneseTranslation": "LED電球はここで非常に良い例です。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_133",
+    "englishText": "This is a technology that reduces our energy use, but also saves consumers money",
+    "japaneseTranslation": "これはエネルギー使用量を削減する技術ですが、消費者の費用も節約し、",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_134",
+    "englishText": "and uses a fraction of the materials that go into a CFL or an incandescent bulb.",
+    "japaneseTranslation": "CFLや白熱電球に使われる材料のごく一部しか使用しません。",
+    "explanation": "「a fraction of」は「ごく一部の」「ほんのわずかの」という意味です。"
+  },
+  {
+    "id": "ted_002_135",
+    "englishText": "Achieving net zero is not going to be easy. The timelines are incredibly tight,",
+    "japaneseTranslation": "ネットゼロの達成は容易ではありません。タイムラインは信じられないほど厳しく、",
+    "explanation": "「incredibly tight」は「信じられないほど厳しい」という意味です。"
+  },
+  {
+    "id": "ted_002_136",
+    "englishText": "and given the complexity involved, it's going to require collaboration from both the public and the private sectors.",
+    "japaneseTranslation": "そして、関わる複雑さを考えると、公共部門と民間部門の両方からの協力が必要になるでしょう。",
+    "explanation": "「given the complexity involved」は「関わる複雑さを考えると」という意味です。"
+  },
+  {
+    "id": "ted_002_137",
+    "englishText": "But this also provides an opportunity for innovation and for growth.",
+    "japaneseTranslation": "しかし、これはイノベーションと成長の機会も提供します。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_138",
+    "englishText": "I mentioned at the beginning of my talk that I am interested in the business sector.",
+    "japaneseTranslation": "講演の冒頭で、私がビジネスセクターに興味があることに触れました。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_139",
+    "englishText": "I really do believe that this is where we are going to see solutions to climate change happen.",
+    "japaneseTranslation": "私は、気候変動への解決策がここで実現すると本当に信じています。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_140",
+    "englishText": "I want you to get rich and to innovate and to grow, because this is how we reach the speed and scale we need to achieve the energy transition.",
+    "japaneseTranslation": "私は皆さんに豊かになり、革新し、成長してほしいと願っています。なぜなら、これこそがエネルギー転換を達成するために必要な速度と規模に到達する方法だからです。",
+    "explanation": ""
+  },
+  {
+    "id": "ted_002_141",
+    "englishText": "After all, someone has to make the stuff needed for net zero.",
+    "japaneseTranslation": "結局のところ、ネットゼロに必要な「もの」は誰かが作らなければなりません。",
+    "explanation": "「After all」は「結局のところ」「やはり」という意味です。"
+  },
+  {
+    "id": "ted_002_142",
+    "englishText": "So I'll leave you with one final question. What opportunities lie ahead?",
+    "japaneseTranslation": "最後に一つの質問を残して終わりにします。どのような機会が待ち受けているでしょうか？",
+    "explanation": "「lie ahead」は「（未来に）待ち受けている」「控えている」という意味です。"
+  }
+]
