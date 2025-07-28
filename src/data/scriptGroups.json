@@ -92,5 +92,12 @@
     "category": "Youtube",
     "subCategory": "Educational",
     "description": ""
+  },
+  {
+    "id": "interview_phases_e01",
+    "title": "Interview Practice for Hospitality Job",
+    "category": "Interview Practice",
+    "subCategory": "Business",
+    "description": ""
   }
 ]

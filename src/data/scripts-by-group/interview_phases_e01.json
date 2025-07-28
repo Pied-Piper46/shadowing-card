@@ -1,0 +1,74 @@
+[
+  {
+    "id": "interview_e01_001",
+    "englishText": "Can you tell me about yourself?",
+    "japaneseTranslation": "自己紹介をお願いできますか？",
+    "explanation": "特になし。自然な表現です。"
+  },
+  {
+    "id": "interview_e01_002",
+    "englishText": "I'm Taro from Japan. I moved here just last week so I'm currently looking for a job.",
+    "japaneseTranslation": "私は日本から来たタロウです。先週こちらに引っ越してきたばかりなので、現在仕事を探しています。",
+    "explanation": "特になし。自然な表現です。"
+  },
+  {
+    "id": "interview_e01_003",
+    "englishText": "Before I came here, I used to work in Australia as a cook, as a server and as a barista.",
+    "japaneseTranslation": "こちらに来る前は、オーストラリアで料理人、サーバー、バリスタとして働いていました。",
+    "explanation": "\"as a cook, as a server and as a barista\" は、\"as a cook, server, and barista\" のように、最後の項目以外は \"as a\" を省略して列挙するのがより自然です。"
+  },
+  {
+    "id": "interview_e01_004",
+    "englishText": "So I have experinece in hospitality industry over six years, including in Japan.",
+    "japaneseTranslation": "ですので、日本での経験も含め、ホスピタリティ業界で6年以上の経験があります。",
+    "explanation": "「experinece」は「experience」のスペルミスです。「in hospitality industry」は冠詞が必要です。「in the hospitality industry」が正しいです。「over six years」は「6年以上」という意味で正しいですが、「for over six years」と期間を示す前置詞「for」を加えることで、より自然な表現になります。"
+  },
+  {
+    "id": "interview_e01_005",
+    "englishText": "What is your visa situation?",
+    "japaneseTranslation": "ビザの状況はどうなっていますか？",
+    "explanation": "特になし。自然な表現です。"
+  },
+  {
+    "id": "interview_e01_006",
+    "englishText": "I'm here on Working Holiday Visa. I just moved here so almost one year left on my visa.",
+    "japaneseTranslation": "ワーキングホリデービザで来ています。引っ越してきたばかりなので、ビザはあと1年近く残っています。",
+    "explanation": "「Working Holiday Visa」は固有名詞なので、「a Working Holiday Visa」または「my Working Holiday Visa」のように冠詞や所有格を付けるのが適切です。「almost one year left on my visa」は意味は通じますが、より自然な表現は「I have almost one year left on my visa」または「There's almost one year left on my visa」です。"
+  },
+  {
+    "id": "interview_e01_007",
+    "englishText": "But I'm planning to extend my visa one more year so far.",
+    "japaneseTranslation": "しかし、今のところビザをもう1年延長する予定です。",
+    "explanation": "「one more year so far」の「so far」は「これまでのところ」という意味で、未来の計画には不自然です。この文脈では不要です。「extend my visa for one more year」のように「for」を加えるのがより自然です。"
+  },
+  {
+    "id": "interview_e01_008",
+    "englishText": "Why do you want this kind of job?",
+    "japaneseTranslation": "なぜこの種類の仕事をしたいのですか？",
+    "explanation": "特になし。自然な表現です。"
+  },
+  {
+    "id": "interview_e01_009",
+    "englishText": "First, I'm truly interested in everything about food, not only eating but also cooking. And I have working experience over six years in this industry.",
+    "japaneseTranslation": "まず、私は食べることだけでなく、料理も含め、食に関するあらゆることに心から興味があります。そして、この業界で6年以上の実務経験があります。",
+    "explanation": "「working experience」は「work experience」がより一般的です。「over six years in this industry」は、「for over six years in this industry」のように「for」を加えることで、期間を示す表現としてより自然になります。"
+  },
+  {
+    "id": "interview_e01_010",
+    "englishText": "On top of that, I really enjoy communicating with people. That includes not only with customers but also with colleagues as a team and helping each other out.",
+    "japaneseTranslation": "その上、私は人とのコミュニケーションを本当に楽しんでいます。それはお客様だけでなく、チームの一員として同僚と協力し、助け合うことも含みます。",
+    "explanation": "「That includes not only with customers but also with colleagues as a team and helping each other out.」は少し長いので、「This includes not only interacting with customers but also collaborating with colleagues as a team and helping each other.」のように、より簡潔で自然な表現にできます。"
+  },
+  {
+    "id": "interview_e01_011",
+    "englishText": "I also like the strategic side of the job. It's not just physical work. Especially, in peak time, thinking to figure out the more efficient way to handle orders and manage tasks, it's like solving a puzzle, and I find that very engaging.",
+    "japaneseTranslation": "この仕事の戦略的な側面も好きです。単なる肉体労働ではありません。特にピーク時には、注文を処理し、タスクを管理するためのより効率的な方法を考えることは、パズルを解くようなもので、非常にやりがいを感じます。",
+    "explanation": "「Especially, in peak time」は「Especially during peak times」または「Especially at peak times」がより自然です。「thinking to figure out the more efficient way」は「thinking about how to figure out a more efficient way」または「thinking about how to find a more efficient way」がより自然です。「the more efficient way」は「a more efficient way」の方が適切です。特定の「その」効率的な方法ではなく、より効率的な方法の一つを指すためです。"
+  },
+  {
+    "id": "interview_e01_012",
+    "englishText": "That's why I feel this industry is natural fit for me.",
+    "japaneseTranslation": "だからこそ、この業界は私にとって自然に合っていると感じています。",
+    "explanation": "「is natural fit」は冠詞が必要です。「is a natural fit」が正しいです。"
+  }
+]
