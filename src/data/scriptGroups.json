@@ -59,6 +59,19 @@
     "description": "人気ドラマ「フレンズ」のシーズン1、エピソード1のスクリプトです。"
   },
   {
+    "id": "SV_s01e01",
+    "title": "Silicon Valley - S01E01: Minimum Viable Product",
+    "category": "American TV Series",
+    "subCategory": "Silicon Valley",
+    "details": {
+      "series": "Silicon Valley",
+      "season": 1,
+      "episode": 1,
+      "episodeTitle": "Minimum Viable Product"
+    },
+    "description": "Silicon Valley - S01E01: Minimum Viable Product"
+  },
+  {
     "id": "business_english",
     "title": "Business English Essentials",
     "category": "Business",
@@ -89,7 +102,7 @@
   {
     "id": "ielts_s3",
     "title": "IELTS Speaking Test 3 Band 6.5+",
-    "category": "Youtube",
+    "category": "YouTube",
     "subCategory": "Educational",
     "description": ""
   },
