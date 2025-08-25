@@ -888,351 +888,796 @@
     "explanation": "・all right: いいか、わかったか。\n・Campbell's soup: キャンベルスープ。有名なスープメーカー。"
   },
   {
-    "id": "SV_s01e01_0149",
+    "id": "SV_s01e01_149",
     "englishText": "It's the hooli number again. It's probably those brogrammers.",
     "japaneseTranslation": "またフーリの番号だ。きっとあのブログラマーたちだろう。",
     "explanation": "・brogrammers: bro（兄弟、仲間）とprogrammer（プログラマー）を組み合わせたスラング。男性中心で、しばしばマッチョな文化を持つプログラマーを指す。"
   },
   {
-    "id": "SV_s01e01_0150",
+    "id": "SV_s01e01_150",
     "englishText": "Can't wait to tell me how stupid my website is.",
     "japaneseTranslation": "俺のウェブサイトがいかに馬鹿げているか、早く言いたくてたまらないんだろうな。",
     "explanation": "・Can't wait to: ～するのが待ちきれない、～したくてたまらない。"
   },
   {
-    "id": "SV_s01e01_0151",
+    "id": "SV_s01e01_151",
     "englishText": "Hello, Richard Hendricks. I'm a total fucking retard.",
     "japaneseTranslation": "こんにちは、リチャード・ヘンドリックス。私は完全にクソなバカです。",
     "explanation": "・total fucking retard: 「完全にクソなバカ」という非常に強い侮辱的なスラング。retardは差別用語であり、使用は避けるべき表現。"
   },
   {
-    "id": "SV_s01e01_0152",
+    "id": "SV_s01e01_152",
     "englishText": "Hi, this is Jared Dunn calling from hooli. I'm calling on behalf of Gavin belson.",
     "japaneseTranslation": "こんにちは、フーリのジャレッド・ダンです。ギャビン・ベルソンに代わってお電話しています。",
     "explanation": "・calling on behalf of: ～に代わって電話している。"
   },
   {
-    "id": "SV_s01e01_0153",
+    "id": "SV_s01e01_153",
     "englishText": "Gavin is very excited about your pied piper application and we were wondering if you could come in for a sit-down with us.",
     "japaneseTranslation": "ギャビンはあなたのパイドパイパーのアプリケーションに大変興奮しており、私たちと面談に来ていただけないかと思っております。",
     "explanation": "・excited about: ～に興奮している。\n・come in for a sit-down with us: 私たちと面談に来る。"
   },
   {
-    "id": "SV_s01e01_0154",
+    "id": "SV_s01e01_154",
     "englishText": "I have a meeting with Gavin belson. He likes pied piper.",
     "japaneseTranslation": "ギャビン・ベルソンと会議がある。彼はパイドパイパーを気に入っている。",
     "explanation": ""
   },
   {
-    "id": "SV_s01e01_0155",
+    "id": "SV_s01e01_155",
     "englishText": "I own 10% of pied piper.",
     "japaneseTranslation": "俺はパイドパイパーの10%を所有している。",
     "explanation": ""
   },
   {
-    "id": "SV_s01e01_0156",
+    "id": "SV_s01e01_156",
     "englishText": "You said it was a shitty idea.",
     "japaneseTranslation": "お前はそれがクソなアイデアだと言ったじゃないか。",
     "explanation": "・shitty idea: クソなアイデア、ひどいアイデア。shittyはスラング。"
   },
   {
-    "id": "SV_s01e01_0157",
+    "id": "SV_s01e01_157",
     "englishText": "It was a shitty idea. I'm not sure what it is now. What time's the meeting? I'm gonna need a better shirt.",
     "japaneseTranslation": "それはクソなアイデアだった。今それが何なのかはわからない。会議は何時だ？もっと良いシャツが必要だな。",
     "explanation": "・gonna: going to の短縮形。"
   },
   {
-    "id": "SV_s01e01_0158",
+    "id": "SV_s01e01_158",
     "englishText": "What the fuck am I waiting for?",
     "japaneseTranslation": "一体何を待っているんだ？",
     "explanation": "・What the fuck: 「一体全体何だ」という強い苛立ちや不満を表すスラング。"
   },
   {
-    "id": "SV_s01e01_0159",
+    "id": "SV_s01e01_159",
     "englishText": "Well, it's like Gavin always says, it takes change to make change.",
     "japaneseTranslation": "まあ、ギャビンがいつも言うように、変化を起こすには変化が必要だ。",
     "explanation": "・it takes change to make change: 変化を起こすには変化が必要だ。何かを変えるためには、自分自身も変わる必要がある、という意味。"
   },
   {
-    "id": "SV_s01e01_0160",
+    "id": "SV_s01e01_160",
     "englishText": "Yeah, I think I've seen that written around.",
     "japaneseTranslation": "ああ、どこかでそれを見たことがある気がする。",
     "explanation": "・written around: あちこちに書かれている。"
   },
   {
-    "id": "SV_s01e01_0161",
+    "id": "SV_s01e01_161",
     "englishText": "Gavin is running 30 minutes late but you should know, he is very excited to see you, Richard.",
     "japaneseTranslation": "ギャビンは30分遅れていますが、リチャード、彼はあなたに会えることをとても楽しみにしていることを知っておいてください。",
     "explanation": "・running late: 遅れている。"
   },
   {
-    "id": "SV_s01e01_0162",
+    "id": "SV_s01e01_162",
     "englishText": "He's with his spiritual advisor. He shouldn't be that much longer.",
     "japaneseTranslation": "彼は精神的なアドバイザーと一緒です。もうそれほど長くはかからないでしょう。",
     "explanation": "・spiritual advisor: 精神的なアドバイザー、助言者。\n・shouldn't be that much longer: もうそれほど長くはかからないだろう。"
   },
   {
-    "id": "SV_s01e01_0163",
+    "id": "SV_s01e01_163",
     "englishText": "I'm a vp here and I only get to see him about 10 minutes a month.",
     "japaneseTranslation": "私はここの副社長ですが、彼に会えるのは月に約10分だけです。",
     "explanation": "・vp: Vice President（副社長）の略。"
   },
   {
-    "id": "SV_s01e01_0164",
+    "id": "SV_s01e01_164",
     "englishText": "Yeah, but that 10 minutes is just incredible.",
     "japaneseTranslation": "ああ、でもその10分間は本当に素晴らしいんだ。",
     "explanation": ""
   },
   {
-    "id": "SV_s01e01_0165",
+    "id": "SV_s01e01_165",
     "englishText": "I heard Richard Hendricks was here. Have you ever met Gavin before?",
     "japaneseTranslation": "リチャード・ヘンドリックスがここにいると聞いたよ。ギャビンに会ったことはあるか？",
     "explanation": ""
   },
   {
-    "id": "SV_s01e01_0166",
+    "id": "SV_s01e01_166",
     "englishText": "That hardly begins to describe it.",
     "japaneseTranslation": "それではとても言い表せない。",
     "explanation": "・hardly begins to describe it: それではとても言い表せない、表現しきれない。"
   },
   {
-    "id": "SV_s01e01_0167",
+    "id": "SV_s01e01_167",
     "englishText": "That's weird. They always travel in groups of five.",
     "japaneseTranslation": "変だな。彼らはいつも5人組で移動するんだ。",
     "explanation": "・in groups of five: 5人組で。"
   },
   {
-    "id": "SV_s01e01_0168",
+    "id": "SV_s01e01_168",
     "englishText": "These programmers, there's always a tall skinny white guy, short skinny Asian guy,",
     "japaneseTranslation": "このプログラマーたち、いつも背が高くて痩せた白人男性、背が低くて痩せたアジア人男性、",
     "explanation": ""
   },
   {
-    "id": "SV_s01e01_0169",
+    "id": "SV_s01e01_169",
     "englishText": "fat guy with a ponytail, some guy with crazy facial hair and then an east Indian guy.",
     "japaneseTranslation": "ポニーテールの太った男、奇妙な顔の毛の男、そして東インド系の男がいる。",
     "explanation": "・ponytail: ポニーテール。\n・crazy facial hair: 奇妙な顔の毛、ひげ。"
   },
   {
-    "id": "SV_s01e01_0170",
+    "id": "SV_s01e01_170",
     "englishText": "It's like they trade guys until they all have the right group.",
     "japaneseTranslation": "まるで、全員が適切なグループになるまでメンバーを交換しているみたいだ。",
     "explanation": "・trade guys: メンバーを交換する。\n・the right group: 適切なグループ。"
   },
   {
-    "id": "SV_s01e01_0171",
+    "id": "SV_s01e01_171",
     "englishText": "You clearly have a great understanding of humanity.",
     "japaneseTranslation": "あなたは明らかに人間性について素晴らしい理解を持っている。",
     "explanation": ""
   },
   {
-    "id": "SV_s01e01_0172",
+    "id": "SV_s01e01_172",
     "englishText": "And Gavin said, I'm not humiliating you, I'm elevating you.",
     "japaneseTranslation": "そしてギャビンは言った、「私はあなたを屈辱しているのではなく、高めているのだ」と。",
     "explanation": "・humiliating: 屈辱を与える。\n・elevating: 高める、昇進させる。"
   },
   {
-    "id": "SV_s01e01_0173",
+    "id": "SV_s01e01_173",
     "englishText": "Why are you going that fast?",
     "japaneseTranslation": "なんでそんなに速く行くんだ？",
     "explanation": ""
   },
   {
-    "id": "SV_s01e01_0174",
+    "id": "SV_s01e01_174",
     "englishText": "Cause we've got a meeting with Gavin belson. Pick up the pace.",
     "japaneseTranslation": "ギャビン・ベルソンとの会議があるからだ。ペースを上げろ。",
     "explanation": "・Cause: Because の短縮形。\n・Pick up the pace: ペースを上げる、急ぐ。"
   },
   {
-    "id": "SV_s01e01_0175",
+    "id": "SV_s01e01_175",
     "englishText": "We honestly don't.",
     "japaneseTranslation": "正直、そうじゃない。",
     "explanation": ""
   },
   {
-    "id": "SV_s01e01_0176",
+    "id": "SV_s01e01_176",
     "englishText": "I'm actually outside of Gavin belson's office right now, Mr Gregory.",
     "japaneseTranslation": "グレゴリーさん、実は今、ギャビン・ベルソンのオフィスの外にいます。",
     "explanation": ""
   },
   {
-    "id": "SV_s01e01_0177",
+    "id": "SV_s01e01_177",
     "englishText": "here he comes, so can I call you back in a second?",
     "japaneseTranslation": "彼が来ます、すぐにかけ直してもいいですか？",
     "explanation": "・call you back in a second: すぐにかけ直す。"
   },
   {
-    "id": "SV_s01e01_0178",
+    "id": "SV_s01e01_178",
     "englishText": "So sorry these gentleman have kept you waiting. Here's the thing. I love what you did.",
     "japaneseTranslation": "この紳士たちがお待たせして申し訳ありません。実はね。君がやったことが気に入ったよ。",
     "explanation": "・kept you waiting: あなたを待たせた。\n・Here's the thing: 実はね、重要なのはね、という意味。"
   },
   {
-    "id": "SV_s01e01_0179",
+    "id": "SV_s01e01_179",
     "englishText": "Fill him in, Jared.",
     "japaneseTranslation": "彼に説明してやれ、ジャレッド。",
     "explanation": "・Fill him in: 彼に詳細を教える、説明する。"
   },
   {
-    "id": "SV_s01e01_0180",
+    "id": "SV_s01e01_180",
     "englishText": "Now, as you know, hooli is seen as possibly the most progressive company in the world.",
     "japaneseTranslation": "さて、ご存知の通り、フーリは世界で最も進歩的な企業と見なされています。",
     "explanation": "・progressive company: 進歩的な企業。"
   },
   {
-    "id": "SV_s01e01_0181",
+    "id": "SV_s01e01_181",
     "englishText": "Part of that is Gavin's commitment to social justice, but part of it is his personal commitment to the people that work at hooli.",
     "japaneseTranslation": "その一部はギャビンの社会正義へのコミットメントですが、一部はフーリで働く人々への彼の個人的なコミットメントです。",
     "explanation": "・commitment to social justice: 社会正義へのコミットメント、献身。\n・personal commitment: 個人的なコミットメント。"
   },
   {
-    "id": "SV_s01e01_0182",
+    "id": "SV_s01e01_182",
     "englishText": "In that spirit Gavin is prepared to give you a very substantial raise, and a promotion to go with it.",
     "japaneseTranslation": "その精神に基づき、ギャビンはあなたに非常に大幅な昇給と、それに伴う昇進を与える準備ができています。",
     "explanation": "・In that spirit: その精神に基づき。\n・substantial raise: 大幅な昇給。\n・promotion to go with it: それに伴う昇進。"
   },
   {
-    "id": "SV_s01e01_0183",
+    "id": "SV_s01e01_183",
     "englishText": "He created it while living in my Incubator. Erlich bachman. I own 10%.",
     "japaneseTranslation": "彼は私のインキュベーターに住んでいる間にそれを作ったんだ。アーリック・バックマン。俺が10%を所有している。",
     "explanation": ""
   },
   {
-    "id": "SV_s01e01_0184",
+    "id": "SV_s01e01_184",
     "englishText": "I don't know what any of that means, but I'll give you 600 thousand dollars for it.",
     "japaneseTranslation": "それが何を意味するのかはわからないが、それに対して60万ドルを払おう。",
     "explanation": ""
   },
   {
-    "id": "SV_s01e01_0185",
+    "id": "SV_s01e01_185",
     "englishText": "We have the reach and the resources to take what you have done and push it to the global level.",
     "japaneseTranslation": "私たちには、あなたが成し遂げたことを世界レベルに押し上げるための影響力とリソースがあります。",
     "explanation": "・reach and the resources: 影響力とリソース。\n・push it to the global level: それを世界レベルに押し上げる。"
   },
   {
-    "id": "SV_s01e01_0186",
+    "id": "SV_s01e01_186",
     "englishText": "That's a generous offer.",
     "japaneseTranslation": "それは寛大な申し出だ。",
     "explanation": "・generous offer: 寛大な申し出。"
   },
   {
-    "id": "SV_s01e01_0187",
+    "id": "SV_s01e01_187",
     "englishText": "It's peter gregory. not sure how he got my number.",
     "japaneseTranslation": "ピーター・グレゴリーだ。どうやって俺の番号を知ったのかわからない。",
     "explanation": ""
   },
   {
-    "id": "SV_s01e01_0188",
+    "id": "SV_s01e01_188",
     "englishText": "I'll give you $3 million for it right now!",
     "japaneseTranslation": "今すぐそれに300万ドルを払おう！",
     "explanation": ""
   },
   {
-    "id": "SV_s01e01_0189",
+    "id": "SV_s01e01_189",
     "englishText": "Gavin belson just offered me $3 million for pied piper.",
     "japaneseTranslation": "ギャビン・ベルソンがパイドパイパーに300万ドルを提示してきた。",
     "explanation": ""
   },
   {
-    "id": "SV_s01e01_0190",
+    "id": "SV_s01e01_190",
     "englishText": "I'm prepared to give you $300,000 for 10% of your company.",
     "japaneseTranslation": "あなたの会社の10%に対して30万ドルを支払う準備がある。",
     "explanation": "・prepared to give: 支払う準備ができている。"
   },
   {
-    "id": "SV_s01e01_0191",
+    "id": "SV_s01e01_191",
     "englishText": "$200,000 for 5% of your company.",
     "japaneseTranslation": "あなたの会社の5%に対して20万ドルだ。",
     "explanation": ""
   },
   {
-    "id": "SV_s01e01_0192",
+    "id": "SV_s01e01_192",
     "englishText": "You just went down.",
     "japaneseTranslation": "君は今、価値が下がったぞ。",
     "explanation": "・went down: 価値が下がった、評価が落ちた。"
   },
   {
-    "id": "SV_s01e01_0193",
+    "id": "SV_s01e01_193",
     "englishText": "No, you're still valued at four million dollars.",
     "japaneseTranslation": "いや、君はまだ400万ドルの価値がある。",
     "explanation": "・valued at: ～の価値がある。"
   },
   {
-    "id": "SV_s01e01_0194",
+    "id": "SV_s01e01_194",
     "englishText": "But you own 95% of a potential billion-dollar company.",
     "japaneseTranslation": "しかし、君は潜在的に10億ドル規模の会社の95%を所有しているんだ。",
     "explanation": "・potential billion-dollar company: 潜在的に10億ドル規模の会社。"
   },
   {
-    "id": "SV_s01e01_0195",
+    "id": "SV_s01e01_195",
     "englishText": "And not just that, I will help you build this company.",
     "japaneseTranslation": "それだけでなく、私は君がこの会社を築くのを手伝おう。",
     "explanation": ""
   },
   {
-    "id": "SV_s01e01_0196",
+    "id": "SV_s01e01_196",
     "englishText": "I will introduce you to the people you need to know and provide the counsel that you need.",
     "japaneseTranslation": "君が知るべき人々に紹介し、必要な助言を提供しよう。",
     "explanation": "・people you need to know: 君が知るべき人々、重要な人脈。\n・provide the counsel: 助言を提供する。"
   },
   {
-    "id": "SV_s01e01_0197",
+    "id": "SV_s01e01_197",
     "englishText": "I will take a small piece, but the company will belong to you.",
     "japaneseTranslation": "私はわずかな分け前をもらうが、会社は君のものになる。",
     "explanation": "・take a small piece: わずかな分け前をもらう。\n・belong to: ～に属する、～のものである。"
   },
   {
-    "id": "SV_s01e01_0198",
+    "id": "SV_s01e01_198",
     "englishText": "You have until tomorrow to decide.",
     "japaneseTranslation": "明日までに決める時間がある。",
     "explanation": ""
   },
   {
-    "id": "SV_s01e01_0199",
+    "id": "SV_s01e01_199",
     "englishText": "Pull your head out of your ass, Richard.",
     "japaneseTranslation": "いい加減にしろ、リチャード。",
     "explanation": "・Pull your head out of your ass: 「いい加減にしろ」「現実を見ろ」という強い苛立ちや命令を表すスラング。非常に下品な表現。"
   },
   {
-    "id": "SV_s01e01_0200",
+    "id": "SV_s01e01_200",
     "englishText": "I've got to go to the bathroom. I've got to pee. It's desperate. I'm bursting.",
     "japaneseTranslation": "トイレに行かなきゃ。おしっこしたい。もう限界だ。破裂しそうだ。",
     "explanation": "・got to: have to の短縮形。\n・desperate: 絶望的な、ここでは「切羽詰まっている」という意味。\n・bursting: 破裂しそうな、ここでは「おしっこが限界」という意味。"
   },
   {
-    "id": "SV_s01e01_0201",
+    "id": "SV_s01e01_201",
     "englishText": "I didn't mean to snap at you. I'll talk in a bit.",
     "japaneseTranslation": "君に当たり散らすつもりはなかったんだ。後で話すよ。",
     "explanation": "・snap at you: 君に当たり散らす、きつく当たる。\n・in a bit: 後で、少ししてから。"
   },
   {
-    "id": "SV_s01e01_0202",
+    "id": "SV_s01e01_202",
     "englishText": "Little more about me. I am the founder of aviato, and I own a very small percentage of grindr.",
     "japaneseTranslation": "もう少し私のことについて。私はアビアトの創設者で、Grindrの非常に小さな割合を所有している。",
     "explanation": "・Grindr: Grindr。ゲイ男性向けの出会い系アプリ。"
   },
   {
-    "id": "SV_s01e01_0203",
+    "id": "SV_s01e01_203",
     "englishText": "It's a men to men dating site where you can find other men within 10 miles of you",
     "japaneseTranslation": "それは、あなたの10マイル以内にいる他の男性を見つけられる男性向け出会い系サイトだ。",
     "explanation": "・men to men dating site: 男性向け出会い系サイト。\n・within 10 miles of you: あなたから10マイル以内に。"
   },
   {
-    "id": "SV_s01e01_0204",
+    "id": "SV_s01e01_204",
     "englishText": "interested in having sexual intercourse in a public restroom.",
     "japaneseTranslation": "公衆トイレで性行為をすることに興味がある。",
     "explanation": "・sexual intercourse: 性行為。\n・public restroom: 公衆トイレ。"
   },
   {
-    "id": "SV_s01e01_0205",
+    "id": "SV_s01e01_205",
     "englishText": "In the homosexual community there's sometimes anonymous...",
     "japaneseTranslation": "同性愛者のコミュニティでは、時々匿名で…",
     "explanation": "・homosexual community: 同性愛者のコミュニティ。\n・anonymous: 匿名の。"
   },
   {
-    "id": "SV_s01e01_0206",
+    "id": "SV_s01e01_206",
     "englishText": "I know what grindr is. I have gay friends.",
     "japaneseTranslation": "Grindrが何かわかってるよ。ゲイの友達がいるから。",
     "explanation": ""
+  },
+  {
+    "id": "SV_s01e01_207",
+    "englishText": "So you will survive.",
+    "japaneseTranslation": "だから君は生き残るだろう。",
+    "explanation": ""
+  },
+  {
+    "id": "SV_s01e01_208",
+    "englishText": "It's just a garden variety panic attack. Welcome to silicon valley.",
+    "japaneseTranslation": "ただのありふれたパニック発作だよ。シリコンバレーへようこそ。",
+    "explanation": "・garden variety: ありふれた、ごく普通の。\n・panic attack: パニック発作。"
+  },
+  {
+    "id": "SV_s01e01_209",
+    "englishText": "We see people like you all the time.",
+    "japaneseTranslation": "君みたいな人はいつも見かけるよ。",
+    "explanation": "・all the time: いつも、常に。"
+  },
+  {
+    "id": "SV_s01e01_210",
+    "englishText": "Really. It's just I have to make this decision by tomorrow.",
+    "japaneseTranslation": "本当に。ただ、明日までにこの決断をしなければならないんだ。",
+    "explanation": ""
+  },
+  {
+    "id": "SV_s01e01_211",
+    "englishText": "You know, a while back, we had a guy in here in almost the exact same situation, take the money or keep the company.",
+    "japaneseTranslation": "ほら、少し前に、ほとんど全く同じ状況の男がここにいたんだ。金を取るか、会社を維持するか。",
+    "explanation": "・a while back: 少し前に。\n・exact same situation: 全く同じ状況。\n・take the money or keep the company: 金を取るか、会社を維持するか。"
+  },
+  {
+    "id": "SV_s01e01_212",
+    "englishText": "a couple months later, he was brought into the er with a self-inflicted gunshot wound.",
+    "japaneseTranslation": "数ヶ月後、彼は自傷による銃創でERに運ばれた。",
+    "explanation": "・a couple months later: 数ヶ月後。\n・brought into the er: 救急治療室（ER）に運ばれた。\n・self-inflicted gunshot wound: 自傷による銃創。"
+  },
+  {
+    "id": "SV_s01e01_213",
+    "englishText": "I guess he really regretted not taking that money.",
+    "japaneseTranslation": "彼はあの金を受け取らなかったことを本当に後悔したんだろうな。",
+    "explanation": "・regretted not taking: 受け取らなかったことを後悔した。"
+  },
+  {
+    "id": "SV_s01e01_214",
+    "englishText": "He shot himself because he turned down the money?",
+    "japaneseTranslation": "金を受け取らなかったから、彼は自分を撃ったのか？",
+    "explanation": "・turned down the money: 金を断った。"
+  },
+  {
+    "id": "SV_s01e01_215",
+    "englishText": "No, I don't remember. But whatever it was, he regretted it so much that he ended up shooting himself.",
+    "japaneseTranslation": "いや、覚えてない。でも何だったにせよ、彼はそれをひどく後悔して、結局自分を撃ったんだ。",
+    "explanation": "・whatever it was: 何だったにせよ。\n・regretted it so much that: それをひどく後悔した結果。\n・ended up shooting himself: 結局自分を撃った。"
+  },
+  {
+    "id": "SV_s01e01_216",
+    "englishText": "He's blind now. Just fyi, if you're ever gonna shoot yourself, don't hold the gun up to your temple, okay?"
+    ,
+    "japaneseTranslation": "彼は今、盲目だ。ちなみに、もし自分を撃つつもりなら、こめかみに銃を当てない方がいいぞ、いいか？",
+    "explanation": "・fyi: for your information の略で「ちなみに」「ご参考までに」という意味。\n・gonna: going to の短縮形。\n・hold the gun up to your temple: こめかみに銃を当てる。"
+  },
+  {
+    "id": "SV_s01e01_217",
+    "englishText": "Because that just basically took out both of his optic nerves and then, you know, half of his face.",
+    "japaneseTranslation": "なぜなら、それは基本的に彼の視神経の両方を破壊し、そして、ほら、顔の半分もだ。",
+    "explanation": "・took out: 破壊した、取り除いた。\n・optic nerves: 視神経。"
+  },
+  {
+    "id": "SV_s01e01_218",
+    "englishText": "He may have been a genius programmer but no so much in human anatomy.",
+    "japaneseTranslation": "彼は天才プログラマーだったかもしれないが、人体解剖学に関してはそうでもなかった。",
+    "explanation": "・human anatomy: 人体解剖学。"
+  },
+  {
+    "id": "SV_s01e01_219",
+    "englishText": "Or decision making, for that matter.",
+    "japaneseTranslation": "あるいは、その点では意思決定もな。",
+    "explanation": "・for that matter: その点では、それどころか。"
+  },
+  {
+    "id": "SV_s01e01_220",
+    "englishText": "Now he's got to live with all that and whatever terrible decision he made about the money.",
+    "japaneseTranslation": "今、彼はその全てと、金に関して下したひどい決断と共に生きていかなければならない。",
+    "explanation": "・got to: have to の短縮形。\n・live with: ～と共に生きる、～を受け入れる。"
+  },
+  {
+    "id": "SV_s01e01_221",
+    "englishText": "Uh, and what do I do if I feel another panic attack coming on?",
+    "japaneseTranslation": "ええと、またパニック発作が起こりそうになったらどうすればいいですか？",
+    "explanation": "・coming on: 起こり始める、兆候がある。"
+  },
+  {
+    "id": "SV_s01e01_222",
+    "englishText": "Mmm, would you be interested in a device that links up to your smartphone and it keeps track of your vitals and it tells you, even before it's happening,",
+    "japaneseTranslation": "うーん、スマートフォンと連携して、あなたのバイタルを追跡し、それが起こる前でさえ教えてくれるデバイスに興味はありませんか？",
+    "explanation": "・links up to: ～と連携する、接続する。\n・keeps track of your vitals: あなたのバイタル（生命兆候）を追跡する。"
+  },
+  {
+    "id": "SV_s01e01_223",
+    "englishText": "whether you're having a panic attack or an actual heart attack?",
+    "japaneseTranslation": "あなたがパニック発作を起こしているのか、それとも実際の心臓発作を起こしているのかを？",
+    "explanation": "・actual heart attack: 実際の心臓発作。"
+  },
+  {
+    "id": "SV_s01e01_224",
+    "englishText": "It's still in prototype phase right now, but my start-up partners and I are looking for investors.",
+    "japaneseTranslation": "今はまだプロトタイプ段階ですが、私のスタートアップパートナーと私は投資家を探しています。",
+    "explanation": "・prototype phase: プロトタイプ段階。\n・looking for investors: 投資家を探している。"
+  },
+  {
+    "id": "SV_s01e01_225",
+    "englishText": "Like today. So will you please let me know... I'm going to give you my number.",
+    "japaneseTranslation": "今日のように。だから教えてください…私の番号を教えます。",
+    "explanation": ""
+  },
+  {
+    "id": "SV_s01e01_226",
+    "englishText": "If you do end up taking that 10 million dollars because we could really make the world a better place.",
+    "japaneseTranslation": "もしあなたがその1000万ドルを受け取ることになったら、私たちなら本当に世界をより良い場所にできるからです。",
+    "explanation": "・end up taking: 結局受け取ることになる。"
+  },
+  {
+    "id": "SV_s01e01_227",
+    "englishText": "Richard. Hi, Monica. I work with Peter Gregory. We met outside the Ted...",
+    "japaneseTranslation": "リチャード。こんにちは、モニカです。ピーター・グレゴリーと一緒に働いています。TEDの外で会いましたよね…",
+    "explanation": ""
+  },
+  {
+    "id": "SV_s01e01_228",
+    "englishText": "Yeah, I remember you. How'd you know I was here?",
+    "japaneseTranslation": "ああ、覚えているよ。どうして俺がここにいるって分かったんだ？",
+    "explanation": "・How'd you know: どうして知っていたんだ？（How did you know の短縮形）"
+  },
+  {
+    "id": "SV_s01e01_229",
+    "englishText": "Peter Gregory is invested in a company that uses GPS in phones to track people.",
+    "japaneseTranslation": "ピーター・グレゴリーは、携帯電話のGPSを使って人々を追跡する会社に投資しているんだ。",
+    "explanation": "・invested in a company: 会社に投資している。\n・track people: 人々を追跡する。"
+  },
+  {
+    "id": "SV_s01e01_230",
+    "englishText": "That's creepy.",
+    "japaneseTranslation": "それは気味が悪いな。",
+    "explanation": "・creepy: 気味が悪い、ぞっとする。"
+  },
+  {
+    "id": "SV_s01e01_231",
+    "englishText": "You don't know the half of it. And neither does congress. Are you okay?",
+    "japaneseTranslation": "あなたは事の半分も知らない。議会も知らない。大丈夫ですか？",
+    "explanation": "・don't know the half of it: 事の半分も知らない、事態の深刻さを理解していない。\n・neither does congress: 議会もまた知らない。"
+  },
+  {
+    "id": "SV_s01e01_232",
+    "englishText": "Look, I don't want to waste your time. I think I gotta take the money from Gavin belson.",
+    "japaneseTranslation": "あの、時間を無駄にしたくないんです。ギャビン・ベルソンから金を受け取るべきだと思います。",
+    "explanation": "・gotta: got to の短縮形。"
+  },
+  {
+    "id": "SV_s01e01_233",
+    "englishText": "At least this way when I blow my eyeballs out I'll have some money left for my family.",
+    "japaneseTranslation": "少なくともこうすれば、目を吹き飛ばしても家族のためにいくらか金が残るだろう。",
+    "explanation": "・blow my eyeballs out: 目を吹き飛ばす。非常に強い絶望や自虐的な表現。"
+  },
+  {
+    "id": "SV_s01e01_234",
+    "englishText": "Sorry. That's a terrible doctor in there.",
+    "japaneseTranslation": "すみません。中にいるのはひどい医者ですね。",
+    "explanation": ""
+  },
+  {
+    "id": "SV_s01e01_235",
+    "englishText": "Richard, buried in that clunky ui of yours is a compression algorithm that blew our engineering team away.",
+    "japaneseTranslation": "リチャード、君のあの不格好なUIの中に、我々のエンジニアリングチームを驚かせた圧縮アルゴリズムが埋もれているんだ。",
+    "explanation": "・clunky ui: 不格好なUI、使いにくいUI。\n・blew our engineering team away: 我々のエンジニアリングチームを驚かせた、感銘を与えた。"
+  },
+  {
+    "id": "SV_s01e01_236",
+    "englishText": "And what do you think hooli is going to do with it?",
+    "japaneseTranslation": "フーリはそれをどうするつもりだと思いますか？",
+    "explanation": ""
+  },
+  {
+    "id": "SV_s01e01_237",
+    "englishText": "I don't know. That's their business.",
+    "japaneseTranslation": "さあ。それは彼らの仕事だ。",
+    "explanation": ""
+  },
+  {
+    "id": "SV_s01e01_238",
+    "englishText": "Do you even realize the impact that a compression this good could have on the world?",
+    "japaneseTranslation": "これほど優れた圧縮が世界に与えうる影響を、あなたは本当に理解していますか？",
+    "explanation": "・impact that... could have on the world: ～が世界に与えうる影響。"
+  },
+  {
+    "id": "SV_s01e01_239",
+    "englishText": "Getting any file on your mobile phone in an instant.",
+    "japaneseTranslation": "どんなファイルでも瞬時に携帯電話で手に入れることができる。",
+    "explanation": "・in an instant: 瞬時に、すぐに。"
+  },
+  {
+    "id": "SV_s01e01_240",
+    "englishText": "Navigation data for self-driving cars, mobile medical imagery, all trasmitting with no quality loss.",
+    "japaneseTranslation": "自動運転車のナビゲーションデータ、モバイル医療画像、すべて品質を損なうことなく送信される。",
+    "explanation": "・Navigation data: ナビゲーションデータ。\n・self-driving cars: 自動運転車。\n・mobile medical imagery: モバイル医療画像。\n・transmitting with no quality loss: 品質を損なうことなく送信される。"
+  },
+  {
+    "id": "SV_s01e01_241",
+    "englishText": "And don't you wanna be in the drive's seat when that happens?",
+    "japaneseTranslation": "そして、それが起こる時に、あなたが主導権を握りたくないですか？",
+    "explanation": "・wanna: want to の短縮形。\n・in the drive's seat: 主導権を握る、責任者である。"
+  },
+  {
+    "id": "SV_s01e01_242",
+    "englishText": "You really want to just turn it all over to hooli and walk away?",
+    "japaneseTranslation": "本当にそれを全てフーリに引き渡して、立ち去りたいのですか？",
+    "explanation": "・turn it all over to: 全てを～に引き渡す。\n・walk away: 立ち去る、手を引く。"
+  },
+  {
+    "id": "SV_s01e01_243",
+    "englishText": "Well, you are not making this easier for me. I mean, you're actually making it worse.",
+    "japaneseTranslation": "まあ、あなたは私にとってこれを楽にしてくれませんね。むしろ、悪化させています。",
+    "explanation": "・making it worse: 事態を悪化させている。"
+  },
+  {
+    "id": "SV_s01e01_244",
+    "englishText": "My hands are tingling. I have this metal taste in my mouth.",
+    "japaneseTranslation": "手がピリピリする。口の中に金属の味がする。",
+    "explanation": "・tingling: ピリピリする、しびれる。\n・metal taste in my mouth: 口の中に金属の味がする。ストレスやパニック発作の症状として現れることがある。"
+  },
+  {
+    "id": "SV_s01e01_245",
+    "englishText": "Actually, I can't go back in there, so I'm going to go home.",
+    "japaneseTranslation": "実は、もうそこには戻れないので、家に帰ります。",
+    "explanation": ""
+  },
+  {
+    "id": "SV_s01e01_246",
+    "englishText": "Let me give you a ride home.",
+    "japaneseTranslation": "家まで送ってあげよう。",
+    "explanation": "・give you a ride home: 家まで送る。"
+  },
+  {
+    "id": "SV_s01e01_247",
+    "englishText": "Dude, where have you been? Why won't you answer your phone?",
+    "japaneseTranslation": "おい、どこにいたんだ？なんで電話に出ないんだ？",
+    "explanation": "・Dude: おい、君（親しい間柄で使うスラング）。"
+  },
+  {
+    "id": "SV_s01e01_248",
+    "englishText": "Man, this has grown way beyond angellist, man.",
+    "japaneseTranslation": "おい、これはエンジェルリストをはるかに超えて成長したぞ。",
+    "explanation": "・grown way beyond: ～をはるかに超えて成長した。\n・angellist: スタートアップ企業と投資家を結びつけるプラットフォーム。"
+  },
+  {
+    "id": "SV_s01e01_249",
+    "englishText": "Andreesen, elevation and like a bunch of other seed firms are piling onto this thing. I mean, they've been calling erlich.",
+    "japaneseTranslation": "アンドリーセン、エレベーション、その他多くのシードファームがこの件に群がっている。つまり、彼らはアーリックに電話をかけまくっているんだ。",
+    "explanation": "・seed firms: シード段階の企業に投資するベンチャーキャピタル。\n・piling onto this thing: この件に群がる、殺到する。"
+  },
+  {
+    "id": "SV_s01e01_250",
+    "englishText": "He's out of control.",
+    "japaneseTranslation": "彼は手に負えない状態だ。",
+    "explanation": "・out of control: 手に負えない、制御不能な。"
+  },
+  {
+    "id": "SV_s01e01_251",
+    "englishText": "What if we took Peter Gregory's 200k and build our own company?",
+    "japaneseTranslation": "もしピーター・グレゴリーの20万ドルを受け取って、自分たちの会社を建てたらどうなる？",
+    "explanation": "・took Peter Gregory's 200k: ピーター・グレゴリーの20万ドルを受け取る。kは千を表す。"
+  },
+  {
+    "id": "SV_s01e01_252",
+    "englishText": "You said we? Who's that in reference to exactly?",
+    "japaneseTranslation": "「私たち」と言ったか？それは正確には誰のことだ？",
+    "explanation": "・in reference to: ～に関して、～を指して。"
+  },
+  {
+    "id": "SV_s01e01_253",
+    "englishText": "Us. I mean, right now pied piper just does audio, but I'm thinking of ways to compress images, video...",
+    "japaneseTranslation": "俺たちだよ。つまり、今はパイドパイパーはオーディオしか扱っていないが、画像やビデオを圧縮する方法を考えているんだ…",
+    "explanation": ""
+  },
+  {
+    "id": "SV_s01e01_254",
+    "englishText": "I mean, maybe Peter Gregory's right. Maybe this thing could be huge.",
+    "japaneseTranslation": "つまり、ピーター・グレゴリーが正しいのかもしれない。これはとてつもなく大きくなるかもしれない。",
+    "explanation": "・could be huge: とてつもなく大きくなる可能性がある。"
+  },
+  {
+    "id": "SV_s01e01_255",
+    "englishText": "For thousands of years, guys like us have gotten the shit kicked out of us.",
+    "japaneseTranslation": "何千年もの間、俺たちみたいな奴らはひどい目に遭ってきた。",
+    "explanation": "・gotten the shit kicked out of us: ひどい目に遭う、打ちのめされる、という意味の強いスラング。shitはスラング。"
+  },
+  {
+    "id": "SV_s01e01_256",
+    "englishText": "But now, for the first time, we are living in an era where we can be in charge and build empires.",
+    "japaneseTranslation": "しかし今、初めて、俺たちが主導権を握り、帝国を築ける時代に生きているんだ。",
+    "explanation": "・in charge: 責任者である、主導権を握る。\n・build empires: 帝国を築く。"
+  },
+  {
+    "id": "SV_s01e01_257",
+    "englishText": "We could be the vikings of our day.",
+    "japaneseTranslation": "俺たちは現代のヴァイキングになれるんだ。",
+    "explanation": "・vikings of our day: 現代のヴァイキング。ここでは、新しいフロンティアを開拓する勇敢な人々、という意味。"
+  },
+  {
+    "id": "SV_s01e01_258",
+    "englishText": "Vikings? How are you feeling? You look super fucked up, to be honest.",
+    "japaneseTranslation": "ヴァイキング？気分はどうだ？正直言って、ひどく参っているように見えるぞ。",
+    "explanation": "・super fucked up: ひどく参っている、めちゃくちゃになっている、という意味の強いスラング。fucked upは非常に下品な表現。"
+  },
+  {
+    "id": "SV_s01e01_259",
+    "englishText": "Who ate my fucking quinoa again?",
+    "japaneseTranslation": "また誰が俺のクソキヌアを食べたんだ？",
+    "explanation": "・fucking: 感情を強調するスラング。ここでは「一体誰が」といった意味合い。"
+  },
+  {
+    "id": "SV_s01e01_260",
+    "englishText": "So you're really about to go tell erlich that he's not going to get his $1 million?",
+    "japaneseTranslation": "それで、本当にアーリックに100万ドルが手に入らないと伝えに行くのか？",
+    "explanation": "・about to go tell: ～しに行くところだ。"
+  },
+  {
+    "id": "SV_s01e01_261",
+    "englishText": "Yeah, I don't wanna be there when you do that.",
+    "japaneseTranslation": "ああ、君がそれをする時、俺はそこにいたくないな。",
+    "explanation": "・wanna: want to の短縮形。"
+  },
+  {
+    "id": "SV_s01e01_262",
+    "englishText": "I would like to be there when you do that.",
+    "japaneseTranslation": "君がそれをする時、俺はそこにいたいね。",
+    "explanation": ""
+  },
+  {
+    "id": "SV_s01e01_263",
+    "englishText": "So, I've been thinking about this whole Peter Gregory, Gavin belson thing.",
+    "japaneseTranslation": "それで、このピーター・グレゴリーとギャビン・ベルソンの件についてずっと考えていたんだ。",
+    "explanation": "・this whole thing: この一連の出来事、この件全体。"
+  },
+  {
+    "id": "SV_s01e01_264",
+    "englishText": "And, I think I'm going to go with Peter Gregory.",
+    "japaneseTranslation": "そして、ピーター・グレゴリーと組むことにするよ。",
+    "explanation": "・go with: ～と組む、～を選ぶ。"
+  },
+  {
+    "id": "SV_s01e01_265",
+    "englishText": "I know that you look at me, and see a guy who has it all figured out. And for the most part, you're right, I do.",
+    "japaneseTranslation": "君が俺を見て、全てを理解している男だと思うのは分かっている。そしてほとんどの場合、君の言う通りだ、俺はそうなんだ。",
+    "explanation": "・has it all figured out: 全てを理解している、解決策を見つけている。\n・for the most part: ほとんどの場合、大抵は。"
+  },
+  {
+    "id": "SV_s01e01_266",
+    "englishText": "When I sold aviato, it gave me a house, money, fancy clothes, the universal respect of all the ladies.",
+    "japaneseTranslation": "アビアトを売った時、家、金、派手な服、そして全ての女性からの普遍的な尊敬を手に入れた。",
+    "explanation": "・fancy clothes: 派手な服、高級な服。\n・universal respect: 普遍的な尊敬。"
+  },
+  {
+    "id": "SV_s01e01_267",
+    "englishText": "But there's always been a hole in my heart.",
+    "japaneseTranslation": "しかし、俺の心には常に穴が開いていた。",
+    "explanation": "・a hole in my heart: 心に開いた穴、心の空白。"
+  },
+  {
+    "id": "SV_s01e01_268",
+    "englishText": "Not a literal hole like you would find in some babies with congenital diseases, but a metaphorical hole.",
+    "japaneseTranslation": "先天性疾患を持つ赤ん坊に見られるような文字通りの穴ではなく、比喩的な穴だ。",
+    "explanation": "・literal hole: 文字通りの穴。\n・congenital diseases: 先天性疾患。\n・metaphorical hole: 比喩的な穴。"
+  },
+  {
+    "id": "SV_s01e01_269",
+    "englishText": "I guess that hole is the what if.",
+    "japaneseTranslation": "その穴は「もしも」というものだろうな。",
+    "explanation": "・the what if: 「もしも～だったら」という後悔や未練。"
+  },
+  {
+    "id": "SV_s01e01_270",
+    "englishText": "What if I didn't sell? I'll never know.",
+    "japaneseTranslation": "もし売らなかったらどうなっていた？決して分からないだろう。",
+    "explanation": ""
+  },
+  {
+    "id": "SV_s01e01_271",
+    "englishText": "And so I guess what I'm saying to you now is, you're like me Richard.",
+    "japaneseTranslation": "だから今君に言いたいのは、リチャード、君は俺と同じだということだ。",
+    "explanation": ""
+  },
+  {
+    "id": "SV_s01e01_272",
+    "englishText": "just to be clear, You're all right with me saying no to a deal that will net you a million dollars outright?",
+    "japaneseTranslation": "はっきりさせておきたいんだが、君は俺が100万ドルを丸々手に入れられる取引にノーと言うことに賛成なのか？",
+    "explanation": "・just to be clear: はっきりさせておきたい。\n・all right with: ～に賛成する、～で構わない。\n・net you a million dollars outright: 君に100万ドルを丸々手に入れさせる。"
+  },
+  {
+    "id": "SV_s01e01_273",
+    "englishText": "No, Richard. I'm not all right with it. I'm excited about it. Let's see how high this rocket can fly, partner.",
+    "japaneseTranslation": "いや、リチャード。賛成じゃない。興奮しているんだ。このロケットがどこまで高く飛べるか見てみようじゃないか、相棒。",
+    "explanation": "・excited about it: それに興奮している。\n・how high this rocket can fly: このロケットがどこまで高く飛べるか。"
+  },
+  {
+    "id": "SV_s01e01_274",
+    "englishText": "Guys, can I just kind of say something real quick? I know it's stupid but...",
+    "japaneseTranslation": "みんな、ちょっとだけ早く言ってもいいかな？馬鹿げているのは分かっているけど…",
+    "explanation": "・real quick: 非常に早く、手短に。"
+  },
+  {
+    "id": "SV_s01e01_275",
+    "englishText": "I'd like for this company to just be different than hooli and goolybib and all the rest, you know?",
+    "japaneseTranslation": "この会社がフーリやグーリビブ、その他全てとは違うものになってほしいんだ、わかるだろ？",
+    "explanation": "・different than: ～とは違う。"
+  },
+  {
+    "id": "SV_s01e01_276",
+    "englishText": "Like, let's like not turn this into a corporate cult with bike meetings and voluntary retreats that are actually mandatory.",
+    "japaneseTranslation": "例えば、自転車会議や、実際には強制参加の自主的な研修があるような企業カルトにはしたくないんだ。",
+    "explanation": "・corporate cult: 企業カルト。企業文化が過度に強制的で、従業員が盲目的に従うような状態を指す。\n・voluntary retreats that are actually mandatory: 実際には強制参加の自主的な研修。"
+  },
+  {
+    "id": "SV_s01e01_277",
+    "englishText": "And claiming to make the world a better place all the time. Let's just think different. That's apple.",
+    "japaneseTranslation": "そして、いつも世界をより良い場所にすると主張するのもやめよう。ただ、違う考え方をしよう。それはアップルだ。",
+    "explanation": "・think different: 違う考え方をする。Apple社の有名なスローガン。"
+  },
+  {
+    "id": "SV_s01e01_278",
+    "englishText": "Let's just do it.",
+    "japaneseTranslation": "さあ、やろう。",
+    "explanation": ""
+  },
+  {
+    "id": "SV_s01e01_279",
+    "englishText": "That's Nike, man.",
+    "japaneseTranslation": "それはナイキだぜ、おい。",
+    "explanation": ""
+  },
+  {
+    "id": "SV_s01e01_280",
+    "englishText": "Yeah, I know that's Nike. I don't know, fuck it. Let's just make it happen.",
+    "japaneseTranslation": "ああ、それがナイキだってことは知ってるよ。もういい、クソくらえだ。とにかくやろうぜ。",
+    "explanation": "・fuck it: 「もうどうでもいい」「クソくらえだ」という強い諦めや開き直りを表すスラング。非常に下品な表現。\n・make it happen: それを実現させる、実行する。"
   }
 ]
